@@ -1,0 +1,8 @@
+Mean
+1409.735
+Median
+235
+Standard Deviation
+1948.022
+Standard Error
+21.10941
