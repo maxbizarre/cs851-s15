@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{website:rbarplot}
+R bar plots.
+\newblock http://www.theanalysisfactor.com/r-11-bar-charts/.
+
+\bibitem{website:solrfrontends}
+{SOLR} front ends.
+\newblock https://github.com/ukwa/webarchive-discovery/wiki/Front-ends.
+
+\bibitem{website:pywb}
+User guide for pywb.
+\newblock https://github.com/ikreymer/pywb.
+
+\bibitem{website:wail}
+{WAIL}.
+\newblock http://matkelly.com/wail/.
+
+\bibitem{website:webarchive}
+{WARC} and {ARC} indexing and discovery tools.
+\newblock https://github.com/ukwa/webarchive-discovery.
+
+\bibitem{website:warcmerge}
+{WARC} merge.
+\newblock https://github.com/maturban/WARCMerge.
+
+\end{thebibliography}

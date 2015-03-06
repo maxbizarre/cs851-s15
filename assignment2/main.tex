@@ -1,0 +1,48 @@
+% document class using the Springer publishing company's document class
+\documentclass[envcountsame,envcountchap]{svmono}
+
+% packages to include additional functionality
+\usepackage{makeidx}         % allows index generation
+\usepackage{graphicx}        % standard LaTeX graphics tool
+                             % when including figure files
+\usepackage{multicol}        % used for the two-column index
+\usepackage[bottom]{footmisc}% places footnotes at page bottom
+\usepackage{wrapfig} % for wrapping images with text
+\usepackage{color} % for coloring links
+\usepackage{fancyvrb}
+\usepackage{listings}
+\usepackage{capt-of}
+\usepackage{fixltx2e}
+\usepackage{hyperref}
+\hypersetup{colorlinks=false}
+
+
+\begin{document}
+
+\author{Khaja Masroor Ahmed}
+\title{Assignment 2}
+
+\subtitle{CS 751:  Introduction to Digital Libraries\\Dr. Michael Nelson\\Spring 2015}
+
+% note that this special command is part of the document class
+% and, in addition to creating the title page, also inserts the 
+% current date on the page
+\maketitle
+
+\frontmatter
+
+\tableofcontents
+
+\mainmatter
+
+% include other tex files so we don't have one huge document to scroll through
+\include{question-1}
+\include{question-2}
+\backmatter
+
+% include other tex files
+\bibliographystyle{plain}
+\bibliography{reference}
+\nocite{*}
+
+\end{document}
