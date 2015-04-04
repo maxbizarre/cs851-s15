@@ -55,7 +55,7 @@
 	\item \url{http://her-life-and-health.com/?a=adm}
 	\item \url{https://play.google.com/store/apps/details?id=com.maoline.kindan.droid}
 	\end{itemize}
-\item I noticed that the successful ones had HTML elements such as `<div>', `<p>', etc. with text enclosed within them.
+\item I noticed that the successful ones had HTML elements such as `\textless div\textgreater', `\textless p\textgreater', etc. with text enclosed within them.
 \end{itemize}
 
 \subsection{Boilerpipe Unsuccessful}
@@ -66,9 +66,9 @@
 	\item \url{http://jsm084.wix.com/joy1063}
 	\item \url{http://instagram.com/p/ysl6lgFD_H/}
 	\end{itemize}
-\item Upon further investigation of these HTML pages, I came to a conclusion that the HTML pages for these URIs had only HTML script tags such as `<script>' within them.
+\item Upon further investigation of these HTML pages, I came to a conclusion that the HTML pages for these URIs had only HTML script tags such as `textless script\textgreater' within them.
 \item The boilerpipe is designed the ignore the data enclosed within these script tags.
-\item It is designed to check for data enclosed within the block elements like `<div>', '<p>', etc.
+\item It is designed to check for data enclosed within the block elements like `\textless div\textgreater', '\textless p\textgreater', etc.
 \item For the example listed above, the Instagram URI ran external scripts for fetching the data to be displayed. The HTML page basically consists of scripts to be called and the necessary arguments to be passed to the script to display the necessary content which in this case was a picture and the comments for that picture from other Instagram users.
 \item This is applicable for the rest of the URIs for which boilerpipe was unsuccessful.
 \end{itemize}
