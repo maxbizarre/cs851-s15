@@ -1,0 +1,6 @@
+dp<- read.table('c:/users/kahmed/desktop/boilerpipe.txt', header=T)
+datapoint <- rep(dp[,1])
+xlimit <- c(0,50)
+ylimit <- c(0,45000)
+png("C:/Users/kahmed/Desktop/afterBP.png")
+barplot(datapoint, col='blue',xlim=xlimit,ylim=ylimit, xlab='Word Rank', ylab='Word Frequency', main='Word Rank vs. Word Frequency')

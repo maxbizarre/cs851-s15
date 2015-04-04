@@ -1,3 +1,3 @@
-B <- c(83.1,54,0.1537,0.240)
-png("C:/Users/kahmed/Desktop/uri3.png")
-barplot(B, main="Size for URI#3", xlab="Archive Tool", ylab="Size in MB", names.arg = c("Heritrix", "WARCreate", "webrecorder.io", "wget"))
+B <- c(4804616,1861950)
+png("C:/Users/kahmed/Desktop/wordCount.png")
+barplot(B, main="Word Count HTML vs. Boilerpipe", xlab="", ylab="Word Count", names.arg = c("HTML", "Boilerpipe"))

@@ -1,0 +1,49 @@
+\chapter{Violation of Good Practice: XML and character encodings}
+\label{xml-and-character-encodings} 
+
+The W3C does not consider it good practice to indicate the character encoding of XML documents in protocol headers because the data is self-describing.\cite{ArchOfWWW}
+
+XML documents provide for self-description by specifying character set information, like so:
+{\small
+\begin{Verbatim}[commandchars=\\\{\}]
+    <?xml version="1.0" \colorbox{yellow}{encoding="UTF-8"}?>
+\end{Verbatim}
+}
+
+This is further complicated by the fact that the default encoding for documents with a content type starting with \emph{text/} is assumed to be US-ASCII unless otherwise specified,\cite{ArchOfWWW} so to help the web agent preserve the correct encoding, the \emph{charset} header \textbf{must} be given.
+
+The concern is that the user agent is supposed to determine the character set based on content of the XML document, \textbf{not} from the metadata specified by \emph{Content-Type}.  What if the XML document specifies one encoding and the header specifies something else?  Which should the user agent obey?
+
+CNN does not want to take any chances with the representation referenced by URI {\color{blue} http://rss.cnn.com/rss/cnn\_topstories.rss}, and specifies the encoding \emph{ISO-8859-1} in the headers anyway:
+{\small
+\begin{Verbatim}[commandchars=\\\{\}]
+    22:45:19 smj@coyote:~/Documents/Projects/Current/CS751/Assignment1
+    $ --> nc rss.cnn.com 80
+    HEAD /rss/cnn_topstories.rss HTTP/1.1
+    Connection: close
+    Host: rss.cnn.com
+    
+    HTTP/1.1 200 OK
+    Content-Type: text/xml; \colorbox{yellow}{charset=ISO-8859-1}
+    ETag: 6f/V+d5nBJ7LtJ/yjXR1Pbt+IGk
+    Last-Modified: Tue, 01 Feb 2011 03:46:02 GMT
+    Date: Tue, 01 Feb 2011 03:46:30 GMT
+    Expires: Tue, 01 Feb 2011 03:46:30 GMT
+    Cache-Control: private, max-age=0
+    X-Content-Type-Options: nosniff
+    X-XSS-Protection: 1; mode=block
+    Server: GSE
+    Connection: close
+\end{Verbatim}
+}
+
+The top of the document retrieved specifies its character set as well:
+{\small
+\begin{Verbatim}[commandchars=\\\{\}]
+    <?xml version="1.0" encoding="ISO-8859-1"?>
+\end{Verbatim}
+}
+
+Again, which is the web agent supposed to use, the header's \emph{charset} or the XML document's \emph{encoding}?  What if they turned out to be different?
+
+This is only a problem with representations of XML documents provided with a content type of \emph{text/} specified in their protocol headers, as those using \emph{application/} do not need to specify encodings, nor should they because the XML document already contains the encoding.

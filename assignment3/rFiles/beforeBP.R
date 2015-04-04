@@ -1,0 +1,6 @@
+dp <- read.table('c:/users/kahmed/desktop/html.txt', header=T)
+datapoint <- rep(dp[,1])
+xlimit <- c(0,50)
+ylimit <- c(0,150000)
+png("C:/Users/kahmed/Desktop/beforeBP.png")
+barplot(datapoint, col='blue',xlim=xlimit,ylim=ylimit, xlab='Word Rank', ylab='Word Frequency', main='Word Rank vs. Word Frequency')

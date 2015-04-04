@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{website:boilerpipe}
+Boilerpipe in python.
+\newblock https://github.com/misja/python-boilerpipe.
+
+\bibitem{website:bar}
+Draw bar plots in {R}.
+\newblock http://www.statmethods.net/graphs/bar.html.
+
+\bibitem{website:latextables}
+Draw tables in {LaTex}.
+\newblock http://en.wikibooks.org/wiki/LaTeX/Tables.
+
+\bibitem{website:dictionary}
+Python sort dictionary by key.
+\newblock
+  http://stackoverflow.com/questions/9001509/how-can-i-sort-a-python-dictionary-sort-by-key.
+
+\bibitem{website:wordlist}
+Stop word list.
+\newblock http://www.ranks.nl/stopwords.
+
+\bibitem{website:zipfs}
+Zipf's law.
+\newblock http://en.wikipedia.org/wiki/Zipf%27s_law.
+
+\end{thebibliography}

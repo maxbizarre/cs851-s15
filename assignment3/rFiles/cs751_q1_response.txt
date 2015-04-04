@@ -1,0 +1,31 @@
+I used the boilerpipe library on python. I installed the library on the linux machine using the command `sudo pip install boilerpipe'.
+
+I hosted the html files that I downloaded from the first assignment on the CS public_html folder 'cs.odu.edu/~kahmed/cs751/a3/'. I hosted it so I could use the boilerpipe library to remove the templates.
+
+From the 10000 URIs I was able to retrieve the data for 9978 URIs. The files were not created for the URIs which returned a 404 response. From the remaining URIs I was able to retrieve 8476 URIs as some of them did not have any HTML data.
+
+From the 8476 URIs that remained after successful retrieval of HTML content, the boilerpipe was successful for 6275 URIs. Below is a comparison of the data before and after running them through the boilerpipe.
+
+Insert wordCount.png
+Insert uniqueCount.png
+Insert byteSize.png
+
+I used python to retrieve this information for individual files and then used Microsoft Excel to get the total number of words in each case.
+
+A few examples of successful boilerpipe retrieval are:
+
+http://her-life-and-health.com/?a=adm
+https://play.google.com/store/apps/details?id=com.maoline.kindan.droid
+
+I selected a few URIs for which the boilerpipe was successful and I noticed that the successful ones had HTML elements such as `<div>', `<p>', etc. with text enclosed within them.
+
+A few examples of unsuccessful boilerpipe retrieval are:
+
+http://jsm084.wix.com/joy1063
+http://instagram.com/p/ysl6lgFD_H/
+
+I performed the same activity of selecting URIs for which boilerpipe was unsuccessful. Upon further investigation of these HTML pages, I came to a conclusion that the HTML pages for these URIs had only HTML script tags such as `<script>' with them. The boilerpipe is designed the ignore the data enclosed within these script tags. It is designed to check for data enclosed within the block elements like `<div>', '<p>', etc.
+
+For the examples listed above, the Instagram URI ran external scripts for fetching the data to be displayed. The HTML pages basically consisted of the scripts to be called and the necessary arguments to be passed to the script to display the necessary content which in this case was a picture and the comments for that picture from other Instagram users.
+
+Insert Code Listing
