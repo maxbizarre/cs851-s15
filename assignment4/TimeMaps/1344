@@ -1,0 +1,14 @@
+{"original_uri":"http://mirumiru77.shop-pro.jp/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mirumiru77.shop-pro.jp/",
+"mementos": {
+"list": [
+{"datetime":"2014-04-10T04:43:27Z",
+"uri":"http://web.archive.org/web/20140410044327/http://mirumiru77.shop-pro.jp/"
+},
+{"datetime":"2014-04-11T13:32:06Z",
+"uri":"http://web.archive.org/web/20140411133206/http://mirumiru77.shop-pro.jp/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mirumiru77.shop-pro.jp/"}
+ }

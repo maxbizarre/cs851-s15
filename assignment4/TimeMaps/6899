@@ -1,0 +1,29 @@
+{"original_uri":"http://coe-mlk.tumblr.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://coe-mlk.tumblr.com/",
+"mementos": {
+"list": [
+{"datetime":"2012-12-22T04:19:32Z",
+"uri":"http://web.archive.org/web/20121222041932/http://coe-mlk.tumblr.com/"
+},
+{"datetime":"2013-02-22T18:42:44Z",
+"uri":"http://web.archive.org/web/20130222184244/http://coe-mlk.tumblr.com/"
+},
+{"datetime":"2013-05-02T05:21:10Z",
+"uri":"http://web.archive.org/web/20130502052110/http://coe-mlk.tumblr.com/"
+},
+{"datetime":"2013-05-10T20:27:00Z",
+"uri":"http://web.archive.org/web/20130510202700/http://coe-mlk.tumblr.com/"
+},
+{"datetime":"2013-05-13T15:06:33Z",
+"uri":"http://web.archive.org/web/20130513150633/http://coe-mlk.tumblr.com/"
+},
+{"datetime":"2013-05-15T16:39:27Z",
+"uri":"http://web.archive.org/web/20130515163927/http://coe-mlk.tumblr.com/"
+},
+{"datetime":"2014-07-06T18:27:11Z",
+"uri":"http://web.archive.org/web/20140706182711/http://coe-mlk.tumblr.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://coe-mlk.tumblr.com/"}
+ }

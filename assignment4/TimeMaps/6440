@@ -1,0 +1,38 @@
+{"original_uri":"http://vine.co/v/OXglvW6DPI3",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://vine.co/v/OXglvW6DPI3",
+"mementos": {
+"list": [
+{"datetime":"2015-01-11T13:33:20Z",
+"uri":"http://web.archive.org/web/20150111133320/https://vine.co/v/OXglvW6DPI3"
+},
+{"datetime":"2015-01-13T13:56:37Z",
+"uri":"//wayback.archive-it.org/all/20150113135637/http://vine.co/v/OXglvW6DPI3"
+},
+{"datetime":"2015-01-13T13:56:37Z",
+"uri":"http://web.archive.org/web/20150113135637/http://vine.co/v/OXglvW6DPI3"
+},
+{"datetime":"2015-01-13T13:56:38Z",
+"uri":"//wayback.archive-it.org/all/20150113135638/https://vine.co/v/OXglvW6DPI3"
+},
+{"datetime":"2015-01-13T13:56:38Z",
+"uri":"http://web.archive.org/web/20150113135638/https://vine.co/v/OXglvW6DPI3"
+},
+{"datetime":"2015-01-14T05:55:12Z",
+"uri":"http://web.archive.org/web/20150114055512/https://vine.co/v/OXglvW6DPI3"
+},
+{"datetime":"2015-01-14T09:42:58Z",
+"uri":"http://web.archive.org/web/20150114094258/https://vine.co/v/OXglvW6DPI3"
+},
+{"datetime":"2015-03-20T00:02:43Z",
+"uri":"//wayback.archive-it.org/all/20150320000243/http://vine.co/v/OXglvW6DPI3"
+},
+{"datetime":"2015-03-20T00:02:43Z",
+"uri":"//wayback.archive-it.org/all/20150320000243/http://vine.co/v/OXglvW6DPI3"
+},
+{"datetime":"2015-03-20T00:02:43Z",
+"uri":"http://web.archive.org/web/20150320000243/http://vine.co/v/OXglvW6DPI3"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://vine.co/v/OXglvW6DPI3"}
+ }

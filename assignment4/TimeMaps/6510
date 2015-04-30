@@ -1,0 +1,14 @@
+{"original_uri":"http://paper.li/tate_tweet",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paper.li/tate_tweet",
+"mementos": {
+"list": [
+{"datetime":"2013-04-04T01:16:54Z",
+"uri":"http://web.archive.org/web/20130404011654/http://paper.li/tate_tweet"
+},
+{"datetime":"2013-04-07T14:14:17Z",
+"uri":"http://web.archive.org/web/20130407141417/http://paper.li/tate_tweet"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paper.li/tate_tweet"}
+ }

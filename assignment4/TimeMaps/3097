@@ -1,0 +1,11 @@
+{"original_uri":"http://my-tiny.com/nnbl/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://my-tiny.com/nnbl/",
+"mementos": {
+"list": [
+{"datetime":"2014-04-02T11:12:35Z",
+"uri":"http://web.archive.org/web/20140402111235/http://my-tiny.com/nnbl/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://my-tiny.com/nnbl/"}
+ }

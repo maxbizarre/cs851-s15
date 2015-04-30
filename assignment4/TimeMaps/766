@@ -1,0 +1,44 @@
+{"original_uri":"http://PageCraftWriting.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://PageCraftWriting.com",
+"mementos": {
+"list": [
+{"datetime":"2014-12-17T14:47:36Z",
+"uri":"http://web.archive.org/web/20141217144736/http://www.pagecraftwriting.com/"
+},
+{"datetime":"2014-12-17T14:47:41Z",
+"uri":"http://web.archive.org/web/20141217144741/http://pagecraftwriting.com/"
+},
+{"datetime":"2014-12-18T08:58:41Z",
+"uri":"http://web.archive.org/web/20141218085841/http://www.pagecraftwriting.com/"
+},
+{"datetime":"2014-12-18T08:58:46Z",
+"uri":"http://web.archive.org/web/20141218085846/http://pagecraftwriting.com/"
+},
+{"datetime":"2014-12-20T08:17:07Z",
+"uri":"http://web.archive.org/web/20141220081707/http://www.pagecraftwriting.com/"
+},
+{"datetime":"2014-12-22T02:13:20Z",
+"uri":"http://web.archive.org/web/20141222021320/http://pagecraftwriting.com/"
+},
+{"datetime":"2015-02-04T11:06:22Z",
+"uri":"http://web.archive.org/web/20150204110622/http://www.pagecraftwriting.com/"
+},
+{"datetime":"2015-02-04T11:06:26Z",
+"uri":"http://web.archive.org/web/20150204110626/http://pagecraftwriting.com/"
+},
+{"datetime":"2015-02-09T07:48:45Z",
+"uri":"http://web.archive.org/web/20150209074845/http://www.pagecraftwriting.com/"
+},
+{"datetime":"2015-02-09T07:48:50Z",
+"uri":"http://web.archive.org/web/20150209074850/http://pagecraftwriting.com/"
+},
+{"datetime":"2015-03-23T01:26:41Z",
+"uri":"http://web.archive.org/web/20150323012641/http://www.pagecraftwriting.com/"
+},
+{"datetime":"2015-03-23T01:26:48Z",
+"uri":"http://web.archive.org/web/20150323012648/http://pagecraftwriting.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://PageCraftWriting.com"}
+ }

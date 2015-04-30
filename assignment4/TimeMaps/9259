@@ -1,0 +1,50 @@
+{"original_uri":"http://www.cnbc.com/id/102396427",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.cnbc.com/id/102396427",
+"mementos": {
+"list": [
+{"datetime":"2015-04-05T06:47:23Z",
+"uri":"http://web.archive.org/web/20150405064723/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-06T04:46:35Z",
+"uri":"http://web.archive.org/web/20150406044635/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-07T02:43:33Z",
+"uri":"http://web.archive.org/web/20150407024333/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-08T04:15:30Z",
+"uri":"http://web.archive.org/web/20150408041530/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-09T05:38:24Z",
+"uri":"http://web.archive.org/web/20150409053824/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-10T06:33:37Z",
+"uri":"http://web.archive.org/web/20150410063337/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-15T09:58:44Z",
+"uri":"http://web.archive.org/web/20150415095844/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-16T13:32:14Z",
+"uri":"http://web.archive.org/web/20150416133214/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-17T14:06:19Z",
+"uri":"http://web.archive.org/web/20150417140619/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-18T12:32:07Z",
+"uri":"http://web.archive.org/web/20150418123207/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-20T08:28:51Z",
+"uri":"http://web.archive.org/web/20150420082851/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-21T13:18:56Z",
+"uri":"http://web.archive.org/web/20150421131856/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-22T09:31:05Z",
+"uri":"http://web.archive.org/web/20150422093105/http://www.cnbc.com/id/102396427"
+},
+{"datetime":"2015-04-25T20:47:08Z",
+"uri":"http://web.archive.org/web/20150425204708/http://www.cnbc.com/id/102396427"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.cnbc.com/id/102396427"}
+ }

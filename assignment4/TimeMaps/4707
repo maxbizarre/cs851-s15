@@ -1,0 +1,11 @@
+{"original_uri":"http://www.fashion-press.net/news/13885",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.fashion-press.net/news/13885",
+"mementos": {
+"list": [
+{"datetime":"2015-03-29T22:21:05Z",
+"uri":"http://web.archive.org/web/20150329222105/http://www.fashion-press.net/news/13885"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.fashion-press.net/news/13885"}
+ }

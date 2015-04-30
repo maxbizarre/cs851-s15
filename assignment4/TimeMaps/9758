@@ -1,0 +1,11 @@
+{"original_uri":"http://boleznikogi.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://boleznikogi.com/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-08T04:20:23Z",
+"uri":"http://web.archive.org/web/20150208042023/http://boleznikogi.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://boleznikogi.com/"}
+ }

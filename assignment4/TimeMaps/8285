@@ -1,0 +1,23 @@
+{"original_uri":"http://contentmarketinginstitute.com/2015/02/content-marketing-playlist/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://contentmarketinginstitute.com/2015/02/content-marketing-playlist/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-17T00:24:09Z",
+"uri":"http://web.archive.org/web/20150317002409/http://contentmarketinginstitute.com/2015/02/content-marketing-playlist/"
+},
+{"datetime":"2015-03-19T14:37:19Z",
+"uri":"http://web.archive.org/web/20150319143719/http://contentmarketinginstitute.com/2015/02/content-marketing-playlist/"
+},
+{"datetime":"2015-04-05T13:54:30Z",
+"uri":"http://web.archive.org/web/20150405135430/http://contentmarketinginstitute.com/2015/02/content-marketing-playlist/"
+},
+{"datetime":"2015-04-14T01:20:36Z",
+"uri":"http://web.archive.org/web/20150414012036/http://contentmarketinginstitute.com/2015/02/content-marketing-playlist/"
+},
+{"datetime":"2015-04-21T02:55:33Z",
+"uri":"http://web.archive.org/web/20150421025533/http://contentmarketinginstitute.com/2015/02/content-marketing-playlist/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://contentmarketinginstitute.com/2015/02/content-marketing-playlist/"}
+ }

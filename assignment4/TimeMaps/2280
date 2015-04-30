@@ -1,0 +1,14 @@
+{"original_uri":"http://www.librered.net/?p=37189",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.librered.net/?p=37189",
+"mementos": {
+"list": [
+{"datetime":"2015-03-18T05:09:05Z",
+"uri":"http://web.archive.org/web/20150318050905/http://www.librered.net/?p=37189"
+},
+{"datetime":"2015-04-05T08:19:44Z",
+"uri":"http://web.archive.org/web/20150405081944/http://www.librered.net/?p=37189"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.librered.net/?p=37189"}
+ }

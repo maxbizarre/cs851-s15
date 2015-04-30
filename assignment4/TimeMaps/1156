@@ -1,0 +1,14 @@
+{"original_uri":"http://www.bigcommerce.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bigcommerce.com/",
+"timemap_index": [
+{"from":"2002-03-05T22:12:22Z",
+"until":"2012-05-05T23:20:28Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.bigcommerce.com/"
+},{"from":"2012-05-07T01:30:59Z",
+"until":"2014-01-16T18:24:50Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.bigcommerce.com/"
+},{"from":"2014-01-16T19:02:03Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.bigcommerce.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.bigcommerce.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.bigcommerce.com/"
+}}

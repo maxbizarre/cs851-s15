@@ -1,0 +1,17 @@
+{"original_uri":"http://j-lyric.net/artist/a000611/l01fbb3.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://j-lyric.net/artist/a000611/l01fbb3.html",
+"mementos": {
+"list": [
+{"datetime":"2013-02-26T22:01:33Z",
+"uri":"http://web.archive.org/web/20130226220133/http://j-lyric.net/artist/a000611/l01fbb3.html"
+},
+{"datetime":"2014-08-26T09:19:26Z",
+"uri":"http://web.archive.org/web/20140826091926/http://j-lyric.net/artist/a000611/l01fbb3.html"
+},
+{"datetime":"2015-04-21T03:49:05Z",
+"uri":"http://web.archive.org/web/20150421034905/http://j-lyric.net/artist/a000611/l01fbb3.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://j-lyric.net/artist/a000611/l01fbb3.html"}
+ }

@@ -1,0 +1,14 @@
+{"original_uri":"http://twitpic.com/e4fpui",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitpic.com/e4fpui",
+"mementos": {
+"list": [
+{"datetime":"2014-10-27T15:59:05Z",
+"uri":"http://web.archive.org/web/20141027155905/http://twitpic.com/e4fpui"
+},
+{"datetime":"2014-10-27T15:59:29Z",
+"uri":"http://web.archive.org/web/20141027155929/http://twitpic.com/e4fpui"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitpic.com/e4fpui"}
+ }

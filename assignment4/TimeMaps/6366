@@ -1,0 +1,14 @@
+{"original_uri":"http://www.huffingtonpost.com/2015/02/03/the-art-of-saving-a-life_n_6600026.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.huffingtonpost.com/2015/02/03/the-art-of-saving-a-life_n_6600026.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T09:06:50Z",
+"uri":"http://web.archive.org/web/20150204090650/http://www.huffingtonpost.com/2015/02/03/the-art-of-saving-a-life_n_6600026.html"
+},
+{"datetime":"2015-04-23T23:58:08Z",
+"uri":"http://web.archive.org/web/20150423235808/http://www.huffingtonpost.com/2015/02/03/the-art-of-saving-a-life_n_6600026.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.huffingtonpost.com/2015/02/03/the-art-of-saving-a-life_n_6600026.html"}
+ }

@@ -1,0 +1,17 @@
+{"original_uri":"http://www.2partsanalog.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.2partsanalog.com",
+"mementos": {
+"list": [
+{"datetime":"2014-09-05T09:37:05Z",
+"uri":"http://web.archive.org/web/20140905093705/http://www.2partsanalog.com/"
+},
+{"datetime":"2014-10-10T11:17:56Z",
+"uri":"http://web.archive.org/web/20141010111756/http://www.2partsanalog.com/"
+},
+{"datetime":"2015-02-03T18:52:58Z",
+"uri":"http://web.archive.org/web/20150203185258/http://www.2partsanalog.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.2partsanalog.com"}
+ }

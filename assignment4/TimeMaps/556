@@ -1,0 +1,11 @@
+{"original_uri":"http://cockyboys.com/movietour/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cockyboys.com/movietour/",
+"timemap_index": [
+{"from":"2011-05-05T06:46:46Z",
+"until":"2014-01-26T14:40:29Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://cockyboys.com/movietour/"
+},{"from":"2014-01-30T22:02:43Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://cockyboys.com/movietour/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://cockyboys.com/movietour/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://cockyboys.com/movietour/"
+}}

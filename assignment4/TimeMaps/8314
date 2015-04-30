@@ -1,0 +1,20 @@
+{"original_uri":"http://getnews.jp/archives/803603",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://getnews.jp/archives/803603",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T03:06:27Z",
+"uri":"http://web.archive.org/web/20150205030627/http://getnews.jp/archives/803603"
+},
+{"datetime":"2015-02-05T03:06:37Z",
+"uri":"http://archive.is/20150205030637/http://getnews.jp/archives/803603"
+},
+{"datetime":"2015-03-17T00:56:19Z",
+"uri":"http://web.archive.org/web/20150317005619/http://getnews.jp/archives/803603"
+},
+{"datetime":"2015-04-18T18:37:53Z",
+"uri":"http://web.archive.org/web/20150418183753/http://getnews.jp/archives/803603"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://getnews.jp/archives/803603"}
+ }

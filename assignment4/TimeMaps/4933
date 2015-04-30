@@ -1,0 +1,14 @@
+{"original_uri":"http://www.amazon.com/dp/B0059K1DXO?tag=geolinker-20",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.amazon.com/dp/B0059K1DXO?tag=geolinker-20",
+"mementos": {
+"list": [
+{"datetime":"2015-01-21T20:36:05Z",
+"uri":"//wayback.archive-it.org/all/20150121203605/http://www.amazon.com/dp/B0059K1DXO?tag=geolinker-20"
+},
+{"datetime":"2015-01-21T20:36:05Z",
+"uri":"http://web.archive.org/web/20150121203605/http://www.amazon.com/dp/B0059K1DXO?tag=geolinker-20"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.amazon.com/dp/B0059K1DXO?tag=geolinker-20"}
+ }

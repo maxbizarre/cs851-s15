@@ -1,0 +1,23 @@
+{"original_uri":"http://www.youtube.com/watch?v=dJfHH5iMDeM",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=dJfHH5iMDeM",
+"mementos": {
+"list": [
+{"datetime":"2011-12-23T23:14:09Z",
+"uri":"//wayback.archive-it.org/all/20111223231409/http://www.youtube.com/watch?v=dJfHH5iMDeM"
+},
+{"datetime":"2011-12-23T23:14:09Z",
+"uri":"http://web.archive.org/web/20111223231409/http://www.youtube.com/watch?v=dJfHH5iMDeM"
+},
+{"datetime":"2012-02-24T00:26:33Z",
+"uri":"//wayback.archive-it.org/all/20120224002633/http://www.youtube.com/watch?v=dJfHH5iMDeM"
+},
+{"datetime":"2012-02-24T00:26:33Z",
+"uri":"http://web.archive.org/web/20120224002633/http://www.youtube.com/watch?v=dJfHH5iMDeM"
+},
+{"datetime":"2012-07-21T17:10:59Z",
+"uri":"http://web.archive.org/web/20120721171059/http://www.youtube.com/watch?v=dJfHH5iMDeM&feature=related"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=dJfHH5iMDeM"}
+ }

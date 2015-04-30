@@ -1,0 +1,26 @@
+{"original_uri":"http://cuse.com/news/2015/2/4/GEN_0204153047.aspx",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cuse.com/news/2015/2/4/GEN_0204153047.aspx",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T00:08:12Z",
+"uri":"http://archive.is/20150205000812/http://cuse.com/news/2015/2/4/GEN_0204153047.aspx"
+},
+{"datetime":"2015-02-05T03:19:51Z",
+"uri":"http://web.archive.org/web/20150205031951/http://cuse.com/news/2015/2/4/GEN_0204153047.aspx"
+},
+{"datetime":"2015-02-06T13:35:18Z",
+"uri":"http://web.archive.org/web/20150206133518/http://cuse.com/news/2015/2/4/GEN_0204153047.aspx"
+},
+{"datetime":"2015-02-06T13:35:18Z",
+"uri":"//wayback.archive-it.org/all/20150206133518/http://cuse.com/news/2015/2/4/GEN_0204153047.aspx"
+},
+{"datetime":"2015-03-30T01:39:18Z",
+"uri":"http://web.archive.org/web/20150330013918/http://cuse.com/news/2015/2/4/GEN_0204153047.aspx"
+},
+{"datetime":"2015-04-06T00:08:13Z",
+"uri":"http://web.archive.org/web/20150406000813/http://www.cuse.com/news/2015/2/4/GEN_0204153047.aspx"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://cuse.com/news/2015/2/4/GEN_0204153047.aspx"}
+ }

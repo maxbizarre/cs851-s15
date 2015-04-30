@@ -1,0 +1,29 @@
+{"original_uri":"http://laravel.com/docs/5.0",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://laravel.com/docs/5.0",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T18:47:43Z",
+"uri":"http://archive.is/20150204184743/http://laravel.com/docs/5.0"
+},
+{"datetime":"2015-02-06T15:48:17Z",
+"uri":"http://web.archive.org/web/20150206154817/http://laravel.com/docs/5.0"
+},
+{"datetime":"2015-02-16T00:17:48Z",
+"uri":"http://web.archive.org/web/20150216001748/http://laravel.com/docs/5.0"
+},
+{"datetime":"2015-02-16T21:44:02Z",
+"uri":"http://web.archive.org/web/20150216214402/http://laravel.com/docs/5.0"
+},
+{"datetime":"2015-03-14T00:01:17Z",
+"uri":"http://web.archive.org/web/20150314000117/http://laravel.com/docs/5.0"
+},
+{"datetime":"2015-03-14T23:54:54Z",
+"uri":"http://web.archive.org/web/20150314235454/http://laravel.com/docs/5.0"
+},
+{"datetime":"2015-03-31T03:46:39Z",
+"uri":"http://web.archive.org/web/20150331034639/http://laravel.com/docs/5.0"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://laravel.com/docs/5.0"}
+ }

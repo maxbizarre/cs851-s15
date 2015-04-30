@@ -1,0 +1,62 @@
+{"original_uri":"http://www.rad.co/us/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.rad.co/us/",
+"mementos": {
+"list": [
+{"datetime":"2014-05-29T05:03:06Z",
+"uri":"http://web.archive.org/web/20140529050306/http://www.rad.co/us/"
+},
+{"datetime":"2014-06-10T06:53:01Z",
+"uri":"http://web.archive.org/web/20140610065301/http://www.rad.co/us/"
+},
+{"datetime":"2014-06-25T22:56:08Z",
+"uri":"http://web.archive.org/web/20140625225608/http://www.rad.co/us/"
+},
+{"datetime":"2014-09-11T15:49:26Z",
+"uri":"http://archive.is/20140911154926/http://www.rad.co/us/"
+},
+{"datetime":"2014-09-12T09:33:31Z",
+"uri":"http://web.archive.org/web/20140912093331/http://www.rad.co/us/"
+},
+{"datetime":"2014-09-24T10:25:45Z",
+"uri":"http://web.archive.org/web/20140924102545/http://www.rad.co/us/"
+},
+{"datetime":"2014-10-15T09:32:15Z",
+"uri":"http://web.archive.org/web/20141015093215/http://www.rad.co/us/"
+},
+{"datetime":"2014-12-13T21:10:25Z",
+"uri":"http://web.archive.org/web/20141213211025/http://www.rad.co/us/"
+},
+{"datetime":"2014-12-16T04:42:16Z",
+"uri":"//wayback.archive-it.org/all/20141216044216/http://www.rad.co/us/"
+},
+{"datetime":"2014-12-16T04:42:16Z",
+"uri":"http://web.archive.org/web/20141216044216/http://www.rad.co/us/"
+},
+{"datetime":"2014-12-17T18:46:49Z",
+"uri":"http://web.archive.org/web/20141217184649/http://www.rad.co/us/"
+},
+{"datetime":"2014-12-24T19:28:13Z",
+"uri":"http://web.archive.org/web/20141224192813/http://www.rad.co/us/"
+},
+{"datetime":"2014-12-30T14:08:10Z",
+"uri":"http://web.archive.org/web/20141230140810/http://www.rad.co/us/"
+},
+{"datetime":"2015-01-13T06:28:49Z",
+"uri":"//wayback.archive-it.org/all/20150113062849/http://www.rad.co/us/"
+},
+{"datetime":"2015-01-13T06:28:49Z",
+"uri":"http://web.archive.org/web/20150113062849/http://www.rad.co/us/"
+},
+{"datetime":"2015-01-13T06:31:08Z",
+"uri":"//wayback.archive-it.org/all/20150113063108/https://www.rad.co/us/"
+},
+{"datetime":"2015-03-07T14:08:31Z",
+"uri":"http://archive.is/20150307140831/http://www.rad.co/us/"
+},
+{"datetime":"2015-03-15T12:59:11Z",
+"uri":"http://web.archive.org/web/20150315125911/http://www.rad.co/us/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.rad.co/us/"}
+ }

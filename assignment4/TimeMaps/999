@@ -1,0 +1,11 @@
+{"original_uri":"http://www.grnow.com/restaurants/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.grnow.com/restaurants/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-15T03:45:27Z",
+"uri":"http://web.archive.org/web/20150315034527/http://www.grnow.com/restaurants/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.grnow.com/restaurants/"}
+ }

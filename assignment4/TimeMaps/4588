@@ -1,0 +1,11 @@
+{"original_uri":"http://www.traffic-update.co.uk/regions/northumberland/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.traffic-update.co.uk/regions/northumberland/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-04T00:13:15Z",
+"uri":"http://web.archive.org/web/20150404001315/http://www.traffic-update.co.uk/regions/northumberland/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.traffic-update.co.uk/regions/northumberland/"}
+ }

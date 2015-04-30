@@ -1,0 +1,11 @@
+{"original_uri":"http://eweather.tk/Al%20Riyadh/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://eweather.tk/Al%20Riyadh/",
+"mementos": {
+"list": [
+{"datetime":"2013-03-27T05:55:26Z",
+"uri":"http://web.archive.org/web/20130327055526/http://eweather.tk/Al%20Riyadh"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://eweather.tk/Al%20Riyadh/"}
+ }

@@ -1,0 +1,35 @@
+{"original_uri":"http://emeraldcoastadvantage.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://emeraldcoastadvantage.com/",
+"mementos": {
+"list": [
+{"datetime":"2004-04-11T02:43:51Z",
+"uri":"http://web.archive.org/web/20040411024351/http://emeraldcoastadvantage.com/"
+},
+{"datetime":"2004-05-24T11:23:08Z",
+"uri":"http://web.archive.org/web/20040524112308/http://emeraldcoastadvantage.com/"
+},
+{"datetime":"2004-09-01T06:24:53Z",
+"uri":"http://web.archive.org/web/20040901062453/http://emeraldcoastadvantage.com/"
+},
+{"datetime":"2004-09-25T17:34:27Z",
+"uri":"http://web.archive.org/web/20040925173427/http://emeraldcoastadvantage.com/"
+},
+{"datetime":"2004-11-26T08:07:51Z",
+"uri":"http://web.archive.org/web/20041126080751/http://emeraldcoastadvantage.com/"
+},
+{"datetime":"2005-02-11T11:47:02Z",
+"uri":"http://web.archive.org/web/20050211114702/http://emeraldcoastadvantage.com/"
+},
+{"datetime":"2014-08-23T19:49:10Z",
+"uri":"http://web.archive.org/web/20140823194910/http://emeraldcoastadvantage.com/"
+},
+{"datetime":"2014-10-20T02:34:04Z",
+"uri":"http://web.archive.org/web/20141020023404/http://emeraldcoastadvantage.com/"
+},
+{"datetime":"2014-12-17T06:25:17Z",
+"uri":"http://web.archive.org/web/20141217062517/http://emeraldcoastadvantage.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://emeraldcoastadvantage.com/"}
+ }

@@ -1,0 +1,17 @@
+{"original_uri":"http://www.Cuituremind.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.Cuituremind.com",
+"mementos": {
+"list": [
+{"datetime":"2015-03-19T23:30:53Z",
+"uri":"//wayback.archive-it.org/all/20150319233053/http://cuituremind.com/"
+},
+{"datetime":"2015-03-19T23:30:53Z",
+"uri":"http://web.archive.org/web/20150319233053/http://cuituremind.com/"
+},
+{"datetime":"2015-04-11T04:04:39Z",
+"uri":"http://web.archive.org/web/20150411040439/http://cuituremind.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.Cuituremind.com"}
+ }

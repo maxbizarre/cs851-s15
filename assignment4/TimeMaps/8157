@@ -1,0 +1,17 @@
+{"original_uri":"http://uneimagedamour.tumblr.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://uneimagedamour.tumblr.com",
+"mementos": {
+"list": [
+{"datetime":"2014-05-17T15:08:53Z",
+"uri":"http://web.archive.org/web/20140517150853/http://uneimagedamour.tumblr.com/"
+},
+{"datetime":"2014-06-25T21:39:32Z",
+"uri":"http://web.archive.org/web/20140625213932/http://uneimagedamour.tumblr.com/"
+},
+{"datetime":"2015-03-21T17:46:57Z",
+"uri":"http://web.archive.org/web/20150321174657/http://uneimagedamour.tumblr.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://uneimagedamour.tumblr.com"}
+ }

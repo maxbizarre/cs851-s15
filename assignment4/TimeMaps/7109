@@ -1,0 +1,44 @@
+{"original_uri":"http://stowawaycosmetics.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://stowawaycosmetics.com/",
+"mementos": {
+"list": [
+{"datetime":"2014-07-15T02:03:37Z",
+"uri":"http://web.archive.org/web/20140715020337/http://www.stowawaycosmetics.com/"
+},
+{"datetime":"2014-08-05T07:13:01Z",
+"uri":"http://web.archive.org/web/20140805071301/http://www.stowawaycosmetics.com/"
+},
+{"datetime":"2014-09-13T23:21:53Z",
+"uri":"http://web.archive.org/web/20140913232153/http://www.stowawaycosmetics.com/"
+},
+{"datetime":"2014-12-24T17:13:21Z",
+"uri":"http://web.archive.org/web/20141224171321/http://www.stowawaycosmetics.com/"
+},
+{"datetime":"2015-02-12T02:35:41Z",
+"uri":"http://web.archive.org/web/20150212023541/http://www.stowawaycosmetics.com/"
+},
+{"datetime":"2015-02-12T06:10:26Z",
+"uri":"http://web.archive.org/web/20150212061026/http://stowawaycosmetics.com/"
+},
+{"datetime":"2015-02-17T23:15:37Z",
+"uri":"http://web.archive.org/web/20150217231537/http://www.stowawaycosmetics.com/"
+},
+{"datetime":"2015-03-14T19:14:40Z",
+"uri":"http://web.archive.org/web/20150314191440/http://stowawaycosmetics.com/"
+},
+{"datetime":"2015-03-15T00:29:45Z",
+"uri":"http://web.archive.org/web/20150315002945/https://stowawaycosmetics.com/"
+},
+{"datetime":"2015-03-19T19:04:45Z",
+"uri":"http://web.archive.org/web/20150319190445/http://stowawaycosmetics.com/"
+},
+{"datetime":"2015-03-28T11:40:44Z",
+"uri":"http://web.archive.org/web/20150328114044/https://www.stowawaycosmetics.com/"
+},
+{"datetime":"2015-04-06T17:49:49Z",
+"uri":"http://archive.is/20150406174949/http://stowawaycosmetics.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://stowawaycosmetics.com/"}
+ }

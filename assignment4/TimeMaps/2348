@@ -1,0 +1,14 @@
+{"original_uri":"http://www.twitch.tv/lightstormclaw",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.twitch.tv/lightstormclaw",
+"mementos": {
+"list": [
+{"datetime":"2015-01-09T07:32:47Z",
+"uri":"//wayback.archive-it.org/all/20150109073247/http://twitch.tv/lightstormclaw"
+},
+{"datetime":"2015-01-09T07:32:47Z",
+"uri":"http://web.archive.org/web/20150109073247/http://twitch.tv/lightstormclaw"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.twitch.tv/lightstormclaw"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://saratov.1gs.ru/p/82906.1gs",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://saratov.1gs.ru/p/82906.1gs",
+"mementos": {
+"list": [
+{"datetime":"2015-03-20T22:49:13Z",
+"uri":"http://web.archive.org/web/20150320224913/http://saratov.1gs.ru/p/82906.1gs"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://saratov.1gs.ru/p/82906.1gs"}
+ }

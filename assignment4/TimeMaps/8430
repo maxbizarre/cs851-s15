@@ -1,0 +1,32 @@
+{"original_uri":"http://www.ragazzeinvendita.com/?rcid=976",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.ragazzeinvendita.com/?rcid=976",
+"mementos": {
+"list": [
+{"datetime":"2010-07-12T07:36:41Z",
+"uri":"http://web.archive.org/web/20100712073641/http://www.ragazzeinvendita.com/?rcid=976"
+},
+{"datetime":"2010-12-04T04:27:34Z",
+"uri":"http://web.archive.org/web/20101204042734/http://www.ragazzeinvendita.com/?rcid=976"
+},
+{"datetime":"2012-09-27T02:05:45Z",
+"uri":"http://web.archive.org/web/20120927020545/http://www.ragazzeinvendita.com/?rcid=976"
+},
+{"datetime":"2012-11-14T18:21:20Z",
+"uri":"http://web.archive.org/web/20121114182120/http://www.ragazzeinvendita.com/?rcid=976"
+},
+{"datetime":"2012-11-16T08:16:57Z",
+"uri":"http://web.archive.org/web/20121116081657/http://www.ragazzeinvendita.com/?rcid=976"
+},
+{"datetime":"2014-01-28T03:23:24Z",
+"uri":"http://web.archive.org/web/20140128032324/http://www.ragazzeinvendita.com/?rcid=976"
+},
+{"datetime":"2014-03-25T06:39:00Z",
+"uri":"http://web.archive.org/web/20140325063900/http://www.ragazzeinvendita.com/?rcid=976"
+},
+{"datetime":"2014-08-02T23:59:00Z",
+"uri":"http://web.archive.org/web/20140802235900/http://www.ragazzeinvendita.com/?rcid=976"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.ragazzeinvendita.com/?rcid=976"}
+ }

@@ -1,0 +1,20 @@
+{"original_uri":"http://vine.co/v/OjHpwAQKEwW",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://vine.co/v/OjHpwAQKEwW",
+"mementos": {
+"list": [
+{"datetime":"2015-04-01T12:26:24Z",
+"uri":"//wayback.archive-it.org/all/20150401122624/http://vine.co/v/OjHpwAQKEwW"
+},
+{"datetime":"2015-04-01T12:26:24Z",
+"uri":"http://web.archive.org/web/20150401122624/http://vine.co/v/OjHpwAQKEwW"
+},
+{"datetime":"2015-04-01T12:26:27Z",
+"uri":"//wayback.archive-it.org/all/20150401122627/https://vine.co/v/OjHpwAQKEwW"
+},
+{"datetime":"2015-04-01T12:26:27Z",
+"uri":"http://web.archive.org/web/20150401122627/https://vine.co/v/OjHpwAQKEwW"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://vine.co/v/OjHpwAQKEwW"}
+ }

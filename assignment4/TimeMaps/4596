@@ -1,0 +1,23 @@
+{"original_uri":"http://buzz.schmap.com/laguna-beach-ca",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://buzz.schmap.com/laguna-beach-ca",
+"mementos": {
+"list": [
+{"datetime":"2012-04-05T20:57:49Z",
+"uri":"http://web.archive.org/web/20120405205749/http://buzz.schmap.com/laguna-beach-ca"
+},
+{"datetime":"2012-04-08T13:25:10Z",
+"uri":"http://web.archive.org/web/20120408132510/http://buzz.schmap.com/laguna-beach-ca/"
+},
+{"datetime":"2012-05-06T08:09:14Z",
+"uri":"http://web.archive.org/web/20120506080914/http://buzz.schmap.com/laguna-beach-ca"
+},
+{"datetime":"2012-06-06T05:59:40Z",
+"uri":"http://web.archive.org/web/20120606055940/http://buzz.schmap.com/laguna-beach-ca"
+},
+{"datetime":"2012-07-07T04:03:50Z",
+"uri":"http://web.archive.org/web/20120707040350/http://buzz.schmap.com/laguna-beach-ca"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://buzz.schmap.com/laguna-beach-ca"}
+ }

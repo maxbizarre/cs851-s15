@@ -1,0 +1,29 @@
+{"original_uri":"http://www.tlog.it/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.tlog.it/",
+"mementos": {
+"list": [
+{"datetime":"2012-06-23T20:07:32Z",
+"uri":"http://web.archive.org/web/20120623200732/http://www.tlog.it/"
+},
+{"datetime":"2012-08-15T14:41:35Z",
+"uri":"http://web.archive.org/web/20120815144135/http://www.tlog.it/"
+},
+{"datetime":"2013-07-18T20:08:14Z",
+"uri":"http://web.archive.org/web/20130718200814/http://tlog.it/"
+},
+{"datetime":"2013-12-09T13:17:48Z",
+"uri":"http://web.archive.org/web/20131209131748/http://www.tlog.it/"
+},
+{"datetime":"2014-01-05T19:39:33Z",
+"uri":"http://web.archive.org/web/20140105193933/http://tlog.it/"
+},
+{"datetime":"2014-12-18T09:43:03Z",
+"uri":"http://web.archive.org/web/20141218094303/http://tlog.it/"
+},
+{"datetime":"2014-12-22T05:22:07Z",
+"uri":"http://web.archive.org/web/20141222052207/http://www.tlog.it/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.tlog.it/"}
+ }

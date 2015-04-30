@@ -1,0 +1,14 @@
+{"original_uri":"http://www.youtube.com/watch?v=sRZjEEQfCVw",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=sRZjEEQfCVw",
+"mementos": {
+"list": [
+{"datetime":"2014-01-21T07:15:38Z",
+"uri":"http://web.archive.org/web/20140121071538/http://www.youtube.com/watch?v=sRZjEEQfCVw"
+},
+{"datetime":"2015-01-10T05:50:54Z",
+"uri":"http://web.archive.org/web/20150110055054/https://www.youtube.com/watch?v=sRZjEEQfCVw"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=sRZjEEQfCVw"}
+ }

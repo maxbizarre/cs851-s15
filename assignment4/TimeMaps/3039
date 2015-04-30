@@ -1,0 +1,14 @@
+{"original_uri":"http://www.nikkan-gendai.com/articles/view/news/156927",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nikkan-gendai.com/articles/view/news/156927",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T03:53:43Z",
+"uri":"http://archive.is/20150204035343/http://www.nikkan-gendai.com/articles/view/news/156927"
+},
+{"datetime":"2015-02-04T15:46:03Z",
+"uri":"http://archive.is/20150204154603/http://www.nikkan-gendai.com/articles/view/news/156927"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nikkan-gendai.com/articles/view/news/156927"}
+ }

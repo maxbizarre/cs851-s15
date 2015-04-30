@@ -1,0 +1,11 @@
+{"original_uri":"http://instagram.com/p/yqgs6pNliD/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://instagram.com/p/yqgs6pNliD/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-22T02:06:46Z",
+"uri":"http://web.archive.org/web/20150322020646/https://instagram.com/p/yqgs6pNliD/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://instagram.com/p/yqgs6pNliD/"}
+ }

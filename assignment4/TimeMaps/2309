@@ -1,0 +1,44 @@
+{"original_uri":"http://www.twitch.tv/SinfulBarbie",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.twitch.tv/SinfulBarbie",
+"mementos": {
+"list": [
+{"datetime":"2013-06-13T09:35:54Z",
+"uri":"http://web.archive.org/web/20130613093554/http://www.twitch.tv/sinfulbarbie"
+},
+{"datetime":"2013-07-16T21:56:38Z",
+"uri":"http://web.archive.org/web/20130716215638/http://www.twitch.tv/sinfulbarbie"
+},
+{"datetime":"2013-08-20T10:09:54Z",
+"uri":"http://web.archive.org/web/20130820100954/http://www.twitch.tv/sinfulbarbie"
+},
+{"datetime":"2014-05-01T04:55:22Z",
+"uri":"http://web.archive.org/web/20140501045522/http://www.twitch.tv/sinfulbarbie"
+},
+{"datetime":"2014-06-01T21:16:06Z",
+"uri":"http://web.archive.org/web/20140601211606/http://www.twitch.tv/sinfulbarbie"
+},
+{"datetime":"2014-06-08T04:25:20Z",
+"uri":"http://web.archive.org/web/20140608042520/http://www.twitch.tv/SinfulBarbie"
+},
+{"datetime":"2014-07-03T22:47:18Z",
+"uri":"http://web.archive.org/web/20140703224718/http://www.twitch.tv/sinfulbarbie"
+},
+{"datetime":"2014-07-05T03:42:30Z",
+"uri":"http://web.archive.org/web/20140705034230/http://www.twitch.tv/sinfulbarbie"
+},
+{"datetime":"2014-07-08T20:59:38Z",
+"uri":"http://web.archive.org/web/20140708205938/http://www.twitch.tv/SinfulBarbie"
+},
+{"datetime":"2014-08-05T20:04:01Z",
+"uri":"http://web.archive.org/web/20140805200401/http://www.twitch.tv/sinfulbarbie"
+},
+{"datetime":"2014-08-09T16:32:04Z",
+"uri":"http://web.archive.org/web/20140809163204/http://www.twitch.tv/SinfulBarbie"
+},
+{"datetime":"2014-08-11T00:13:43Z",
+"uri":"http://web.archive.org/web/20140811001343/http://www.twitch.tv/SinfulBarbie"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.twitch.tv/SinfulBarbie"}
+ }

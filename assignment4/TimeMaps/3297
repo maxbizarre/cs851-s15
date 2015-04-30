@@ -1,0 +1,11 @@
+{"original_uri":"http://vine.co/v/OtpHIvmPW2h",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://vine.co/v/OtpHIvmPW2h",
+"mementos": {
+"list": [
+{"datetime":"2015-04-19T19:56:03Z",
+"uri":"http://web.archive.org/web/20150419195603/https://vine.co/v/OtpHIvmPW2h"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://vine.co/v/OtpHIvmPW2h"}
+ }

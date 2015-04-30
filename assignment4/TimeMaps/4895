@@ -1,0 +1,23 @@
+{"original_uri":"http://dietitem.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://dietitem.com/",
+"mementos": {
+"list": [
+{"datetime":"2011-02-02T18:42:57Z",
+"uri":"http://web.archive.org/web/20110202184257/http://dietitem.com/"
+},
+{"datetime":"2013-03-03T21:43:21Z",
+"uri":"http://web.archive.org/web/20130303214321/http://dietitem.com/"
+},
+{"datetime":"2014-01-06T21:42:59Z",
+"uri":"http://web.archive.org/web/20140106214259/http://dietitem.com/"
+},
+{"datetime":"2014-05-17T06:13:16Z",
+"uri":"http://web.archive.org/web/20140517061316/http://dietitem.com/"
+},
+{"datetime":"2014-12-17T08:01:27Z",
+"uri":"http://web.archive.org/web/20141217080127/http://dietitem.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://dietitem.com/"}
+ }

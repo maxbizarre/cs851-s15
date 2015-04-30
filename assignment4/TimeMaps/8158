@@ -1,0 +1,20 @@
+{"original_uri":"http://www.thebspa.co.uk",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.thebspa.co.uk",
+"mementos": {
+"list": [
+{"datetime":"2013-01-17T20:30:34Z",
+"uri":"http://web.archive.org/web/20130117203034/http://www.thebspa.co.uk/"
+},
+{"datetime":"2013-04-16T12:36:39Z",
+"uri":"http://web.archive.org/web/20130416123639/http://thebspa.co.uk"
+},
+{"datetime":"2014-05-17T00:54:44Z",
+"uri":"http://web.archive.org/web/20140517005444/http://thebspa.co.uk/"
+},
+{"datetime":"2014-12-18T18:35:25Z",
+"uri":"http://web.archive.org/web/20141218183525/http://thebspa.co.uk/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.thebspa.co.uk"}
+ }

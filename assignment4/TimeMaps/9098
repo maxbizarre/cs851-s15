@@ -1,0 +1,59 @@
+{"original_uri":"http://portlandca.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://portlandca.com",
+"mementos": {
+"list": [
+{"datetime":"2013-03-29T02:59:32Z",
+"uri":"http://web.archive.org/web/20130329025932/http://portlandca.com"
+},
+{"datetime":"2013-03-29T02:59:33Z",
+"uri":"http://web.archive.org/web/20130329025933/http://www.portlandca.com/"
+},
+{"datetime":"2013-04-07T02:24:02Z",
+"uri":"http://web.archive.org/web/20130407022402/http://www.portlandca.com"
+},
+{"datetime":"2013-04-07T02:26:39Z",
+"uri":"http://web.archive.org/web/20130407022639/http://portlandca.com"
+},
+{"datetime":"2013-04-07T02:26:39Z",
+"uri":"http://web.archive.org/web/20130407022639/http://www.portlandca.com/"
+},
+{"datetime":"2013-04-07T21:58:49Z",
+"uri":"http://web.archive.org/web/20130407215849/http://www.portlandca.com"
+},
+{"datetime":"2013-04-07T22:42:04Z",
+"uri":"http://web.archive.org/web/20130407224204/http://portlandca.com"
+},
+{"datetime":"2013-04-07T22:42:05Z",
+"uri":"http://web.archive.org/web/20130407224205/http://www.portlandca.com/"
+},
+{"datetime":"2013-04-09T02:25:43Z",
+"uri":"http://web.archive.org/web/20130409022543/http://portlandca.com"
+},
+{"datetime":"2013-04-09T02:25:44Z",
+"uri":"http://web.archive.org/web/20130409022544/http://www.portlandca.com/"
+},
+{"datetime":"2013-04-09T16:06:08Z",
+"uri":"http://web.archive.org/web/20130409160608/http://portlandca.com"
+},
+{"datetime":"2013-04-09T16:06:10Z",
+"uri":"http://web.archive.org/web/20130409160610/http://www.portlandca.com/"
+},
+{"datetime":"2013-04-11T03:49:04Z",
+"uri":"http://web.archive.org/web/20130411034904/http://portlandca.com"
+},
+{"datetime":"2013-04-11T03:49:05Z",
+"uri":"http://web.archive.org/web/20130411034905/http://www.portlandca.com/"
+},
+{"datetime":"2013-04-14T01:42:30Z",
+"uri":"http://web.archive.org/web/20130414014230/http://portlandca.com"
+},
+{"datetime":"2013-04-14T01:42:31Z",
+"uri":"http://web.archive.org/web/20130414014231/http://www.portlandca.com/"
+},
+{"datetime":"2014-12-18T05:06:17Z",
+"uri":"http://web.archive.org/web/20141218050617/http://portlandca.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://portlandca.com"}
+ }

@@ -1,0 +1,38 @@
+{"original_uri":"http://Amazon.co.jp",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://Amazon.co.jp",
+"timemap_index": [
+{"from":"2000-02-29T14:53:12Z",
+"until":"2006-04-02T19:24:40Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://Amazon.co.jp"
+},{"from":"2006-04-03T22:25:52Z",
+"until":"2009-02-07T22:16:40Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://Amazon.co.jp"
+},{"from":"2009-02-08T23:21:12Z",
+"until":"2011-05-06T08:16:23Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://Amazon.co.jp"
+},{"from":"2011-05-06T22:03:38Z",
+"until":"2011-12-23T17:42:05Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://Amazon.co.jp"
+},{"from":"2011-12-23T19:48:30Z",
+"until":"2012-03-29T11:53:21Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://Amazon.co.jp"
+},{"from":"2012-03-29T18:30:40Z",
+"until":"2013-01-06T05:03:43Z",
+"uri":"http://labs.mementoweb.org/timemap/json/5000/http://Amazon.co.jp"
+},{"from":"2013-01-06T08:26:29Z",
+"until":"2013-11-16T11:29:08Z",
+"uri":"http://labs.mementoweb.org/timemap/json/6000/http://Amazon.co.jp"
+},{"from":"2013-11-16T12:16:02Z",
+"until":"2014-03-18T10:43:25Z",
+"uri":"http://labs.mementoweb.org/timemap/json/7000/http://Amazon.co.jp"
+},{"from":"2014-03-18T11:02:55Z",
+"until":"2014-08-05T01:15:52Z",
+"uri":"http://labs.mementoweb.org/timemap/json/8000/http://Amazon.co.jp"
+},{"from":"2014-08-05T03:56:04Z",
+"until":"2015-01-15T08:17:03Z",
+"uri":"http://labs.mementoweb.org/timemap/json/9000/http://Amazon.co.jp"
+},{"from":"2015-01-16T12:10:22Z",
+"uri":"http://labs.mementoweb.org/timemap/json/10000/http://Amazon.co.jp"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://Amazon.co.jp",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://Amazon.co.jp"
+}}

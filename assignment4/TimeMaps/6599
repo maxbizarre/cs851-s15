@@ -1,0 +1,11 @@
+{"original_uri":"http://www.instaforex.com/ru/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.instaforex.com/ru/",
+"timemap_index": [
+{"from":"2009-04-02T05:16:52Z",
+"until":"2012-11-30T20:07:47Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.instaforex.com/ru/"
+},{"from":"2012-12-03T08:16:17Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.instaforex.com/ru/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.instaforex.com/ru/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.instaforex.com/ru/"
+}}

@@ -1,0 +1,11 @@
+{"original_uri":"http://headlines.yahoo.co.jp/hl?a=20150204-00010000-norimono-l05",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://headlines.yahoo.co.jp/hl?a=20150204-00010000-norimono-l05",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T12:04:50Z",
+"uri":"http://web.archive.org/web/20150205120450/http://headlines.yahoo.co.jp/hl?a=20150204-00010000-norimono-l05"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://headlines.yahoo.co.jp/hl?a=20150204-00010000-norimono-l05"}
+ }

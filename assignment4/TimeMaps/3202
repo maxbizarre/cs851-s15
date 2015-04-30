@@ -1,0 +1,38 @@
+{"original_uri":"http://isso.com.br",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://isso.com.br",
+"mementos": {
+"list": [
+{"datetime":"2007-07-01T17:24:06Z",
+"uri":"http://web.archive.org/web/20070701172406/http://www.isso.com.br/"
+},
+{"datetime":"2007-08-13T22:59:14Z",
+"uri":"http://web.archive.org/web/20070813225914/http://www.isso.com.br/"
+},
+{"datetime":"2007-09-14T05:38:48Z",
+"uri":"http://web.archive.org/web/20070914053848/http://www.isso.com.br/"
+},
+{"datetime":"2010-11-26T08:59:23Z",
+"uri":"http://web.archive.org/web/20101126085923/http://www.isso.com.br/"
+},
+{"datetime":"2010-12-27T09:30:29Z",
+"uri":"http://web.archive.org/web/20101227093029/http://www.isso.com.br/"
+},
+{"datetime":"2011-09-20T22:53:32Z",
+"uri":"http://web.archive.org/web/20110920225332/http://www.isso.com.br/"
+},
+{"datetime":"2013-03-11T05:43:32Z",
+"uri":"http://web.archive.org/web/20130311054332/http://isso.com.br/"
+},
+{"datetime":"2013-05-18T11:13:45Z",
+"uri":"http://web.archive.org/web/20130518111345/http://isso.com.br/"
+},
+{"datetime":"2014-05-16T22:11:25Z",
+"uri":"http://web.archive.org/web/20140516221125/http://isso.com.br/"
+},
+{"datetime":"2014-12-18T19:23:57Z",
+"uri":"http://web.archive.org/web/20141218192357/http://isso.com.br/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://isso.com.br"}
+ }

@@ -1,0 +1,41 @@
+{"original_uri":"http://arentat.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://arentat.com/",
+"mementos": {
+"list": [
+{"datetime":"2014-05-27T00:37:59Z",
+"uri":"http://web.archive.org/web/20140527003759/http://www.arentat.com/"
+},
+{"datetime":"2014-06-27T21:15:48Z",
+"uri":"http://web.archive.org/web/20140627211548/http://www.arentat.com/"
+},
+{"datetime":"2014-07-29T07:45:06Z",
+"uri":"http://web.archive.org/web/20140729074506/http://www.arentat.com/"
+},
+{"datetime":"2014-07-30T03:17:18Z",
+"uri":"http://web.archive.org/web/20140730031718/http://arentat.com/?"
+},
+{"datetime":"2014-08-29T12:29:54Z",
+"uri":"http://web.archive.org/web/20140829122954/http://www.arentat.com/"
+},
+{"datetime":"2014-09-02T05:42:07Z",
+"uri":"http://web.archive.org/web/20140902054207/http://arentat.com/?"
+},
+{"datetime":"2014-12-17T21:26:09Z",
+"uri":"http://web.archive.org/web/20141217212609/http://arentat.com/"
+},
+{"datetime":"2015-02-02T17:39:56Z",
+"uri":"http://web.archive.org/web/20150202173956/http://www.arentat.com/"
+},
+{"datetime":"2015-02-06T09:16:07Z",
+"uri":"http://web.archive.org/web/20150206091607/http://arentat.com/"
+},
+{"datetime":"2015-03-15T00:15:13Z",
+"uri":"http://web.archive.org/web/20150315001513/http://www.arentat.com/"
+},
+{"datetime":"2015-03-15T11:04:21Z",
+"uri":"http://web.archive.org/web/20150315110421/http://arentat.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://arentat.com/"}
+ }

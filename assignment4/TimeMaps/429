@@ -1,0 +1,14 @@
+{"original_uri":"http://d.hatena.ne.jp/Kango/20150204/1422975834",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://d.hatena.ne.jp/Kango/20150204/1422975834",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T01:00:23Z",
+"uri":"http://archive.is/20150204010023/http://d.hatena.ne.jp/Kango/20150204/1422975834"
+},
+{"datetime":"2015-02-04T01:01:16Z",
+"uri":"http://web.archive.org/web/20150204010116/http://d.hatena.ne.jp/Kango/20150204/1422975834"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://d.hatena.ne.jp/Kango/20150204/1422975834"}
+ }

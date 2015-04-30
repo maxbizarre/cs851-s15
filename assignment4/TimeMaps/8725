@@ -1,0 +1,14 @@
+{"original_uri":"http://twitpic.com/dnekpd",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitpic.com/dnekpd",
+"mementos": {
+"list": [
+{"datetime":"2013-12-06T00:40:10Z",
+"uri":"http://web.archive.org/web/20131206004010/http://twitpic.com/dnekpd"
+},
+{"datetime":"2014-10-28T19:12:47Z",
+"uri":"http://web.archive.org/web/20141028191247/http://twitpic.com/dnekpd"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitpic.com/dnekpd"}
+ }

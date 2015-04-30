@@ -1,0 +1,14 @@
+{"original_uri":"http://www.sundance.org/projects/the-stanford-prison-experiment",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.sundance.org/projects/the-stanford-prison-experiment",
+"mementos": {
+"list": [
+{"datetime":"2015-01-26T11:45:45Z",
+"uri":"http://archive.is/20150126114545/http://www.sundance.org/projects/the-stanford-prison-experiment"
+},
+{"datetime":"2015-04-29T06:21:11Z",
+"uri":"http://web.archive.org/web/20150429062111/http://www.sundance.org/projects/the-stanford-prison-experiment"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.sundance.org/projects/the-stanford-prison-experiment"}
+ }

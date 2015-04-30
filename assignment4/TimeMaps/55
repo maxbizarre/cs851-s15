@@ -1,0 +1,38 @@
+{"original_uri":"http://www.dijksfotografie.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.dijksfotografie.com",
+"mementos": {
+"list": [
+{"datetime":"2013-04-26T14:57:36Z",
+"uri":"http://web.archive.org/web/20130426145736/http://www.dijksfotografie.com/"
+},
+{"datetime":"2013-09-07T19:22:28Z",
+"uri":"http://web.archive.org/web/20130907192228/http://www.dijksfotografie.com/"
+},
+{"datetime":"2013-12-12T14:03:03Z",
+"uri":"http://web.archive.org/web/20131212140303/http://www.dijksfotografie.com/"
+},
+{"datetime":"2013-12-26T10:57:23Z",
+"uri":"http://web.archive.org/web/20131226105723/http://www.dijksfotografie.com/"
+},
+{"datetime":"2014-02-15T09:57:09Z",
+"uri":"http://web.archive.org/web/20140215095709/http://www.dijksfotografie.com/"
+},
+{"datetime":"2014-05-17T07:30:56Z",
+"uri":"http://web.archive.org/web/20140517073056/http://dijksfotografie.com/"
+},
+{"datetime":"2014-07-12T08:14:28Z",
+"uri":"http://web.archive.org/web/20140712081428/http://www.dijksfotografie.com/"
+},
+{"datetime":"2014-12-17T10:11:35Z",
+"uri":"http://web.archive.org/web/20141217101135/http://dijksfotografie.com/"
+},
+{"datetime":"2014-12-19T11:39:21Z",
+"uri":"http://web.archive.org/web/20141219113921/http://www.dijksfotografie.com/"
+},
+{"datetime":"2015-04-04T11:34:06Z",
+"uri":"http://web.archive.org/web/20150404113406/http://www.dijksfotografie.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.dijksfotografie.com"}
+ }

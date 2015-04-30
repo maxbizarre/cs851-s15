@@ -1,0 +1,17 @@
+{"original_uri":"http://theblot.tumblr.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://theblot.tumblr.com",
+"mementos": {
+"list": [
+{"datetime":"2013-05-10T07:37:50Z",
+"uri":"http://web.archive.org/web/20130510073750/http://theblot.tumblr.com"
+},
+{"datetime":"2013-05-15T15:34:45Z",
+"uri":"http://web.archive.org/web/20130515153445/http://theblot.tumblr.com"
+},
+{"datetime":"2013-10-23T15:40:10Z",
+"uri":"http://web.archive.org/web/20131023154010/http://theblot.tumblr.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://theblot.tumblr.com"}
+ }

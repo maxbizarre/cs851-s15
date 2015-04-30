@@ -1,0 +1,11 @@
+{"original_uri":"http://ange.sega-net.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ange.sega-net.com/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-06T18:02:03Z",
+"uri":"http://archive.is/20150206180203/http://ange.sega-net.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ange.sega-net.com/"}
+ }

@@ -1,0 +1,23 @@
+{"original_uri":"http://www.applgasm-apps.com/photo_shack.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.applgasm-apps.com/photo_shack.html",
+"mementos": {
+"list": [
+{"datetime":"2012-10-27T01:40:27Z",
+"uri":"http://web.archive.org/web/20121027014027/http://www.applgasm-apps.com/Photo_Shack.html"
+},
+{"datetime":"2012-11-08T13:29:27Z",
+"uri":"http://web.archive.org/web/20121108132927/http://www.applgasm-apps.com/photo_shack.html"
+},
+{"datetime":"2013-03-27T06:33:43Z",
+"uri":"http://web.archive.org/web/20130327063343/http://www.applgasm-apps.com/Photo_Shack.html"
+},
+{"datetime":"2013-08-19T01:07:07Z",
+"uri":"http://web.archive.org/web/20130819010707/http://www.applgasm-apps.com/photo_shack.html"
+},
+{"datetime":"2013-09-04T18:59:00Z",
+"uri":"http://web.archive.org/web/20130904185900/http://www.applgasm-apps.com/Photo_Shack.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.applgasm-apps.com/photo_shack.html"}
+ }

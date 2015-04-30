@@ -1,0 +1,17 @@
+{"original_uri":"http://paper.li/midorimiller/1326840710",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paper.li/midorimiller/1326840710",
+"mementos": {
+"list": [
+{"datetime":"2012-02-10T22:23:08Z",
+"uri":"http://web.archive.org/web/20120210222308/http://paper.li/midorimiller/1326840710"
+},
+{"datetime":"2014-07-01T14:10:35Z",
+"uri":"http://web.archive.org/web/20140701141035/http://paper.li/midorimiller/1326840710"
+},
+{"datetime":"2014-07-02T20:47:15Z",
+"uri":"http://web.archive.org/web/20140702204715/http://paper.li/midorimiller/1326840710"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paper.li/midorimiller/1326840710"}
+ }

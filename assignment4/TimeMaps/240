@@ -1,0 +1,27 @@
+{"original_uri":"http://www.tempo.co/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.tempo.co/",
+"timemap_index": [
+{"from":"2011-09-22T21:26:25Z",
+"until":"2013-10-23T23:52:03Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.tempo.co/"
+},{"from":"2013-10-24T12:35:35Z",
+"until":"2014-03-01T23:13:36Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.tempo.co/"
+},{"from":"2014-03-01T23:30:17Z",
+"until":"2014-05-10T02:39:50Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.tempo.co/"
+},{"from":"2014-05-10T02:55:38Z",
+"until":"2014-07-20T13:00:27Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://www.tempo.co/"
+},{"from":"2014-07-20T13:00:52Z",
+"until":"2014-10-04T00:01:05Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://www.tempo.co/"
+},{"from":"2014-10-04T01:46:25Z",
+"until":"2014-12-21T14:41:01Z",
+"uri":"http://labs.mementoweb.org/timemap/json/5000/http://www.tempo.co/"
+},{"from":"2014-12-21T15:50:50Z",
+"until":"2015-04-25T16:13:04Z",
+"uri":"http://labs.mementoweb.org/timemap/json/6000/http://www.tempo.co/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.tempo.co/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.tempo.co/"
+}}

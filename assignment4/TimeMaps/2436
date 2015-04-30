@@ -1,0 +1,14 @@
+{"original_uri":"http://www.bbc.co.uk/news/world-asia-31125338",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/world-asia-31125338",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T13:51:03Z",
+"uri":"http://web.archive.org/web/20150204135103/http://www.bbc.co.uk/news/world-asia-31125338"
+},
+{"datetime":"2015-02-05T04:27:42Z",
+"uri":"http://archive.is/20150205042742/http://www.bbc.co.uk/news/world-asia-31125338"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/world-asia-31125338"}
+ }

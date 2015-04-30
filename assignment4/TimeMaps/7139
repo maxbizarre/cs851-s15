@@ -1,0 +1,29 @@
+{"original_uri":"http://carbonblaster.seesaa.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://carbonblaster.seesaa.net/",
+"mementos": {
+"list": [
+{"datetime":"2013-09-03T07:35:50Z",
+"uri":"http://web.archive.org/web/20130903073550/http://carbonblaster.seesaa.net"
+},
+{"datetime":"2013-09-03T07:35:55Z",
+"uri":"http://web.archive.org/web/20130903073555/http://www.carbonblaster.seesaa.net"
+},
+{"datetime":"2013-10-05T09:50:10Z",
+"uri":"http://web.archive.org/web/20131005095010/http://carbonblaster.seesaa.net/"
+},
+{"datetime":"2014-01-25T11:57:52Z",
+"uri":"http://web.archive.org/web/20140125115752/http://carbonblaster.seesaa.net/"
+},
+{"datetime":"2014-05-01T17:13:01Z",
+"uri":"http://web.archive.org/web/20140501171301/http://carbonblaster.seesaa.net/"
+},
+{"datetime":"2014-07-01T11:40:10Z",
+"uri":"http://web.archive.org/web/20140701114010/http://carbonblaster.seesaa.net/"
+},
+{"datetime":"2014-09-01T17:15:22Z",
+"uri":"http://web.archive.org/web/20140901171522/http://carbonblaster.seesaa.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://carbonblaster.seesaa.net/"}
+ }

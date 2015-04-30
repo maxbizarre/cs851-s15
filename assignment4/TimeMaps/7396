@@ -1,0 +1,11 @@
+{"original_uri":"http://news.yahoo.co.jp/pickup/6148510",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://news.yahoo.co.jp/pickup/6148510",
+"mementos": {
+"list": [
+{"datetime":"2015-04-24T05:19:01Z",
+"uri":"http://web.archive.org/web/20150424051901/http://news.yahoo.co.jp/pickup/6148510"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://news.yahoo.co.jp/pickup/6148510"}
+ }

@@ -1,0 +1,50 @@
+{"original_uri":"http://es-es.twitch.tv/euphoo",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://es-es.twitch.tv/euphoo",
+"mementos": {
+"list": [
+{"datetime":"2012-11-13T21:13:26Z",
+"uri":"http://web.archive.org/web/20121113211326/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2012-12-14T16:43:13Z",
+"uri":"http://web.archive.org/web/20121214164313/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2013-07-03T23:33:10Z",
+"uri":"http://web.archive.org/web/20130703233310/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2013-08-03T21:57:25Z",
+"uri":"http://web.archive.org/web/20130803215725/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2013-09-04T22:03:46Z",
+"uri":"http://web.archive.org/web/20130904220346/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2013-11-23T07:51:26Z",
+"uri":"http://web.archive.org/web/20131123075126/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2013-12-24T05:18:14Z",
+"uri":"http://web.archive.org/web/20131224051814/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2013-12-25T16:56:26Z",
+"uri":"http://web.archive.org/web/20131225165626/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2014-01-29T15:09:23Z",
+"uri":"http://web.archive.org/web/20140129150923/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2014-03-01T12:26:36Z",
+"uri":"http://web.archive.org/web/20140301122636/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2014-04-04T23:49:23Z",
+"uri":"http://web.archive.org/web/20140404234923/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2014-04-06T01:50:26Z",
+"uri":"http://web.archive.org/web/20140406015026/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2014-05-08T15:58:29Z",
+"uri":"http://web.archive.org/web/20140508155829/http://es-es.twitch.tv/euphoo"
+},
+{"datetime":"2014-06-09T01:29:12Z",
+"uri":"http://web.archive.org/web/20140609012912/http://es-es.twitch.tv/euphoo"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://es-es.twitch.tv/euphoo"}
+ }

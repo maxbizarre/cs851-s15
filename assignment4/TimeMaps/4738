@@ -1,0 +1,11 @@
+{"original_uri":"http://togetter.com/li/777126",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://togetter.com/li/777126",
+"mementos": {
+"list": [
+{"datetime":"2015-03-19T21:55:13Z",
+"uri":"http://web.archive.org/web/20150319215513/http://togetter.com/li/777126"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://togetter.com/li/777126"}
+ }

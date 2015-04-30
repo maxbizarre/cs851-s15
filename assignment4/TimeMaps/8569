@@ -1,0 +1,11 @@
+{"original_uri":"http://twitpic.com/dapcos",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitpic.com/dapcos",
+"mementos": {
+"list": [
+{"datetime":"2014-10-28T05:58:12Z",
+"uri":"http://web.archive.org/web/20141028055812/http://twitpic.com/dapcos"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitpic.com/dapcos"}
+ }

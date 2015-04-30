@@ -1,0 +1,8 @@
+{"original_uri":"http://www.youtube.com/watch?v=Ys7-6_t7OEQ",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=Ys7-6_t7OEQ",
+"timemap_index": [
+{"from":"2012-10-13T00:52:35Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=Ys7-6_t7OEQ"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.youtube.com/watch?v=Ys7-6_t7OEQ",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.youtube.com/watch?v=Ys7-6_t7OEQ"
+}}

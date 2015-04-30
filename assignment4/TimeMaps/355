@@ -1,0 +1,11 @@
+{"original_uri":"http://kindwave.com/contest",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://kindwave.com/contest",
+"mementos": {
+"list": [
+{"datetime":"2015-01-23T03:06:06Z",
+"uri":"http://archive.is/20150123030606/http://kindwave.com/contest"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://kindwave.com/contest"}
+ }

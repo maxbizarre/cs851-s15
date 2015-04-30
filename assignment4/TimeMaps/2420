@@ -1,0 +1,56 @@
+{"original_uri":"http://curefa.org/whatis.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://curefa.org/whatis.html",
+"mementos": {
+"list": [
+{"datetime":"2008-10-08T20:29:49Z",
+"uri":"http://web.archive.org/web/20081008202949/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2009-01-06T20:21:04Z",
+"uri":"http://web.archive.org/web/20090106202104/http://curefa.org/whatis.html"
+},
+{"datetime":"2009-03-12T01:07:05Z",
+"uri":"http://web.archive.org/web/20090312010705/http://curefa.org/whatis.html"
+},
+{"datetime":"2009-05-08T19:39:31Z",
+"uri":"http://web.archive.org/web/20090508193931/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2009-08-26T02:51:56Z",
+"uri":"http://web.archive.org/web/20090826025156/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2010-01-27T18:19:34Z",
+"uri":"http://web.archive.org/web/20100127181934/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2012-03-11T13:59:40Z",
+"uri":"http://web.archive.org/web/20120311135940/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2012-04-13T12:44:03Z",
+"uri":"http://web.archive.org/web/20120413124403/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2012-06-26T22:18:54Z",
+"uri":"http://web.archive.org/web/20120626221854/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2012-08-25T08:20:38Z",
+"uri":"http://web.archive.org/web/20120825082038/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2012-10-26T13:58:37Z",
+"uri":"http://web.archive.org/web/20121026135837/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2012-12-25T08:16:09Z",
+"uri":"http://web.archive.org/web/20121225081609/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2013-05-24T16:34:10Z",
+"uri":"http://web.archive.org/web/20130524163410/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2013-07-23T05:00:13Z",
+"uri":"http://web.archive.org/web/20130723050013/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2013-12-03T14:29:06Z",
+"uri":"http://web.archive.org/web/20131203142906/http://www.curefa.org/whatis.html"
+},
+{"datetime":"2014-08-27T00:26:34Z",
+"uri":"http://web.archive.org/web/20140827002634/http://www.curefa.org/whatis.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://curefa.org/whatis.html"}
+ }

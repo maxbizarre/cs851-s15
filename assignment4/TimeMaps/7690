@@ -1,0 +1,29 @@
+{"original_uri":"http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T17:00:07Z",
+"uri":"http://web.archive.org/web/20150205170007/http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204"
+},
+{"datetime":"2015-02-05T17:00:07Z",
+"uri":"//wayback.archive-it.org/all/20150205170007/http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204"
+},
+{"datetime":"2015-02-06T08:57:31Z",
+"uri":"//wayback.archive-it.org/all/20150206085731/http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204"
+},
+{"datetime":"2015-02-07T22:02:14Z",
+"uri":"//wayback.archive-it.org/all/20150207220214/http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204"
+},
+{"datetime":"2015-02-10T20:55:13Z",
+"uri":"http://web.archive.org/web/20150210205513/http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204"
+},
+{"datetime":"2015-03-27T08:43:18Z",
+"uri":"http://web.archive.org/web/20150327084318/http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204"
+},
+{"datetime":"2015-04-22T02:14:16Z",
+"uri":"http://web.archive.org/web/20150422021416/http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://in.reuters.com/article/2015/02/04/mideast-crisis-children-idINKBN0L828E20150204"}
+ }

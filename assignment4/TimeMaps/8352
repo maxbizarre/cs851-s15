@@ -1,0 +1,17 @@
+{"original_uri":"http://blogalinnebrandao.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blogalinnebrandao.com",
+"mementos": {
+"list": [
+{"datetime":"2015-03-14T19:14:35Z",
+"uri":"http://web.archive.org/web/20150314191435/http://blogalinnebrandao.com/"
+},
+{"datetime":"2015-03-15T00:09:30Z",
+"uri":"http://web.archive.org/web/20150315000930/http://blogalinnebrandao.com/"
+},
+{"datetime":"2015-04-07T16:26:45Z",
+"uri":"http://archive.is/20150407162645/http://blogalinnebrandao.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blogalinnebrandao.com"}
+ }

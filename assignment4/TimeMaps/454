@@ -1,0 +1,23 @@
+{"original_uri":"http://mashable.com/2015/02/03/will-i-am-puls-review/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mashable.com/2015/02/03/will-i-am-puls-review/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-16T23:36:55Z",
+"uri":"http://web.archive.org/web/20150316233655/http://mashable.com/2015/02/03/will-i-am-puls-review/"
+},
+{"datetime":"2015-03-27T12:20:43Z",
+"uri":"http://web.archive.org/web/20150327122043/http://mashable.com/2015/02/03/will-i-am-puls-review/"
+},
+{"datetime":"2015-04-07T20:10:33Z",
+"uri":"http://web.archive.org/web/20150407201033/http://mashable.com/2015/02/03/will-i-am-puls-review/"
+},
+{"datetime":"2015-04-14T01:12:19Z",
+"uri":"http://web.archive.org/web/20150414011219/http://mashable.com/2015/02/03/will-i-am-puls-review/"
+},
+{"datetime":"2015-04-21T07:26:01Z",
+"uri":"http://web.archive.org/web/20150421072601/http://mashable.com/2015/02/03/will-i-am-puls-review/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mashable.com/2015/02/03/will-i-am-puls-review/"}
+ }

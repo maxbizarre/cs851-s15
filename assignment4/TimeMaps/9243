@@ -1,0 +1,17 @@
+{"original_uri":"http://authorwladimirdias.blogspot.com.br/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://authorwladimirdias.blogspot.com.br/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T21:24:06Z",
+"uri":"//wayback.archive-it.org/all/20150204212406/http://authorwladimirdias.blogspot.com.br/"
+},
+{"datetime":"2015-02-04T21:24:06Z",
+"uri":"http://web.archive.org/web/20150204212406/http://authorwladimirdias.blogspot.com.br/"
+},
+{"datetime":"2015-03-23T15:33:50Z",
+"uri":"http://web.archive.org/web/20150323153350/http://authorwladimirdias.blogspot.com.br/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://authorwladimirdias.blogspot.com.br/"}
+ }

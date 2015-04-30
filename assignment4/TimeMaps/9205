@@ -1,0 +1,11 @@
+{"original_uri":"http://www.mag2.com/p/news/5711",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.mag2.com/p/news/5711",
+"mementos": {
+"list": [
+{"datetime":"2015-02-14T18:03:35Z",
+"uri":"http://web.archive.org/web/20150214180335/http://www.mag2.com/p/news/5711"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.mag2.com/p/news/5711"}
+ }

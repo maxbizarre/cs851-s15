@@ -1,0 +1,62 @@
+{"original_uri":"http://www.shcp.gob.mx/Paginas/default.aspx",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.shcp.gob.mx/Paginas/default.aspx",
+"mementos": {
+"list": [
+{"datetime":"2010-07-15T20:43:43Z",
+"uri":"//wayback.archive-it.org/all/20100715204343/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2010-12-20T21:14:17Z",
+"uri":"//wayback.archive-it.org/all/20101220211417/http://www.shcp.gob.mx/Paginas/Default.aspx"
+},
+{"datetime":"2011-03-07T15:26:46Z",
+"uri":"//wayback.archive-it.org/all/20110307152646/http://www.shcp.gob.mx/Paginas/Default.aspx"
+},
+{"datetime":"2011-04-20T19:39:39Z",
+"uri":"//wayback.archive-it.org/all/20110420193939/http://www.shcp.gob.mx/Paginas/Default.aspx"
+},
+{"datetime":"2011-08-03T21:32:16Z",
+"uri":"//wayback.archive-it.org/all/20110803213216/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2011-11-29T21:21:36Z",
+"uri":"//wayback.archive-it.org/all/20111129212136/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2012-03-16T16:50:32Z",
+"uri":"//wayback.archive-it.org/all/20120316165032/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2012-06-26T15:24:15Z",
+"uri":"//wayback.archive-it.org/all/20120626152415/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2012-09-12T07:56:26Z",
+"uri":"http://archive.is/20120912075626/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2013-03-08T18:28:30Z",
+"uri":"//wayback.archive-it.org/all/20130308182830/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2013-06-14T21:21:10Z",
+"uri":"//wayback.archive-it.org/all/20130614212110/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2013-09-18T20:01:28Z",
+"uri":"//wayback.archive-it.org/all/20130918200128/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2014-08-11T06:46:08Z",
+"uri":"//wayback.archive-it.org/all/20140811064608/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2014-08-11T07:06:23Z",
+"uri":"//wayback.archive-it.org/all/20140811070623/http://www.shcp.gob.mx/Paginas/default.aspx"
+},
+{"datetime":"2014-10-08T19:17:56Z",
+"uri":"//wayback.archive-it.org/all/20141008191756/http://www.shcp.gob.mx/Paginas/Default.aspx"
+},
+{"datetime":"2014-10-11T03:42:48Z",
+"uri":"//wayback.archive-it.org/all/20141011034248/http://www.shcp.gob.mx/Paginas/Default.aspx"
+},
+{"datetime":"2014-11-11T05:47:05Z",
+"uri":"//wayback.archive-it.org/all/20141111054705/http://www.shcp.gob.mx/Paginas/Default.aspx"
+},
+{"datetime":"2015-04-09T23:03:45Z",
+"uri":"//wayback.archive-it.org/all/20150409230345/http://www.shcp.gob.mx/Paginas/default.aspx"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.shcp.gob.mx/Paginas/default.aspx"}
+ }

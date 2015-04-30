@@ -1,0 +1,11 @@
+{"original_uri":"http://mdpr.jp/disney/1465079",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mdpr.jp/disney/1465079",
+"mementos": {
+"list": [
+{"datetime":"2015-03-20T07:10:11Z",
+"uri":"http://web.archive.org/web/20150320071011/http://mdpr.jp/disney/1465079"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mdpr.jp/disney/1465079"}
+ }

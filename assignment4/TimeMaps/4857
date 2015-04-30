@@ -1,0 +1,11 @@
+{"original_uri":"http://www.sam1a.com/3709",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.sam1a.com/3709",
+"mementos": {
+"list": [
+{"datetime":"2015-04-06T01:37:24Z",
+"uri":"http://web.archive.org/web/20150406013724/http://www.sam1a.com/3709"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.sam1a.com/3709"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://WWW.nflshop.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://WWW.nflshop.com/",
+"timemap_index": [
+{"from":"2000-02-29T22:49:52Z",
+"until":"2014-07-20T15:00:06Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://WWW.nflshop.com/"
+},{"from":"2014-07-20T17:58:43Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://WWW.nflshop.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://WWW.nflshop.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://WWW.nflshop.com/"
+}}

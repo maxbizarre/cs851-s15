@@ -1,0 +1,11 @@
+{"original_uri":"http://info-zero.jp/ebookdtl.php?ecd=69272",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://info-zero.jp/ebookdtl.php?ecd=69272",
+"mementos": {
+"list": [
+{"datetime":"2013-08-05T11:42:42Z",
+"uri":"http://web.archive.org/web/20130805114242/https://info-zero.jp/ebookdtl.php?ecd=69272"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://info-zero.jp/ebookdtl.php?ecd=69272"}
+ }

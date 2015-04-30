@@ -1,0 +1,14 @@
+{"original_uri":"http://www.ctv.co.jp/event/nekoten/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.ctv.co.jp/event/nekoten/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T12:45:26Z",
+"uri":"http://archive.is/20150204124526/http://www.ctv.co.jp/event/nekoten/"
+},
+{"datetime":"2015-02-04T12:45:35Z",
+"uri":"http://web.archive.org/web/20150204124535/http://www.ctv.co.jp/event/nekoten/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.ctv.co.jp/event/nekoten/"}
+ }

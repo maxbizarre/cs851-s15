@@ -1,0 +1,14 @@
+{"original_uri":"http://play.spotify.com/error/browser-not-supported.php",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://play.spotify.com/error/browser-not-supported.php",
+"timemap_index": [
+{"from":"2013-04-18T23:36:13Z",
+"until":"2014-08-08T15:13:11Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://play.spotify.com/error/browser-not-supported.php"
+},{"from":"2014-08-08T16:13:20Z",
+"until":"2015-03-19T15:14:18Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://play.spotify.com/error/browser-not-supported.php"
+},{"from":"2015-03-19T16:11:48Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://play.spotify.com/error/browser-not-supported.php"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://play.spotify.com/error/browser-not-supported.php",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://play.spotify.com/error/browser-not-supported.php"
+}}

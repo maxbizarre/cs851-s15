@@ -1,0 +1,11 @@
+{"original_uri":"http://claudiacruzbarigelli.virb.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://claudiacruzbarigelli.virb.com",
+"mementos": {
+"list": [
+{"datetime":"2014-04-08T03:29:15Z",
+"uri":"http://web.archive.org/web/20140408032915/http://www.claudiacruzbarigelli.virb.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://claudiacruzbarigelli.virb.com"}
+ }

@@ -1,0 +1,29 @@
+{"original_uri":"http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014",
+"mementos": {
+"list": [
+{"datetime":"2014-02-09T02:02:59Z",
+"uri":"http://web.archive.org/web/20140209020259/http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014"
+},
+{"datetime":"2014-05-06T00:19:28Z",
+"uri":"http://web.archive.org/web/20140506001928/http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014"
+},
+{"datetime":"2014-07-05T21:08:42Z",
+"uri":"http://web.archive.org/web/20140705210842/http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014"
+},
+{"datetime":"2014-07-07T02:41:54Z",
+"uri":"http://web.archive.org/web/20140707024154/http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014"
+},
+{"datetime":"2014-09-08T08:46:11Z",
+"uri":"http://web.archive.org/web/20140908084611/http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014"
+},
+{"datetime":"2014-10-10T01:39:18Z",
+"uri":"http://web.archive.org/web/20141010013918/http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014"
+},
+{"datetime":"2015-03-19T00:46:24Z",
+"uri":"http://web.archive.org/web/20150319004624/http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://auonlineshop.kddi.com/disp/CSfDispListPage_Digital.jsp?dispNo=001014"}
+ }

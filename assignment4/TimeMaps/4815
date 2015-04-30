@@ -1,0 +1,11 @@
+{"original_uri":"http://www.perfil.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.perfil.com/",
+"timemap_index": [
+{"from":"2000-04-07T10:18:25Z",
+"until":"2012-07-03T17:08:57Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.perfil.com/"
+},{"from":"2012-07-04T04:30:27Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.perfil.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.perfil.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.perfil.com/"
+}}

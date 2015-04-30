@@ -1,0 +1,14 @@
+{"original_uri":"http://dengekionline.com/elem/000/001/001/1001017/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://dengekionline.com/elem/000/001/001/1001017/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-12T10:58:35Z",
+"uri":"http://web.archive.org/web/20150212105835/http://dengekionline.com/elem/000/001/001/1001017/"
+},
+{"datetime":"2015-03-17T10:34:52Z",
+"uri":"http://web.archive.org/web/20150317103452/http://dengekionline.com/elem/000/001/001/1001017/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://dengekionline.com/elem/000/001/001/1001017/"}
+ }

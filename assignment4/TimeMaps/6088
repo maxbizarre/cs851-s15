@@ -1,0 +1,17 @@
+{"original_uri":"http://www.j-cast.com/2015/02/01226781.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.j-cast.com/2015/02/01226781.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-01T13:36:31Z",
+"uri":"http://web.archive.org/web/20150201133631/http://www.j-cast.com/2015/02/01226781.html"
+},
+{"datetime":"2015-02-01T13:36:38Z",
+"uri":"http://archive.is/20150201133638/http://www.j-cast.com/2015/02/01226781.html"
+},
+{"datetime":"2015-02-01T22:20:39Z",
+"uri":"http://web.archive.org/web/20150201222039/http://www.j-cast.com/2015/02/01226781.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.j-cast.com/2015/02/01226781.html"}
+ }

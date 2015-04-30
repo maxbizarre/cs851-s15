@@ -1,0 +1,17 @@
+{"original_uri":"http://www.enfilme.com/en-cartelera/dos-dias-una-noche",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.enfilme.com/en-cartelera/dos-dias-una-noche",
+"mementos": {
+"list": [
+{"datetime":"2015-02-14T20:14:16Z",
+"uri":"http://web.archive.org/web/20150214201416/http://enfilme.com/en-cartelera/dos-dias-una-noche"
+},
+{"datetime":"2015-03-18T07:41:49Z",
+"uri":"http://web.archive.org/web/20150318074149/http://www.enfilme.com/en-cartelera/dos-dias-una-noche"
+},
+{"datetime":"2015-03-25T16:11:04Z",
+"uri":"http://web.archive.org/web/20150325161104/http://enfilme.com/en-cartelera/dos-dias-una-noche"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.enfilme.com/en-cartelera/dos-dias-una-noche"}
+ }

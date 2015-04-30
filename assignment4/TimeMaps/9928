@@ -1,0 +1,17 @@
+{"original_uri":"http://www.sabayacafe.com/?id=9662",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.sabayacafe.com/?id=9662",
+"mementos": {
+"list": [
+{"datetime":"2013-04-16T01:35:18Z",
+"uri":"http://web.archive.org/web/20130416013518/http://www.sabayacafe.com/?id=9662"
+},
+{"datetime":"2013-06-25T18:55:12Z",
+"uri":"http://web.archive.org/web/20130625185512/http://www.sabayacafe.com/?id=9662"
+},
+{"datetime":"2013-07-30T20:54:33Z",
+"uri":"http://web.archive.org/web/20130730205433/http://www.sabayacafe.com/?id=9662"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.sabayacafe.com/?id=9662"}
+ }

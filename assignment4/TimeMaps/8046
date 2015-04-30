@@ -1,0 +1,20 @@
+{"original_uri":"http://download.BestFiends.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://download.BestFiends.com",
+"mementos": {
+"list": [
+{"datetime":"2015-03-15T00:45:49Z",
+"uri":"http://web.archive.org/web/20150315004549/http://download.bestfiends.com/"
+},
+{"datetime":"2015-03-27T19:56:04Z",
+"uri":"http://web.archive.org/web/20150327195604/http://download.bestfiends.com/"
+},
+{"datetime":"2015-04-16T15:23:09Z",
+"uri":"//wayback.archive-it.org/all/20150416152309/http://download.bestfiends.com/"
+},
+{"datetime":"2015-04-16T15:23:09Z",
+"uri":"http://web.archive.org/web/20150416152309/http://download.bestfiends.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://download.BestFiends.com"}
+ }

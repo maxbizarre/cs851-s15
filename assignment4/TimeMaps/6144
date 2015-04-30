@@ -1,0 +1,20 @@
+{"original_uri":"http://otasuke715.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://otasuke715.com",
+"mementos": {
+"list": [
+{"datetime":"2013-09-25T12:16:08Z",
+"uri":"http://web.archive.org/web/20130925121608/http://otasuke715.com"
+},
+{"datetime":"2014-05-18T03:11:18Z",
+"uri":"http://web.archive.org/web/20140518031118/http://otasuke715.com/"
+},
+{"datetime":"2014-08-17T11:01:47Z",
+"uri":"http://web.archive.org/web/20140817110147/http://otasuke715.com/"
+},
+{"datetime":"2014-12-18T00:41:44Z",
+"uri":"http://web.archive.org/web/20141218004144/http://otasuke715.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://otasuke715.com"}
+ }

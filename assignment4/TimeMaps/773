@@ -1,0 +1,14 @@
+{"original_uri":"http://www.multiplybitcoin.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.multiplybitcoin.com",
+"mementos": {
+"list": [
+{"datetime":"2015-02-10T04:56:54Z",
+"uri":"http://web.archive.org/web/20150210045654/http://www.multiplybitcoin.com/"
+},
+{"datetime":"2015-03-15T02:35:38Z",
+"uri":"http://web.archive.org/web/20150315023538/http://www.multiplybitcoin.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.multiplybitcoin.com"}
+ }

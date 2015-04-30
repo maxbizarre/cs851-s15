@@ -1,0 +1,11 @@
+{"original_uri":"http://Techu.jp",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://Techu.jp",
+"mementos": {
+"list": [
+{"datetime":"2014-12-25T20:05:54Z",
+"uri":"http://web.archive.org/web/20141225200554/http://techu.jp/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://Techu.jp"}
+ }

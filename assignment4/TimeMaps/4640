@@ -1,0 +1,14 @@
+{"original_uri":"http://nlab.itmedia.co.jp/nl/articles/1502/04/news120.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://nlab.itmedia.co.jp/nl/articles/1502/04/news120.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T14:51:55Z",
+"uri":"http://web.archive.org/web/20150204145155/http://nlab.itmedia.co.jp/nl/articles/1502/04/news120.html"
+},
+{"datetime":"2015-03-26T11:44:39Z",
+"uri":"http://web.archive.org/web/20150326114439/http://nlab.itmedia.co.jp/nl/articles/1502/04/news120.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://nlab.itmedia.co.jp/nl/articles/1502/04/news120.html"}
+ }

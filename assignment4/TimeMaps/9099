@@ -1,0 +1,14 @@
+{"original_uri":"http://wedding.gnavi.co.jp/bridal/osaka/WAREAL3326/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://wedding.gnavi.co.jp/bridal/osaka/WAREAL3326/",
+"mementos": {
+"list": [
+{"datetime":"2013-12-31T09:47:45Z",
+"uri":"http://web.archive.org/web/20131231094745/http://wedding.gnavi.co.jp/bridal/osaka/WAREAL3326/"
+},
+{"datetime":"2014-07-05T23:11:42Z",
+"uri":"http://web.archive.org/web/20140705231142/http://wedding.gnavi.co.jp/bridal/osaka/WAREAL3326/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://wedding.gnavi.co.jp/bridal/osaka/WAREAL3326/"}
+ }

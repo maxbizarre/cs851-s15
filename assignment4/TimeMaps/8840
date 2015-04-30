@@ -1,0 +1,32 @@
+{"original_uri":"http://neostyle.info/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://neostyle.info/",
+"mementos": {
+"list": [
+{"datetime":"2011-07-12T04:02:58Z",
+"uri":"http://web.archive.org/web/20110712040258/http://neostyle.info/"
+},
+{"datetime":"2011-08-14T17:38:34Z",
+"uri":"http://web.archive.org/web/20110814173834/http://neostyle.info/"
+},
+{"datetime":"2013-05-28T02:23:08Z",
+"uri":"http://web.archive.org/web/20130528022308/http://neostyle.info/"
+},
+{"datetime":"2013-06-14T18:08:42Z",
+"uri":"http://web.archive.org/web/20130614180842/http://neostyle.info/"
+},
+{"datetime":"2013-09-07T21:36:00Z",
+"uri":"http://web.archive.org/web/20130907213600/http://neostyle.info/"
+},
+{"datetime":"2013-12-28T12:08:48Z",
+"uri":"http://web.archive.org/web/20131228120848/http://neostyle.info/"
+},
+{"datetime":"2014-05-17T19:21:26Z",
+"uri":"http://web.archive.org/web/20140517192126/http://neostyle.info/"
+},
+{"datetime":"2014-12-18T04:15:36Z",
+"uri":"http://web.archive.org/web/20141218041536/http://neostyle.info/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://neostyle.info/"}
+ }

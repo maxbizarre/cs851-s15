@@ -1,0 +1,17 @@
+{"original_uri":"http://www.bbc.co.uk/news/uk-scotland-31129382",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/uk-scotland-31129382",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T11:18:50Z",
+"uri":"http://archive.is/20150204111850/http://www.bbc.co.uk/news/uk-scotland-31129382"
+},
+{"datetime":"2015-02-04T11:21:08Z",
+"uri":"http://web.archive.org/web/20150204112108/http://www.bbc.co.uk/news/uk-scotland-31129382"
+},
+{"datetime":"2015-02-04T18:31:34Z",
+"uri":"http://archive.is/20150204183134/http://www.bbc.co.uk/news/uk-scotland-31129382"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/uk-scotland-31129382"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://www.desafiodetodos.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.desafiodetodos.com/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-08T07:23:50Z",
+"uri":"http://archive.is/20150308072350/http://www.desafiodetodos.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.desafiodetodos.com/"}
+ }

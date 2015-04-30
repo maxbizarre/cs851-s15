@@ -1,0 +1,17 @@
+{"original_uri":"http://www.rollingstone.com/music/premieres/cody-simpson-flower-miley-cyrus-20150204",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.rollingstone.com/music/premieres/cody-simpson-flower-miley-cyrus-20150204",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T05:44:55Z",
+"uri":"http://archive.is/20150205054455/http://www.rollingstone.com/music/premieres/cody-simpson-flower-miley-cyrus-20150204"
+},
+{"datetime":"2015-02-05T14:04:29Z",
+"uri":"http://web.archive.org/web/20150205140429/http://www.rollingstone.com/music/premieres/cody-simpson-flower-miley-cyrus-20150204"
+},
+{"datetime":"2015-02-14T05:00:28Z",
+"uri":"http://web.archive.org/web/20150214050028/http://www.rollingstone.com/music/premieres/cody-simpson-flower-miley-cyrus-20150204"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.rollingstone.com/music/premieres/cody-simpson-flower-miley-cyrus-20150204"}
+ }

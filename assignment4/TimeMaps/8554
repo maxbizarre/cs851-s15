@@ -1,0 +1,17 @@
+{"original_uri":"http://japankoria.seesaa.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://japankoria.seesaa.net/",
+"mementos": {
+"list": [
+{"datetime":"2014-01-25T13:13:54Z",
+"uri":"http://web.archive.org/web/20140125131354/http://japankoria.seesaa.net/"
+},
+{"datetime":"2014-05-10T06:34:46Z",
+"uri":"http://web.archive.org/web/20140510063446/http://japankoria.seesaa.net/"
+},
+{"datetime":"2014-07-13T18:57:58Z",
+"uri":"http://web.archive.org/web/20140713185758/http://japankoria.seesaa.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://japankoria.seesaa.net/"}
+ }

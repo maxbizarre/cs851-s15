@@ -1,0 +1,17 @@
+{"original_uri":"http://soundcloud.com/mariboustate/moon-circles",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://soundcloud.com/mariboustate/moon-circles",
+"mementos": {
+"list": [
+{"datetime":"2014-03-28T01:54:00Z",
+"uri":"http://web.archive.org/web/20140328015400/http://soundcloud.com/mariboustate/moon-circles"
+},
+{"datetime":"2014-08-12T18:25:30Z",
+"uri":"http://web.archive.org/web/20140812182530/http://soundcloud.com/mariboustate/moon-circles"
+},
+{"datetime":"2015-01-08T21:35:48Z",
+"uri":"http://web.archive.org/web/20150108213548/https://soundcloud.com/mariboustate/moon-circles"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://soundcloud.com/mariboustate/moon-circles"}
+ }

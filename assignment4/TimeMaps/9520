@@ -1,0 +1,14 @@
+{"original_uri":"http://hiruzu-tutiya.s3.amazonaws.com/y/info.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://hiruzu-tutiya.s3.amazonaws.com/y/info.html",
+"mementos": {
+"list": [
+{"datetime":"2014-05-04T20:08:40Z",
+"uri":"http://web.archive.org/web/20140504200840/http://hiruzu-tutiya.s3.amazonaws.com/y/info.html"
+},
+{"datetime":"2015-02-23T03:59:57Z",
+"uri":"http://web.archive.org/web/20150223035957/http://hiruzu-tutiya.s3.amazonaws.com/y/info.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://hiruzu-tutiya.s3.amazonaws.com/y/info.html"}
+ }

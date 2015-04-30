@@ -1,0 +1,23 @@
+{"original_uri":"http://www.dmm.co.jp/digital/videoa/-/detail/=/cid=jux00226/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.dmm.co.jp/digital/videoa/-/detail/=/cid=jux00226/",
+"mementos": {
+"list": [
+{"datetime":"2014-01-01T04:04:19Z",
+"uri":"http://web.archive.org/web/20140101040419/http://www.dmm.co.jp/digital/videoa/-/detail/=/cid=jux00226"
+},
+{"datetime":"2014-02-20T16:11:18Z",
+"uri":"http://web.archive.org/web/20140220161118/http://www.dmm.co.jp/digital/videoa/-/detail/=/cid=jux00226"
+},
+{"datetime":"2014-04-19T18:35:15Z",
+"uri":"http://web.archive.org/web/20140419183515/http://www.dmm.co.jp/digital/videoa/-/detail/=/cid=jux00226"
+},
+{"datetime":"2014-06-26T21:44:47Z",
+"uri":"http://web.archive.org/web/20140626214447/http://www.dmm.co.jp/digital/videoa/-/detail/=/cid=jux00226"
+},
+{"datetime":"2014-08-28T08:20:02Z",
+"uri":"http://web.archive.org/web/20140828082002/http://www.dmm.co.jp/digital/videoa/-/detail/=/cid=jux00226"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.dmm.co.jp/digital/videoa/-/detail/=/cid=jux00226/"}
+ }

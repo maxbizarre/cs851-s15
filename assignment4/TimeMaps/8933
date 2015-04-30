@@ -1,0 +1,17 @@
+{"original_uri":"http://www.cnn.com/2015/02/03/intl_world/amanpour-didier-francois/index.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.cnn.com/2015/02/03/intl_world/amanpour-didier-francois/index.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T21:39:54Z",
+"uri":"http://archive.is/20150203213954/http://www.cnn.com/2015/02/03/intl_world/amanpour-didier-francois/index.html"
+},
+{"datetime":"2015-02-04T00:11:18Z",
+"uri":"http://web.archive.org/web/20150204001118/http://www.cnn.com/2015/02/03/intl_world/amanpour-didier-francois/index.html"
+},
+{"datetime":"2015-02-05T12:07:32Z",
+"uri":"http://web.archive.org/web/20150205120732/http://www.cnn.com/2015/02/03/intl_world/amanpour-didier-francois/index.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.cnn.com/2015/02/03/intl_world/amanpour-didier-francois/index.html"}
+ }

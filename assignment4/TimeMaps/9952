@@ -1,0 +1,23 @@
+{"original_uri":"http://www.yeshuahamashiaj.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.yeshuahamashiaj.com/",
+"mementos": {
+"list": [
+{"datetime":"2012-10-12T23:55:50Z",
+"uri":"http://web.archive.org/web/20121012235550/http://yeshuahamashiaj.com/"
+},
+{"datetime":"2013-09-20T03:13:08Z",
+"uri":"http://web.archive.org/web/20130920031308/http://www.yeshuahamashiaj.com/"
+},
+{"datetime":"2014-05-15T21:50:30Z",
+"uri":"http://archive.is/20140515215030/http://www.yeshuahamashiaj.com/"
+},
+{"datetime":"2014-08-12T09:41:38Z",
+"uri":"http://web.archive.org/web/20140812094138/http://www.yeshuahamashiaj.com/"
+},
+{"datetime":"2014-12-18T17:40:19Z",
+"uri":"http://web.archive.org/web/20141218174019/http://yeshuahamashiaj.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.yeshuahamashiaj.com/"}
+ }

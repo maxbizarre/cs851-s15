@@ -1,0 +1,26 @@
+{"original_uri":"http://www.youtube.com/watch?v=v4kAX7C88wc",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=v4kAX7C88wc",
+"mementos": {
+"list": [
+{"datetime":"2011-08-07T13:00:16Z",
+"uri":"http://web.archive.org/web/20110807130016/http://www.youtube.com/watch?v=v4kAX7C88wc&gl=US&hl=en&amp;has_verified=1"
+},
+{"datetime":"2011-08-28T00:18:54Z",
+"uri":"http://web.archive.org/web/20110828001854/http://www.youtube.com/watch?v=v4kAX7C88wc"
+},
+{"datetime":"2011-10-17T05:32:37Z",
+"uri":"http://web.archive.org/web/20111017053237/http://www.youtube.com/watch?v=v4kAX7C88wc"
+},
+{"datetime":"2011-12-11T01:17:34Z",
+"uri":"http://web.archive.org/web/20111211011734/http://www.youtube.com/watch?v=v4kAX7C88wc&feature=related"
+},
+{"datetime":"2015-03-23T17:51:24Z",
+"uri":"http://web.archive.org/web/20150323175124/http://www.youtube.com/watch?v=v4kAX7C88wc"
+},
+{"datetime":"2015-03-23T17:51:25Z",
+"uri":"http://web.archive.org/web/20150323175125/https://www.youtube.com/watch?v=v4kAX7C88wc"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=v4kAX7C88wc"}
+ }

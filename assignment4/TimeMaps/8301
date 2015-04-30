@@ -1,0 +1,17 @@
+{"original_uri":"http://www.localladies.me",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.localladies.me",
+"mementos": {
+"list": [
+{"datetime":"2013-11-29T22:01:09Z",
+"uri":"http://web.archive.org/web/20131129220109/http://www.localladies.me/"
+},
+{"datetime":"2014-12-02T02:36:50Z",
+"uri":"http://web.archive.org/web/20141202023650/http://localladies.me/"
+},
+{"datetime":"2014-12-17T13:56:59Z",
+"uri":"http://web.archive.org/web/20141217135659/http://localladies.me/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.localladies.me"}
+ }

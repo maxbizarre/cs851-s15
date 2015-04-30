@@ -1,0 +1,23 @@
+{"original_uri":"http://carinsurancelongisland.us/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://carinsurancelongisland.us/",
+"mementos": {
+"list": [
+{"datetime":"2013-05-03T14:07:21Z",
+"uri":"http://web.archive.org/web/20130503140721/http://carinsurancelongisland.us"
+},
+{"datetime":"2014-05-17T02:20:25Z",
+"uri":"http://web.archive.org/web/20140517022025/http://carinsurancelongisland.us/"
+},
+{"datetime":"2014-12-16T20:24:45Z",
+"uri":"http://web.archive.org/web/20141216202445/http://carinsurancelongisland.us/"
+},
+{"datetime":"2014-12-18T10:27:06Z",
+"uri":"//wayback.archive-it.org/all/20141218102706/http://carinsurancelongisland.us/"
+},
+{"datetime":"2014-12-18T10:27:06Z",
+"uri":"http://web.archive.org/web/20141218102706/http://carinsurancelongisland.us/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://carinsurancelongisland.us/"}
+ }

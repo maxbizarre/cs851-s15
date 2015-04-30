@@ -1,0 +1,26 @@
+{"original_uri":"http://www.47news.jp/CN/201502/CN2015020401001992.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.47news.jp/CN/201502/CN2015020401001992.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T21:20:03Z",
+"uri":"http://web.archive.org/web/20150204212003/http://www.47news.jp/CN/201502/CN2015020401001992.html"
+},
+{"datetime":"2015-02-04T21:35:56Z",
+"uri":"http://archive.is/20150204213556/http://www.47news.jp/CN/201502/CN2015020401001992.html"
+},
+{"datetime":"2015-02-04T21:36:42Z",
+"uri":"http://web.archive.org/web/20150204213642/http://www.47news.jp/CN/201502/CN2015020401001992.html"
+},
+{"datetime":"2015-02-04T21:44:38Z",
+"uri":"http://web.archive.org/web/20150204214438/http://www.47news.jp/CN/201502/CN2015020401001992.html"
+},
+{"datetime":"2015-02-05T12:05:59Z",
+"uri":"http://web.archive.org/web/20150205120559/http://www.47news.jp/CN/201502/CN2015020401001992.html"
+},
+{"datetime":"2015-02-06T07:19:51Z",
+"uri":"http://archive.is/20150206071951/http://www.47news.jp/CN/201502/CN2015020401001992.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.47news.jp/CN/201502/CN2015020401001992.html"}
+ }

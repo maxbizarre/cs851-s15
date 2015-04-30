@@ -1,0 +1,14 @@
+{"original_uri":"http://headlines.yahoo.co.jp/hl?a=20150204-00000114-mai-soci",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://headlines.yahoo.co.jp/hl?a=20150204-00000114-mai-soci",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T23:41:41Z",
+"uri":"http://web.archive.org/web/20150204234141/http://headlines.yahoo.co.jp/hl?a=20150204-00000114-mai-soci"
+},
+{"datetime":"2015-04-24T05:11:15Z",
+"uri":"http://web.archive.org/web/20150424051115/http://headlines.yahoo.co.jp/hl?a=20150204-00000114-mai-soci"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://headlines.yahoo.co.jp/hl?a=20150204-00000114-mai-soci"}
+ }

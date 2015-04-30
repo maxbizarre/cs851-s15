@@ -1,0 +1,17 @@
+{"original_uri":"http://www.tenki.jp/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.tenki.jp/",
+"timemap_index": [
+{"from":"2001-07-08T20:51:59Z",
+"until":"2009-03-21T05:06:35Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.tenki.jp/"
+},{"from":"2009-03-22T20:09:46Z",
+"until":"2012-02-28T03:03:34Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.tenki.jp/"
+},{"from":"2012-02-28T03:03:43Z",
+"until":"2013-09-22T04:48:18Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.tenki.jp/"
+},{"from":"2013-09-22T05:03:25Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://www.tenki.jp/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.tenki.jp/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.tenki.jp/"
+}}

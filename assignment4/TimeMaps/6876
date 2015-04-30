@@ -1,0 +1,11 @@
+{"original_uri":"http://www.comune.torino.it/socialwall/into/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.comune.torino.it/socialwall/into/",
+"mementos": {
+"list": [
+{"datetime":"2014-08-22T22:43:49Z",
+"uri":"http://web.archive.org/web/20140822224349/http://www.comune.torino.it/socialwall/into/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.comune.torino.it/socialwall/into/"}
+ }

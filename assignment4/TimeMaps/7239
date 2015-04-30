@@ -1,0 +1,14 @@
+{"original_uri":"http://www.consar.gob.mx/BLOG/BeneficiosExpedienteElectronico.aspx",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.consar.gob.mx/BLOG/BeneficiosExpedienteElectronico.aspx",
+"mementos": {
+"list": [
+{"datetime":"2015-03-14T23:50:03Z",
+"uri":"http://web.archive.org/web/20150314235003/http://consar.gob.mx/BLOG/BeneficiosExpedienteElectronico.aspx"
+},
+{"datetime":"2015-03-17T00:52:41Z",
+"uri":"http://web.archive.org/web/20150317005241/http://www.consar.gob.mx/BLOG/BeneficiosExpedienteElectronico.aspx"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.consar.gob.mx/BLOG/BeneficiosExpedienteElectronico.aspx"}
+ }

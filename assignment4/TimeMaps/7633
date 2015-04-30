@@ -1,0 +1,23 @@
+{"original_uri":"http://natalie.mu/music/news/137820",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://natalie.mu/music/news/137820",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T17:58:33Z",
+"uri":"http://web.archive.org/web/20150204175833/http://natalie.mu/music/news/137820"
+},
+{"datetime":"2015-02-05T10:09:10Z",
+"uri":"http://archive.is/20150205100910/http://natalie.mu/music/news/137820"
+},
+{"datetime":"2015-02-05T10:09:41Z",
+"uri":"http://web.archive.org/web/20150205100941/http://natalie.mu/music/news/137820"
+},
+{"datetime":"2015-02-05T10:12:19Z",
+"uri":"http://web.archive.org/web/20150205101219/http://natalie.mu/music/news/137820"
+},
+{"datetime":"2015-03-30T11:28:49Z",
+"uri":"http://web.archive.org/web/20150330112849/http://natalie.mu/music/news/137820"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://natalie.mu/music/news/137820"}
+ }

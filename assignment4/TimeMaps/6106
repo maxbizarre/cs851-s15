@@ -1,0 +1,20 @@
+{"original_uri":"http://www.viva.co.id/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.viva.co.id/",
+"timemap_index": [
+{"from":"2008-12-06T14:41:56Z",
+"until":"2014-05-19T06:37:45Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.viva.co.id/"
+},{"from":"2014-05-19T08:55:05Z",
+"until":"2014-08-31T19:26:54Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.viva.co.id/"
+},{"from":"2014-08-31T19:27:15Z",
+"until":"2014-12-04T22:38:28Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.viva.co.id/"
+},{"from":"2014-12-05T07:26:25Z",
+"until":"2015-04-09T12:44:10Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://www.viva.co.id/"
+},{"from":"2015-04-09T13:03:47Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://www.viva.co.id/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.viva.co.id/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.viva.co.id/"
+}}

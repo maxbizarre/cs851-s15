@@ -1,0 +1,26 @@
+{"original_uri":"http://bylines.news.yahoo.co.jp/fujitatakanori/20150204-00042801/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://bylines.news.yahoo.co.jp/fujitatakanori/20150204-00042801/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T09:30:47Z",
+"uri":"http://web.archive.org/web/20150204093047/http://bylines.news.yahoo.co.jp/fujitatakanori/20150204-00042801/"
+},
+{"datetime":"2015-02-04T09:35:25Z",
+"uri":"http://web.archive.org/web/20150204093525/http://bylines.news.yahoo.co.jp/fujitatakanori/20150204-00042801/"
+},
+{"datetime":"2015-02-04T09:35:25Z",
+"uri":"http://archive.is/20150204093525/http://bylines.news.yahoo.co.jp/fujitatakanori/20150204-00042801/"
+},
+{"datetime":"2015-02-06T20:12:12Z",
+"uri":"//wayback.archive-it.org/all/20150206201212/http://bylines.news.yahoo.co.jp/fujitatakanori/20150204-00042801/"
+},
+{"datetime":"2015-02-06T20:12:12Z",
+"uri":"http://web.archive.org/web/20150206201212/http://bylines.news.yahoo.co.jp/fujitatakanori/20150204-00042801/"
+},
+{"datetime":"2015-02-08T23:50:19Z",
+"uri":"http://web.archive.org/web/20150208235019/http://bylines.news.yahoo.co.jp/fujitatakanori/20150204-00042801/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://bylines.news.yahoo.co.jp/fujitatakanori/20150204-00042801/"}
+ }

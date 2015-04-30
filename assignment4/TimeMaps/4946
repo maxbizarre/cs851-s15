@@ -1,0 +1,11 @@
+{"original_uri":"http://musicpromo.mixtapeslots.com/index.php?route=product/product",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://musicpromo.mixtapeslots.com/index.php?route=product/product",
+"mementos": {
+"list": [
+{"datetime":"2014-05-12T17:26:06Z",
+"uri":"http://web.archive.org/web/20140512172606/http://musicpromo.mixtapeslots.com/index.php?route=product/product"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://musicpromo.mixtapeslots.com/index.php?route=product/product"}
+ }

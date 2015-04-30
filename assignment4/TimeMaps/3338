@@ -1,0 +1,35 @@
+{"original_uri":"http://svdphb.org/parish-staff-2-2/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://svdphb.org/parish-staff-2-2/",
+"mementos": {
+"list": [
+{"datetime":"2012-12-28T10:20:46Z",
+"uri":"http://web.archive.org/web/20121228102046/http://svdphb.org/parish-staff-2-2/"
+},
+{"datetime":"2013-04-30T07:16:46Z",
+"uri":"http://web.archive.org/web/20130430071646/http://svdphb.org/parish-staff-2-2"
+},
+{"datetime":"2013-04-30T07:16:46Z",
+"uri":"http://web.archive.org/web/20130430071646/http://svdphb.org/parish-staff-2-2/"
+},
+{"datetime":"2013-05-02T04:11:11Z",
+"uri":"http://web.archive.org/web/20130502041111/http://svdphb.org/parish-staff-2-2/"
+},
+{"datetime":"2013-05-03T05:20:51Z",
+"uri":"http://web.archive.org/web/20130503052051/http://svdphb.org/parish-staff-2-2/"
+},
+{"datetime":"2013-06-03T09:51:00Z",
+"uri":"http://web.archive.org/web/20130603095100/http://svdphb.org/parish-staff-2-2"
+},
+{"datetime":"2013-06-03T09:51:00Z",
+"uri":"http://web.archive.org/web/20130603095100/http://svdphb.org/parish-staff-2-2/"
+},
+{"datetime":"2013-12-10T02:18:52Z",
+"uri":"http://web.archive.org/web/20131210021852/http://svdphb.org/parish-staff-2-2/"
+},
+{"datetime":"2015-04-26T11:56:50Z",
+"uri":"http://web.archive.org/web/20150426115650/http://svdphb.org/parish-staff-2-2/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://svdphb.org/parish-staff-2-2/"}
+ }

@@ -1,0 +1,20 @@
+{"original_uri":"http://toyokeizai.net/articles/-/58121",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://toyokeizai.net/articles/-/58121",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T23:06:03Z",
+"uri":"http://archive.is/20150204230603/http://toyokeizai.net/articles/-/58121"
+},
+{"datetime":"2015-02-04T23:06:34Z",
+"uri":"http://web.archive.org/web/20150204230634/http://toyokeizai.net/articles/-/58121"
+},
+{"datetime":"2015-02-04T23:15:42Z",
+"uri":"http://web.archive.org/web/20150204231542/http://toyokeizai.net/articles/-/58121"
+},
+{"datetime":"2015-02-04T23:16:12Z",
+"uri":"http://archive.is/20150204231612/http://toyokeizai.net/articles/-/58121"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://toyokeizai.net/articles/-/58121"}
+ }

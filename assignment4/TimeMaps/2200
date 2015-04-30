@@ -1,0 +1,26 @@
+{"original_uri":"http://www.fifa.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.fifa.com/",
+"timemap_index": [
+{"from":"1998-11-11T18:35:12Z",
+"until":"2005-12-23T02:22:12Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://www.fifa.com/"
+},{"from":"2005-12-23T14:35:52Z",
+"until":"2011-10-27T23:51:32Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://www.fifa.com/"
+},{"from":"2011-10-28T15:35:36Z",
+"until":"2012-11-10T07:01:02Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://www.fifa.com/"
+},{"from":"2012-11-10T08:26:22Z",
+"until":"2013-12-15T07:34:08Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://www.fifa.com/"
+},{"from":"2013-12-15T21:04:46Z",
+"until":"2014-07-01T16:46:35Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://www.fifa.com/"
+},{"from":"2014-07-01T18:35:20Z",
+"until":"2014-12-27T22:56:16Z",
+"uri":"http://labs.mementoweb.org/timemap/json/5000/http://www.fifa.com/"
+},{"from":"2014-12-28T07:02:07Z",
+"uri":"http://labs.mementoweb.org/timemap/json/6000/http://www.fifa.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://www.fifa.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://www.fifa.com/"
+}}

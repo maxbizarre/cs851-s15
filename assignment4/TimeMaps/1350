@@ -1,0 +1,11 @@
+{"original_uri":"http://cargocollective.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cargocollective.com/",
+"timemap_index": [
+{"from":"2009-02-28T10:03:29Z",
+"until":"2013-11-22T05:33:58Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://cargocollective.com/"
+},{"from":"2013-11-22T06:24:16Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://cargocollective.com/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://cargocollective.com/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://cargocollective.com/"
+}}

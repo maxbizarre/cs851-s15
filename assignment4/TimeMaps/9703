@@ -1,0 +1,14 @@
+{"original_uri":"http://www.code2040.org/entrepreneurs/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.code2040.org/entrepreneurs/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-15T06:05:20Z",
+"uri":"http://web.archive.org/web/20150315060520/http://www.code2040.org/entrepreneurs/"
+},
+{"datetime":"2015-03-21T01:04:57Z",
+"uri":"http://web.archive.org/web/20150321010457/http://www.code2040.org/entrepreneurs"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.code2040.org/entrepreneurs/"}
+ }

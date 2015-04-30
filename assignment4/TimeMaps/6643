@@ -1,0 +1,23 @@
+{"original_uri":"http://ameblo.jp/keibayosoudayo/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ameblo.jp/keibayosoudayo/",
+"mementos": {
+"list": [
+{"datetime":"2011-06-29T02:36:53Z",
+"uri":"http://www.webcitation.org/5znDvxWOE"
+},
+{"datetime":"2011-06-30T00:28:19Z",
+"uri":"http://www.webcitation.org/5zobp7z9N"
+},
+{"datetime":"2011-07-03T10:49:20Z",
+"uri":"http://www.webcitation.org/5ztpQM0Ld"
+},
+{"datetime":"2011-07-04T14:03:06Z",
+"uri":"http://www.webcitation.org/5zvYQD3T4"
+},
+{"datetime":"2012-01-13T19:58:06Z",
+"uri":"http://web.archive.org/web/20120113195806/http://ameblo.jp/keibayosoudayo"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ameblo.jp/keibayosoudayo/"}
+ }

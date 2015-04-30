@@ -1,0 +1,20 @@
+{"original_uri":"http://www.tycsportsplay.com/ar/en-vivo",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.tycsportsplay.com/ar/en-vivo",
+"mementos": {
+"list": [
+{"datetime":"2015-01-21T05:35:40Z",
+"uri":"http://web.archive.org/web/20150121053540/http://tycsportsplay.com/ar/en-vivo"
+},
+{"datetime":"2015-03-15T20:52:42Z",
+"uri":"http://web.archive.org/web/20150315205242/http://tycsportsplay.com/ar/en-vivo"
+},
+{"datetime":"2015-03-31T14:18:57Z",
+"uri":"//wayback.archive-it.org/all/20150331141857/http://www.tycsportsplay.com/ar/en-vivo"
+},
+{"datetime":"2015-03-31T14:18:57Z",
+"uri":"http://web.archive.org/web/20150331141857/http://www.tycsportsplay.com/ar/en-vivo"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.tycsportsplay.com/ar/en-vivo"}
+ }

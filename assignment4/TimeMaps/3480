@@ -1,0 +1,11 @@
+{"original_uri":"http://my-tiny.com/ydnm/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://my-tiny.com/ydnm/",
+"mementos": {
+"list": [
+{"datetime":"2014-04-02T10:49:58Z",
+"uri":"http://web.archive.org/web/20140402104958/http://my-tiny.com/ydnm/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://my-tiny.com/ydnm/"}
+ }

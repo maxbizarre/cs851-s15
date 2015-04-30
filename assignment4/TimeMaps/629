@@ -1,0 +1,59 @@
+{"original_uri":"http://www.nicovideo.jp/watch/sm25499854",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.nicovideo.jp/watch/sm25499854",
+"mementos": {
+"list": [
+{"datetime":"2015-03-12T10:13:04Z",
+"uri":"http://web.archive.org/web/20150312101304/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-13T18:13:38Z",
+"uri":"http://web.archive.org/web/20150313181338/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-15T04:44:53Z",
+"uri":"http://web.archive.org/web/20150315044453/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-17T20:48:21Z",
+"uri":"http://web.archive.org/web/20150317204821/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-18T22:07:52Z",
+"uri":"http://web.archive.org/web/20150318220752/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-19T23:14:17Z",
+"uri":"http://web.archive.org/web/20150319231417/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-21T00:31:56Z",
+"uri":"http://web.archive.org/web/20150321003156/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-22T09:15:22Z",
+"uri":"http://web.archive.org/web/20150322091522/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-23T13:08:09Z",
+"uri":"http://web.archive.org/web/20150323130809/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-24T14:35:05Z",
+"uri":"http://web.archive.org/web/20150324143505/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-26T21:56:57Z",
+"uri":"http://web.archive.org/web/20150326215657/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-28T01:07:50Z",
+"uri":"http://web.archive.org/web/20150328010750/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-29T04:17:17Z",
+"uri":"http://web.archive.org/web/20150329041717/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-30T08:25:49Z",
+"uri":"http://web.archive.org/web/20150330082549/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-03-31T10:25:30Z",
+"uri":"http://web.archive.org/web/20150331102530/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-04-10T16:13:37Z",
+"uri":"http://web.archive.org/web/20150410161337/http://www.nicovideo.jp/watch/sm25499854"
+},
+{"datetime":"2015-04-28T08:37:05Z",
+"uri":"http://web.archive.org/web/20150428083705/http://www.nicovideo.jp/watch/sm25499854"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.nicovideo.jp/watch/sm25499854"}
+ }

@@ -1,0 +1,23 @@
+{"original_uri":"http://App.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://App.net/",
+"timemap_index": [
+{"from":"2000-12-06T21:30:00Z",
+"until":"2014-03-19T02:42:53Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1/http://App.net/"
+},{"from":"2014-03-19T16:36:00Z",
+"until":"2014-06-17T08:17:41Z",
+"uri":"http://labs.mementoweb.org/timemap/json/1000/http://App.net/"
+},{"from":"2014-06-17T08:17:46Z",
+"until":"2014-08-17T18:04:56Z",
+"uri":"http://labs.mementoweb.org/timemap/json/2000/http://App.net/"
+},{"from":"2014-08-17T18:04:56Z",
+"until":"2014-11-01T17:51:12Z",
+"uri":"http://labs.mementoweb.org/timemap/json/3000/http://App.net/"
+},{"from":"2014-11-01T17:51:14Z",
+"until":"2015-03-17T21:13:18Z",
+"uri":"http://labs.mementoweb.org/timemap/json/4000/http://App.net/"
+},{"from":"2015-03-17T23:43:44Z",
+"uri":"http://labs.mementoweb.org/timemap/json/5000/http://App.net/"
+}],"timemap_uri": {"json_format": "http://labs.mementoweb.org/timemap/json/http://App.net/",
+"link_format": "http://labs.mementoweb.org/timemap/link/http://App.net/"
+}}

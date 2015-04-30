@@ -1,0 +1,23 @@
+{"original_uri":"http://koka.s147.coreserver.jp/JISEI1-18.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://koka.s147.coreserver.jp/JISEI1-18.html",
+"mementos": {
+"list": [
+{"datetime":"2011-10-27T23:38:26Z",
+"uri":"http://web.archive.org/web/20111027233826/http://koka.s147.coreserver.jp/JISEI1-18.html"
+},
+{"datetime":"2011-11-12T17:38:19Z",
+"uri":"http://web.archive.org/web/20111112173819/http://koka.s147.coreserver.jp/JISEI1-18.html"
+},
+{"datetime":"2011-12-28T14:24:14Z",
+"uri":"http://web.archive.org/web/20111228142414/http://koka.s147.coreserver.jp/JISEI1-18.html"
+},
+{"datetime":"2012-02-24T03:27:21Z",
+"uri":"http://web.archive.org/web/20120224032721/http://koka.s147.coreserver.jp/JISEI1-18.html"
+},
+{"datetime":"2013-04-03T23:59:52Z",
+"uri":"http://web.archive.org/web/20130403235952/http://koka.s147.coreserver.jp/JISEI1-18.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://koka.s147.coreserver.jp/JISEI1-18.html"}
+ }

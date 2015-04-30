@@ -1,0 +1,11 @@
+{"original_uri":"http://theins.ru/news/2794",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://theins.ru/news/2794",
+"mementos": {
+"list": [
+{"datetime":"2015-04-06T01:02:42Z",
+"uri":"http://web.archive.org/web/20150406010242/http://theins.ru/news/2794"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://theins.ru/news/2794"}
+ }

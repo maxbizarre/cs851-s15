@@ -1,0 +1,14 @@
+{"original_uri":"http://abcnews.go.com/International/mcdonalds-selling-limited-edition-special-sauce/story?id=28661546",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://abcnews.go.com/International/mcdonalds-selling-limited-edition-special-sauce/story?id=28661546",
+"mementos": {
+"list": [
+{"datetime":"2015-02-02T15:29:25Z",
+"uri":"http://web.archive.org/web/20150202152925/https://abcnews.go.com/International/mcdonalds-selling-limited-edition-special-sauce/story?id=28661546"
+},
+{"datetime":"2015-03-23T14:58:39Z",
+"uri":"http://web.archive.org/web/20150323145839/http://abcnews.go.com/International/mcdonalds-selling-limited-edition-special-sauce/story?id=28661546"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://abcnews.go.com/International/mcdonalds-selling-limited-edition-special-sauce/story?id=28661546"}
+ }

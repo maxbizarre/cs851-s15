@@ -1,0 +1,11 @@
+{"original_uri":"http://www.senat.fr/presse/cp20150204.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.senat.fr/presse/cp20150204.html",
+"mementos": {
+"list": [
+{"datetime":"2015-03-29T10:09:06Z",
+"uri":"http://web.archive.org/web/20150329100906/http://www.senat.fr/presse/cp20150204.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.senat.fr/presse/cp20150204.html"}
+ }

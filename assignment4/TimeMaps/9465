@@ -1,0 +1,29 @@
+{"original_uri":"http://instagram.com/shathahassoun/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://instagram.com/shathahassoun/",
+"mementos": {
+"list": [
+{"datetime":"2012-12-14T01:39:45Z",
+"uri":"http://web.archive.org/web/20121214013945/http://instagram.com/shathahassoun"
+},
+{"datetime":"2013-02-16T18:24:07Z",
+"uri":"http://web.archive.org/web/20130216182407/http://instagram.com/ShathaHassoun"
+},
+{"datetime":"2013-11-25T02:21:33Z",
+"uri":"http://web.archive.org/web/20131125022133/http://instagram.com/shathahassoun/"
+},
+{"datetime":"2015-02-27T04:19:31Z",
+"uri":"http://web.archive.org/web/20150227041931/https://instagram.com/shathahassoun"
+},
+{"datetime":"2015-02-27T08:50:10Z",
+"uri":"http://web.archive.org/web/20150227085010/https://instagram.com/shathahassoun/"
+},
+{"datetime":"2015-03-27T11:05:37Z",
+"uri":"http://web.archive.org/web/20150327110537/http://instagram.com/shathahassoun"
+},
+{"datetime":"2015-04-13T07:16:11Z",
+"uri":"http://web.archive.org/web/20150413071611/https://instagram.com/shathahassoun"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://instagram.com/shathahassoun/"}
+ }

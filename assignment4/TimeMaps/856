@@ -1,0 +1,14 @@
+{"original_uri":"http://www.wimp.com/woodphoto/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.wimp.com/woodphoto/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-10T04:50:39Z",
+"uri":"//wayback.archive-it.org/all/20150210045039/http://www.wimp.com/woodphoto/"
+},
+{"datetime":"2015-02-10T04:50:39Z",
+"uri":"http://web.archive.org/web/20150210045039/http://www.wimp.com/woodphoto/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.wimp.com/woodphoto/"}
+ }

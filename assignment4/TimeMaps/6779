@@ -1,0 +1,20 @@
+{"original_uri":"http://www.dailymedicalinfo.com/articles/a-1702",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.dailymedicalinfo.com/articles/a-1702",
+"mementos": {
+"list": [
+{"datetime":"2014-12-03T01:45:31Z",
+"uri":"http://web.archive.org/web/20141203014531/http://www.dailymedicalinfo.com/articles/a-1702"
+},
+{"datetime":"2014-12-10T03:02:45Z",
+"uri":"http://web.archive.org/web/20141210030245/http://www.dailymedicalinfo.com/articles/a-1702"
+},
+{"datetime":"2014-12-17T03:20:20Z",
+"uri":"http://web.archive.org/web/20141217032020/http://www.dailymedicalinfo.com/articles/a-1702"
+},
+{"datetime":"2015-04-18T20:57:31Z",
+"uri":"http://web.archive.org/web/20150418205731/http://www.dailymedicalinfo.com/articles/a-1702"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.dailymedicalinfo.com/articles/a-1702"}
+ }

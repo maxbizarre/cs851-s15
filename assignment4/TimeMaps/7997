@@ -1,0 +1,35 @@
+{"original_uri":"http://www.miczgarage.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.miczgarage.com",
+"mementos": {
+"list": [
+{"datetime":"2003-02-14T05:29:17Z",
+"uri":"http://web.archive.org/web/20030214052917/http://www.miczgarage.com/"
+},
+{"datetime":"2003-04-21T13:23:06Z",
+"uri":"http://web.archive.org/web/20030421132306/http://www.miczgarage.com/"
+},
+{"datetime":"2013-06-13T14:29:59Z",
+"uri":"http://web.archive.org/web/20130613142959/http://miczgarage.com/"
+},
+{"datetime":"2013-10-14T01:11:04Z",
+"uri":"http://web.archive.org/web/20131014011104/http://www.miczgarage.com/"
+},
+{"datetime":"2014-01-02T04:31:56Z",
+"uri":"http://web.archive.org/web/20140102043156/http://miczgarage.com/"
+},
+{"datetime":"2014-02-07T18:29:00Z",
+"uri":"http://web.archive.org/web/20140207182900/http://www.miczgarage.com/"
+},
+{"datetime":"2014-05-17T15:19:56Z",
+"uri":"http://web.archive.org/web/20140517151956/http://miczgarage.com/"
+},
+{"datetime":"2014-12-17T12:05:18Z",
+"uri":"http://web.archive.org/web/20141217120518/http://miczgarage.com/"
+},
+{"datetime":"2014-12-20T06:24:03Z",
+"uri":"http://web.archive.org/web/20141220062403/http://www.miczgarage.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.miczgarage.com"}
+ }

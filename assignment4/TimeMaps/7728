@@ -1,0 +1,17 @@
+{"original_uri":"http://itunes.apple.com/us/app/tweepr/id640523527?mt=8",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://itunes.apple.com/us/app/tweepr/id640523527?mt=8",
+"mementos": {
+"list": [
+{"datetime":"2013-10-24T12:03:04Z",
+"uri":"http://web.archive.org/web/20131024120304/https://itunes.apple.com/us/app/tweepr/id640523527?mt=8"
+},
+{"datetime":"2015-01-08T03:54:28Z",
+"uri":"//wayback.archive-it.org/all/20150108035428/https://itunes.apple.com/us/app/tweepr/id640523527?mt=8"
+},
+{"datetime":"2015-01-08T03:54:28Z",
+"uri":"http://web.archive.org/web/20150108035428/https://itunes.apple.com/us/app/tweepr/id640523527?mt=8"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://itunes.apple.com/us/app/tweepr/id640523527?mt=8"}
+ }

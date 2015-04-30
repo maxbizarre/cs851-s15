@@ -1,0 +1,11 @@
+{"original_uri":"http://virdiko.com/album/peruvian",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://virdiko.com/album/peruvian",
+"mementos": {
+"list": [
+{"datetime":"2015-04-25T01:24:26Z",
+"uri":"http://web.archive.org/web/20150425012426/http://virdiko.com/album/peruvian"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://virdiko.com/album/peruvian"}
+ }

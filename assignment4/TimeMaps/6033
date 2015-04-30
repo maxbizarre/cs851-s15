@@ -1,0 +1,26 @@
+{"original_uri":"http://nogoom.akhbarway.com/news.asp?c=2",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://nogoom.akhbarway.com/news.asp?c=2",
+"mementos": {
+"list": [
+{"datetime":"2013-02-01T08:05:15Z",
+"uri":"http://web.archive.org/web/20130201080515/http://nogoom.akhbarway.com/news.asp?c=2"
+},
+{"datetime":"2013-04-04T07:12:44Z",
+"uri":"http://web.archive.org/web/20130404071244/http://nogoom.akhbarway.com/news.asp?c=2"
+},
+{"datetime":"2013-06-25T20:40:43Z",
+"uri":"http://web.archive.org/web/20130625204043/http://nogoom.akhbarway.com/news.asp?c=2"
+},
+{"datetime":"2013-08-26T01:48:13Z",
+"uri":"http://web.archive.org/web/20130826014813/http://nogoom.akhbarway.com/news.asp?c=2"
+},
+{"datetime":"2013-08-27T10:18:11Z",
+"uri":"http://web.archive.org/web/20130827101811/http://nogoom.akhbarway.com/news.asp?c=2"
+},
+{"datetime":"2013-10-27T10:12:54Z",
+"uri":"http://web.archive.org/web/20131027101254/http://nogoom.akhbarway.com/news.asp?c=2"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://nogoom.akhbarway.com/news.asp?c=2"}
+ }

@@ -1,0 +1,17 @@
+{"original_uri":"http://www.liveleak.com/view?i=df2_1423081561",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.liveleak.com/view?i=df2_1423081561",
+"mementos": {
+"list": [
+{"datetime":"2015-03-17T06:57:00Z",
+"uri":"http://web.archive.org/web/20150317065700/http://www.liveleak.com/view?i=df2_1423081561"
+},
+{"datetime":"2015-03-24T08:34:41Z",
+"uri":"http://web.archive.org/web/20150324083441/http://www.liveleak.com/view?i=df2_1423081561"
+},
+{"datetime":"2015-04-07T06:21:57Z",
+"uri":"http://web.archive.org/web/20150407062157/http://www.liveleak.com/view?i=df2_1423081561"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.liveleak.com/view?i=df2_1423081561"}
+ }

@@ -1,0 +1,14 @@
+{"original_uri":"http://tenasia.hankyung.com/archives/434833",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://tenasia.hankyung.com/archives/434833",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T10:23:08Z",
+"uri":"http://web.archive.org/web/20150205102308/http://tenasia.hankyung.com/archives/434833"
+},
+{"datetime":"2015-04-05T00:12:49Z",
+"uri":"http://web.archive.org/web/20150405001249/http://tenasia.hankyung.com/archives/434833"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://tenasia.hankyung.com/archives/434833"}
+ }

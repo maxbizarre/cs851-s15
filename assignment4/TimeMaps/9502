@@ -1,0 +1,23 @@
+{"original_uri":"http://play.google.com/store/apps/details?id=jp.mbga.a12007414.lite",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://play.google.com/store/apps/details?id=jp.mbga.a12007414.lite",
+"mementos": {
+"list": [
+{"datetime":"2013-05-28T07:24:25Z",
+"uri":"http://web.archive.org/web/20130528072425/https://play.google.com/store/apps/details?id=jp.mbga.a12007414.lite"
+},
+{"datetime":"2013-08-23T00:55:48Z",
+"uri":"http://web.archive.org/web/20130823005548/https://play.google.com/store/apps/details?id=jp.mbga.a12007414.lite"
+},
+{"datetime":"2014-01-25T15:17:40Z",
+"uri":"http://web.archive.org/web/20140125151740/https://play.google.com/store/apps/details?id=jp.mbga.a12007414.lite"
+},
+{"datetime":"2014-04-26T15:49:22Z",
+"uri":"http://web.archive.org/web/20140426154922/https://play.google.com/store/apps/details?id=jp.mbga.a12007414.lite"
+},
+{"datetime":"2015-03-20T08:34:24Z",
+"uri":"http://web.archive.org/web/20150320083424/https://play.google.com/store/apps/details?id=jp.mbga.a12007414.lite"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://play.google.com/store/apps/details?id=jp.mbga.a12007414.lite"}
+ }
