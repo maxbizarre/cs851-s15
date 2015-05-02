@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{website:cdf}
+Cdf in r.
+\newblock
+  http://stats.stackexchange.com/questions/30858/how-to-calculate-cumulative-distribution-in-r.
+
+\bibitem{website:ngrams}
+n-grams in python.
+\newblock
+  http://stackoverflow.com/questions/13423919/computing-n-grams-using-python.
+
+\bibitem{website:twarc}
+twarc.
+\newblock https://github.com/edsu/twarc.
+
+\end{thebibliography}

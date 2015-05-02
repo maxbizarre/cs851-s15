@@ -1,0 +1,24 @@
+@misc{website:twarc,     
+      title = "twarc",
+      howpublished = "https://github.com/edsu/twarc"
+}
+@misc{website:ngrams,     
+      title = "n-grams in python",
+      howpublished = "http://stackoverflow.com/questions/13423919/computing-n-grams-using-python"
+}
+@misc{website:cdf,     
+      title = "CDF in R",
+      howpublished = "http://stats.stackexchange.com/questions/30858/how-to-calculate-cumulative-distribution-in-r"
+}
+@misc{website:dictionary,     
+      title = "Python sort dictionary by key",
+      howpublished = "http://stackoverflow.com/questions/9001509/how-can-i-sort-a-python-dictionary-sort-by-key"
+}
+@misc{website:latextables,     
+      title = "Draw tables in {LaTex}",
+      howpublished = "http://en.wikibooks.org/wiki/LaTeX/Tables"
+}
+@misc{website:boilerpipe,     
+      title = "Boilerpipe in python",
+      howpublished = "https://github.com/misja/python-boilerpipe"
+}
