@@ -1,2 +1,14 @@
-[u'//wayback.archive-it.org/all/20150217090859/http://www.bbc.com/news/world-asia-31092447*+*+*Tue, 17 Feb 2015 09:08:59 GMT']
-[u'http://web.archive.org/web/20150217090859/http://www.bbc.com/news/world-asia-31092447*+*+*Tue, 17 Feb 2015 09:08:59 GMT']
+{"original_uri":"http://www.bbc.com/news/world-asia-31092447",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.com/news/world-asia-31092447",
+"mementos": {
+"list": [
+{"datetime":"2015-02-17T09:08:59Z",
+"uri":"//wayback.archive-it.org/all/20150217090859/http://www.bbc.com/news/world-asia-31092447"
+},
+{"datetime":"2015-02-17T09:08:59Z",
+"uri":"http://web.archive.org/web/20150217090859/http://www.bbc.com/news/world-asia-31092447"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.com/news/world-asia-31092447"}
+ }

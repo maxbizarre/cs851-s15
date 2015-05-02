@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150405084023/http://www.feckingdeadly.com/ambient-electronica-nokuit-way-moves/*+*+*Sun, 05 Apr 2015 08:40:23 GMT', u'http://web.archive.org/web/20150420121121/http://www.feckingdeadly.com/ambient-electronica-nokuit-way-moves/*+*+*Mon, 20 Apr 2015 12:11:21 GMT']
+{"original_uri":"http://www.feckingdeadly.com/ambient-electronica-nokuit-way-moves/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.feckingdeadly.com/ambient-electronica-nokuit-way-moves/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-05T08:40:23Z",
+"uri":"http://web.archive.org/web/20150405084023/http://www.feckingdeadly.com/ambient-electronica-nokuit-way-moves/"
+},
+{"datetime":"2015-04-20T12:11:21Z",
+"uri":"http://web.archive.org/web/20150420121121/http://www.feckingdeadly.com/ambient-electronica-nokuit-way-moves/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.feckingdeadly.com/ambient-electronica-nokuit-way-moves/"}
+ }

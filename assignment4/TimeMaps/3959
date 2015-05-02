@@ -1,2 +1,14 @@
-[u'http://web.archive.org/web/20150205000236/http://www.milenio.com/politica/Hector_Astudillo-candidato_PRI_Guerrero-candidatos_Guerrero-elecciones_Guerrero_0_458354361.html*+*+*Thu, 05 Feb 2015 00:02:36 GMT']
-[u'http://archive.is/20150204205628/http://www.milenio.com/politica/Hector_Astudillo-candidato_PRI_Guerrero-candidatos_Guerrero-elecciones_Guerrero_0_458354361.html*+*+*Wed, 4 Feb 2015 20:56:28 GMT']
+{"original_uri":"http://www.milenio.com/politica/Hector_Astudillo-candidato_PRI_Guerrero-candidatos_Guerrero-elecciones_Guerrero_0_458354361.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.milenio.com/politica/Hector_Astudillo-candidato_PRI_Guerrero-candidatos_Guerrero-elecciones_Guerrero_0_458354361.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T20:56:28Z",
+"uri":"http://archive.is/20150204205628/http://www.milenio.com/politica/Hector_Astudillo-candidato_PRI_Guerrero-candidatos_Guerrero-elecciones_Guerrero_0_458354361.html"
+},
+{"datetime":"2015-02-05T00:02:36Z",
+"uri":"http://web.archive.org/web/20150205000236/http://www.milenio.com/politica/Hector_Astudillo-candidato_PRI_Guerrero-candidatos_Guerrero-elecciones_Guerrero_0_458354361.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.milenio.com/politica/Hector_Astudillo-candidato_PRI_Guerrero-candidatos_Guerrero-elecciones_Guerrero_0_458354361.html"}
+ }

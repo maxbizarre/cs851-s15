@@ -1,4 +1,35 @@
-[u'http://www.webcitation.org/6W6195z15*+*+*Wed, 04 Feb 2015 18:22:53 GMT']
-[u'//wayback.archive-it.org/all/20150208035749/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html*+*+*Sun, 08 Feb 2015 03:57:49 GMT']
-[u'http://web.archive.org/web/20150204112931/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html*+*+*Wed, 04 Feb 2015 11:29:31 GMT', u'http://web.archive.org/web/20150204182227/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html*+*+*Wed, 04 Feb 2015 18:22:27 GMT', u'http://web.archive.org/web/20150204214926/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html*+*+*Wed, 04 Feb 2015 21:49:26 GMT', u'http://web.archive.org/web/20150208035749/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html*+*+*Sun, 08 Feb 2015 03:57:49 GMT', u'http://web.archive.org/web/20150402184123/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html*+*+*Thu, 02 Apr 2015 18:41:23 GMT', u'http://web.archive.org/web/20150404132101/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html*+*+*Sat, 04 Apr 2015 13:21:01 GMT']
-[u'http://archive.is/20150204225937/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html*+*+*Wed, 4 Feb 2015 22:59:37 GMT']
+{"original_uri":"http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T11:29:31Z",
+"uri":"http://web.archive.org/web/20150204112931/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html"
+},
+{"datetime":"2015-02-04T18:22:27Z",
+"uri":"http://web.archive.org/web/20150204182227/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html"
+},
+{"datetime":"2015-02-04T18:22:53Z",
+"uri":"http://www.webcitation.org/6W6195z15"
+},
+{"datetime":"2015-02-04T21:49:26Z",
+"uri":"http://web.archive.org/web/20150204214926/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html"
+},
+{"datetime":"2015-02-04T22:59:37Z",
+"uri":"http://archive.is/20150204225937/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html"
+},
+{"datetime":"2015-02-08T03:57:49Z",
+"uri":"http://wayback.archive-it.org/all/20150208035749/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html"
+},
+{"datetime":"2015-02-08T03:57:49Z",
+"uri":"http://web.archive.org/web/20150208035749/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html"
+},
+{"datetime":"2015-04-02T18:41:23Z",
+"uri":"http://web.archive.org/web/20150402184123/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html"
+},
+{"datetime":"2015-04-04T13:21:01Z",
+"uri":"http://web.archive.org/web/20150404132101/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.cnn.com/2015/02/04/world/isis-jordan-reaction/index.html"}
+ }

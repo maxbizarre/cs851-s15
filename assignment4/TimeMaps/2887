@@ -1,2 +1,17 @@
-[u'//wayback.archive-it.org/all/20150117001443/https://itunes.apple.com/us/album/hood-billionaire-deluxe/id933379467?ign-mpt=uo%3D4*+*+*Sat, 17 Jan 2015 00:14:43 GMT']
-[u'http://web.archive.org/web/20150117001443/https://itunes.apple.com/us/album/hood-billionaire-deluxe/id933379467?ign-mpt=uo%3D4*+*+*Sat, 17 Jan 2015 00:14:43 GMT', u'http://web.archive.org/web/20150222022641/https://itunes.apple.com/us/album/hood-billionaire-deluxe/id933379467?ign-mpt=uo%3D4*+*+*Sun, 22 Feb 2015 02:26:41 GMT']
+{"original_uri":"http://itunes.apple.com/us/album/hood-billionaire-deluxe/id933379467?ign-mpt=uo%3D4",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://itunes.apple.com/us/album/hood-billionaire-deluxe/id933379467?ign-mpt=uo%3D4",
+"mementos": {
+"list": [
+{"datetime":"2015-01-17T00:14:43Z",
+"uri":"http://web.archive.org/web/20150117001443/https://itunes.apple.com/us/album/hood-billionaire-deluxe/id933379467?ign-mpt=uo%3D4"
+},
+{"datetime":"2015-01-17T00:14:43Z",
+"uri":"//wayback.archive-it.org/all/20150117001443/https://itunes.apple.com/us/album/hood-billionaire-deluxe/id933379467?ign-mpt=uo%3D4"
+},
+{"datetime":"2015-02-22T02:26:41Z",
+"uri":"http://web.archive.org/web/20150222022641/https://itunes.apple.com/us/album/hood-billionaire-deluxe/id933379467?ign-mpt=uo%3D4"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://itunes.apple.com/us/album/hood-billionaire-deluxe/id933379467?ign-mpt=uo%3D4"}
+ }

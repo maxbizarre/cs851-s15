@@ -1,1 +1,26 @@
-[u'http://web.archive.org/web/20150421201536/https://www.youtube.com/watch?v=-WWOxDhgiOk&feature=youtu.be*+*+*Tue, 21 Apr 2015 20:15:36 GMT']
+{"original_uri":"http://www.youtube.com/watch?v=-WWOxDhgiOk",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=-WWOxDhgiOk",
+"mementos": {
+"list": [
+{"datetime":"2015-03-15T01:53:01Z",
+"uri":"http://web.archive.org/web/20150315015301/https://www.youtube.com/watch?v=-WWOxDhgiOk"
+},
+{"datetime":"2015-03-16T22:19:43Z",
+"uri":"http://web.archive.org/web/20150316221943/http://www.youtube.com/watch?v=-WWOxDhgiOk"
+},
+{"datetime":"2015-04-21T20:13:13Z",
+"uri":"http://web.archive.org/web/20150421201313/http://www.youtube.com/watch?v=-WWOxDhgiOk"
+},
+{"datetime":"2015-04-21T20:14:05Z",
+"uri":"http://web.archive.org/web/20150421201405/https://www.youtube.com/watch?v=-WWOxDhgiOk"
+},
+{"datetime":"2015-04-27T00:39:58Z",
+"uri":"//wayback.archive-it.org/all/20150427003958/http://www.youtube.com/watch?v=-WWOxDhgiOk"
+},
+{"datetime":"2015-04-28T08:04:59Z",
+"uri":"http://web.archive.org/web/20150428080459/https://www.youtube.com/watch?v=-WWOxDhgiOk&amp=&itct=CAIQpDAYCyITCMmMmJuys8QCFVFofgodKb4ADjIGcmVsbWZ1SITQ_duFi--3IQ%3D%3D&amp=&hl=en&amp=&gl=JP&amp=&client=mv-google&app=desktop"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=-WWOxDhgiOk"}
+ }

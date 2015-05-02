@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150404053932/http://samurai20.jp/2015/02/teroasa/*+*+*Sat, 04 Apr 2015 05:39:32 GMT']
+{"original_uri":"http://samurai20.jp/2015/02/teroasa/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://samurai20.jp/2015/02/teroasa/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-04T05:39:32Z",
+"uri":"http://web.archive.org/web/20150404053932/http://samurai20.jp/2015/02/teroasa/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://samurai20.jp/2015/02/teroasa/"}
+ }

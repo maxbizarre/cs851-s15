@@ -1,1 +1,11 @@
-[u'//wayback.archive-it.org/all/20150217085155/http://foodbabe.com/2015/02/04/cooking-oils/*+*+*Tue, 17 Feb 2015 08:51:55 GMT']
+{"original_uri":"http://foodbabe.com/2015/02/04/cooking-oils/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://foodbabe.com/2015/02/04/cooking-oils/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-17T08:51:55Z",
+"uri":"//wayback.archive-it.org/all/20150217085155/http://foodbabe.com/2015/02/04/cooking-oils/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://foodbabe.com/2015/02/04/cooking-oils/"}
+ }

@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150227233440/http://www.sydneyalliance.org.au/why_i_am_happy_there_is_chaos_in_canberra*+*+*Fri, 27 Feb 2015 23:34:40 GMT', u'http://web.archive.org/web/20150411155048/http://www.sydneyalliance.org.au/why_i_am_happy_there_is_chaos_in_canberra*+*+*Sat, 11 Apr 2015 15:50:48 GMT']
+{"original_uri":"http://www.sydneyalliance.org.au/why_i_am_happy_there_is_chaos_in_canberra",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.sydneyalliance.org.au/why_i_am_happy_there_is_chaos_in_canberra",
+"mementos": {
+"list": [
+{"datetime":"2015-02-27T23:34:40Z",
+"uri":"http://web.archive.org/web/20150227233440/http://www.sydneyalliance.org.au/why_i_am_happy_there_is_chaos_in_canberra"
+},
+{"datetime":"2015-04-11T15:50:48Z",
+"uri":"http://web.archive.org/web/20150411155048/http://www.sydneyalliance.org.au/why_i_am_happy_there_is_chaos_in_canberra"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.sydneyalliance.org.au/why_i_am_happy_there_is_chaos_in_canberra"}
+ }

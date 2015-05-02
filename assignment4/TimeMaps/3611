@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20120603144903/http://twitpic.com/9pu5pj*+*+*Sun, 03 Jun 2012 14:49:03 GMT', u'http://web.archive.org/web/20141120042222/http://twitpic.com/9pu5pj*+*+*Thu, 20 Nov 2014 04:22:22 GMT']
+{"original_uri":"http://twitpic.com/9pu5pj",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitpic.com/9pu5pj",
+"mementos": {
+"list": [
+{"datetime":"2012-06-03T14:49:03Z",
+"uri":"http://web.archive.org/web/20120603144903/http://twitpic.com/9pu5pj"
+},
+{"datetime":"2014-11-20T04:22:22Z",
+"uri":"http://web.archive.org/web/20141120042222/http://twitpic.com/9pu5pj"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitpic.com/9pu5pj"}
+ }

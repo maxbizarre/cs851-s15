@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150207171243/http://www.cosmopolitan.com/entertainment/movies/news/a36046/magic-mike-xxl-trailer/*+*+*Sat, 07 Feb 2015 17:12:43 GMT']
+{"original_uri":"http://www.cosmopolitan.com/entertainment/movies/news/a36046/magic-mike-xxl-trailer/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.cosmopolitan.com/entertainment/movies/news/a36046/magic-mike-xxl-trailer/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-07T17:12:43Z",
+"uri":"http://web.archive.org/web/20150207171243/http://www.cosmopolitan.com/entertainment/movies/news/a36046/magic-mike-xxl-trailer/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.cosmopolitan.com/entertainment/movies/news/a36046/magic-mike-xxl-trailer/"}
+ }

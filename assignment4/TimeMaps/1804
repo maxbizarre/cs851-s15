@@ -1,1 +1,14 @@
-[u'http://archive.is/20150205052202/http://www.aftonbladet.se/nyheter/article20268390.ab*+*+*Thu, 5 Feb 2015 05:22:02 GMT']
+{"original_uri":"http://www.aftonbladet.se/nyheter/article20268390.ab",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.aftonbladet.se/nyheter/article20268390.ab",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T01:14:36Z",
+"uri":"http://web.archive.org/web/20150205011436/http://www.aftonbladet.se/nyheter/article20268390.ab"
+},
+{"datetime":"2015-02-05T05:22:02Z",
+"uri":"http://archive.is/20150205052202/http://www.aftonbladet.se/nyheter/article20268390.ab"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.aftonbladet.se/nyheter/article20268390.ab"}
+ }

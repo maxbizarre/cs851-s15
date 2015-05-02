@@ -1,2 +1,35 @@
-[u'//wayback.archive-it.org/all/20150123132822/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045*+*+*Fri, 23 Jan 2015 13:28:22 GMT']
-[u'http://web.archive.org/web/20150113183522/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045*+*+*Tue, 13 Jan 2015 18:35:22 GMT', u'http://web.archive.org/web/20150114033053/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045*+*+*Wed, 14 Jan 2015 03:30:53 GMT', u'http://web.archive.org/web/20150114175223/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045*+*+*Wed, 14 Jan 2015 17:52:23 GMT', u'http://web.archive.org/web/20150115073321/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045*+*+*Thu, 15 Jan 2015 07:33:21 GMT', u'http://web.archive.org/web/20150116101449/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045*+*+*Fri, 16 Jan 2015 10:14:49 GMT', u'http://web.archive.org/web/20150116122525/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045*+*+*Fri, 16 Jan 2015 12:25:25 GMT', u'http://web.archive.org/web/20150117144034/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045*+*+*Sat, 17 Jan 2015 14:40:34 GMT', u'http://web.archive.org/web/20150123132822/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045*+*+*Fri, 23 Jan 2015 13:28:22 GMT']
+{"original_uri":"http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045",
+"mementos": {
+"list": [
+{"datetime":"2015-01-13T18:35:22Z",
+"uri":"http://web.archive.org/web/20150113183522/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"
+},
+{"datetime":"2015-01-14T03:30:53Z",
+"uri":"http://web.archive.org/web/20150114033053/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"
+},
+{"datetime":"2015-01-14T17:52:23Z",
+"uri":"http://web.archive.org/web/20150114175223/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"
+},
+{"datetime":"2015-01-15T07:33:21Z",
+"uri":"http://web.archive.org/web/20150115073321/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"
+},
+{"datetime":"2015-01-16T10:14:49Z",
+"uri":"http://web.archive.org/web/20150116101449/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"
+},
+{"datetime":"2015-01-16T12:25:25Z",
+"uri":"http://web.archive.org/web/20150116122525/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"
+},
+{"datetime":"2015-01-17T14:40:34Z",
+"uri":"http://web.archive.org/web/20150117144034/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"
+},
+{"datetime":"2015-01-23T13:28:22Z",
+"uri":"//wayback.archive-it.org/all/20150123132822/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"
+},
+{"datetime":"2015-01-23T13:28:22Z",
+"uri":"http://web.archive.org/web/20150123132822/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://theconversation.com/keeping-actively-bilingual-makes-our-brains-more-efficient-at-relaying-information-36045"}
+ }

@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150329003644/http://www.fashion-press.net/news/13540*+*+*Sun, 29 Mar 2015 00:36:44 GMT']
+{"original_uri":"http://www.fashion-press.net/news/13540",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.fashion-press.net/news/13540",
+"mementos": {
+"list": [
+{"datetime":"2015-03-29T00:36:44Z",
+"uri":"http://web.archive.org/web/20150329003644/http://www.fashion-press.net/news/13540"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.fashion-press.net/news/13540"}
+ }

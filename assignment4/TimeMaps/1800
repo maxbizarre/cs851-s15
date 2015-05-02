@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20090815102238/http://www.freado.com/book/3834/The-House-on-Slocum-Road*+*+*Sat, 15 Aug 2009 10:22:38 GMT']
+{"original_uri":"http://www.freado.com/book/3834/The-House-on-Slocum-Road",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.freado.com/book/3834/The-House-on-Slocum-Road",
+"mementos": {
+"list": [
+{"datetime":"2009-08-15T10:22:38Z",
+"uri":"http://web.archive.org/web/20090815102238/http://www.freado.com/book/3834/The-House-on-Slocum-Road"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.freado.com/book/3834/The-House-on-Slocum-Road"}
+ }

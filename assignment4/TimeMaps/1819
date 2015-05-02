@@ -1,2 +1,20 @@
-[u'http://web.archive.org/web/20150204020316/http://www.regnum.ru/news/polit/1891450.html*+*+*Wed, 04 Feb 2015 02:03:16 GMT', u'http://web.archive.org/web/20150327193508/http://www.regnum.ru/news/polit/1891450.html*+*+*Fri, 27 Mar 2015 19:35:08 GMT']
-[u'http://archive.is/20150205121102/http://www.regnum.ru/news/polit/1891450.html*+*+*Thu, 5 Feb 2015 12:11:02 GMT']
+{"original_uri":"http://www.regnum.ru/news/polit/1891450.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.regnum.ru/news/polit/1891450.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T02:03:16Z",
+"uri":"http://web.archive.org/web/20150204020316/http://www.regnum.ru/news/polit/1891450.html"
+},
+{"datetime":"2015-02-05T12:11:02Z",
+"uri":"http://archive.is/20150205121102/http://www.regnum.ru/news/polit/1891450.html"
+},
+{"datetime":"2015-03-27T19:35:08Z",
+"uri":"http://web.archive.org/web/20150327193508/http://www.regnum.ru/news/polit/1891450.html"
+},
+{"datetime":"2015-04-29T14:51:29Z",
+"uri":"http://web.archive.org/web/20150429145129/http://regnum.ru/news/polit/1891450.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.regnum.ru/news/polit/1891450.html"}
+ }

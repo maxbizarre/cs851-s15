@@ -1,2 +1,59 @@
-[u'//wayback.archive-it.org/all/20150121182027/http://feature.variety.com/fifty-shades-of-grey/*+*+*Wed, 21 Jan 2015 18:20:27 GMT', u'//wayback.archive-it.org/all/20150128010441/http://feature.variety.com/fifty-shades-of-grey/*+*+*Wed, 28 Jan 2015 01:04:41 GMT']
-[u'http://web.archive.org/web/20150121104954/http://feature.variety.com/fifty-shades-of-grey/*+*+*Wed, 21 Jan 2015 10:49:54 GMT', u'http://web.archive.org/web/20150121182027/http://feature.variety.com/fifty-shades-of-grey/*+*+*Wed, 21 Jan 2015 18:20:27 GMT', u'http://web.archive.org/web/20150122080823/http://feature.variety.com/fifty-shades-of-grey/*+*+*Thu, 22 Jan 2015 08:08:23 GMT', u'http://web.archive.org/web/20150123061931/http://feature.variety.com/fifty-shades-of-grey/*+*+*Fri, 23 Jan 2015 06:19:31 GMT', u'http://web.archive.org/web/20150123232039/http://feature.variety.com/fifty-shades-of-grey/*+*+*Fri, 23 Jan 2015 23:20:39 GMT', u'http://web.archive.org/web/20150124101109/http://feature.variety.com/fifty-shades-of-grey/*+*+*Sat, 24 Jan 2015 10:11:09 GMT', u'http://web.archive.org/web/20150125165834/http://feature.variety.com/fifty-shades-of-grey/*+*+*Sun, 25 Jan 2015 16:58:34 GMT', u'http://web.archive.org/web/20150127053403/http://feature.variety.com/fifty-shades-of-grey/*+*+*Tue, 27 Jan 2015 05:34:03 GMT', u'http://web.archive.org/web/20150128010441/http://feature.variety.com/fifty-shades-of-grey/*+*+*Wed, 28 Jan 2015 01:04:41 GMT', u'http://web.archive.org/web/20150128111716/http://feature.variety.com/fifty-shades-of-grey/*+*+*Wed, 28 Jan 2015 11:17:16 GMT', u'http://web.archive.org/web/20150128215529/http://feature.variety.com/fifty-shades-of-grey/*+*+*Wed, 28 Jan 2015 21:55:29 GMT', u'http://web.archive.org/web/20150129182328/http://feature.variety.com/fifty-shades-of-grey/*+*+*Thu, 29 Jan 2015 18:23:28 GMT', u'http://web.archive.org/web/20150321184607/http://feature.variety.com/fifty-shades-of-grey/*+*+*Sat, 21 Mar 2015 18:46:07 GMT', u'http://web.archive.org/web/20150403003954/http://feature.variety.com/fifty-shades-of-grey/*+*+*Fri, 03 Apr 2015 00:39:54 GMT', u'http://web.archive.org/web/20150410210625/http://feature.variety.com/fifty-shades-of-grey/*+*+*Fri, 10 Apr 2015 21:06:25 GMT']
+{"original_uri":"http://feature.variety.com/fifty-shades-of-grey/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://feature.variety.com/fifty-shades-of-grey/",
+"mementos": {
+"list": [
+{"datetime":"2015-01-21T10:49:54Z",
+"uri":"http://web.archive.org/web/20150121104954/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-21T18:20:27Z",
+"uri":"http://web.archive.org/web/20150121182027/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-21T18:20:27Z",
+"uri":"//wayback.archive-it.org/all/20150121182027/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-22T08:08:23Z",
+"uri":"http://web.archive.org/web/20150122080823/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-23T06:19:31Z",
+"uri":"http://web.archive.org/web/20150123061931/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-23T23:20:39Z",
+"uri":"http://web.archive.org/web/20150123232039/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-24T10:11:09Z",
+"uri":"http://web.archive.org/web/20150124101109/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-25T16:58:34Z",
+"uri":"http://web.archive.org/web/20150125165834/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-27T05:34:03Z",
+"uri":"http://web.archive.org/web/20150127053403/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-28T01:04:41Z",
+"uri":"http://web.archive.org/web/20150128010441/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-28T01:04:41Z",
+"uri":"//wayback.archive-it.org/all/20150128010441/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-28T11:17:16Z",
+"uri":"http://web.archive.org/web/20150128111716/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-28T21:55:29Z",
+"uri":"http://web.archive.org/web/20150128215529/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-01-29T18:23:28Z",
+"uri":"http://web.archive.org/web/20150129182328/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-03-21T18:46:07Z",
+"uri":"http://web.archive.org/web/20150321184607/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-04-03T00:39:54Z",
+"uri":"http://web.archive.org/web/20150403003954/http://feature.variety.com/fifty-shades-of-grey/"
+},
+{"datetime":"2015-04-10T21:06:25Z",
+"uri":"http://web.archive.org/web/20150410210625/http://feature.variety.com/fifty-shades-of-grey/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://feature.variety.com/fifty-shades-of-grey/"}
+ }

@@ -1,0 +1,11 @@
+{"original_uri":"http://www.youtube.com/watch?v=ilRcp6gA1mI",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=ilRcp6gA1mI",
+"mementos": {
+"list": [
+{"datetime":"2015-02-07T19:54:05Z",
+"uri":"http://web.archive.org/web/20150207195405/https://www.youtube.com/watch?v=ilRcp6gA1mI&gl=US&hl=en"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=ilRcp6gA1mI"}
+ }

@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150214010802/http://vmanchesterescorts.com/*+*+*Sat, 14 Feb 2015 01:08:02 GMT']
+{"original_uri":"http://vmanchesterescorts.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://vmanchesterescorts.com/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-14T01:08:02Z",
+"uri":"http://web.archive.org/web/20150214010802/http://vmanchesterescorts.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://vmanchesterescorts.com/"}
+ }

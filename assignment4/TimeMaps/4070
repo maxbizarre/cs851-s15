@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150321125611/http://www.eia.gov/todayinenergy/detail.cfm?id=19831*+*+*Sat, 21 Mar 2015 12:56:11 GMT']
+{"original_uri":"http://www.eia.gov/todayinenergy/detail.cfm?id=19831",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.eia.gov/todayinenergy/detail.cfm?id=19831",
+"mementos": {
+"list": [
+{"datetime":"2015-03-21T12:56:11Z",
+"uri":"http://web.archive.org/web/20150321125611/http://www.eia.gov/todayinenergy/detail.cfm?id=19831"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.eia.gov/todayinenergy/detail.cfm?id=19831"}
+ }

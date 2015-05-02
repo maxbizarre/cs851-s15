@@ -1,2 +1,11 @@
-[u'http://web.archive.org/web/20150204113154/http://www.monster-strike.com/promotion/turtles/*+*+*Wed, 04 Feb 2015 11:31:54 GMT']
-[u'http://archive.is/20150204113048/http://www.monster-strike.com/promotion/turtles/*+*+*Wed, 4 Feb 2015 11:30:48 GMT']
+{"original_uri":"http://www.monster-strike.com/promotion/turtles/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.monster-strike.com/promotion/turtles/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T11:31:54Z",
+"uri":"http://web.archive.org/web/20150204113154/http://www.monster-strike.com/promotion/turtles/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.monster-strike.com/promotion/turtles/"}
+ }

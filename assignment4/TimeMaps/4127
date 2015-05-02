@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150319083058/http://d3wat.com/*+*+*Thu, 19 Mar 2015 08:30:58 GMT']
+{"original_uri":"http://d3wat.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://d3wat.com",
+"mementos": {
+"list": [
+{"datetime":"2015-03-19T08:30:58Z",
+"uri":"http://web.archive.org/web/20150319083058/http://d3wat.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://d3wat.com"}
+ }

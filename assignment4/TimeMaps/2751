@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150325224539/http://elyomnew.com/readers/6305*+*+*Wed, 25 Mar 2015 22:45:39 GMT']
+{"original_uri":"http://elyomnew.com/readers/6305",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://elyomnew.com/readers/6305",
+"mementos": {
+"list": [
+{"datetime":"2015-03-25T22:45:39Z",
+"uri":"http://web.archive.org/web/20150325224539/http://elyomnew.com/readers/6305"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://elyomnew.com/readers/6305"}
+ }

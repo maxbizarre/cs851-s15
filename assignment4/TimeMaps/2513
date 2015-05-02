@@ -1,1 +1,11 @@
-[u'http://archive.is/20150109215208/http://qurani.tv/index.php*+*+*Fri, 9 Jan 2015 21:52:08 GMT']
+{"original_uri":"http://qurani.tv/index.php",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://qurani.tv/index.php",
+"mementos": {
+"list": [
+{"datetime":"2015-01-09T21:52:08Z",
+"uri":"http://archive.is/20150109215208/http://qurani.tv/index.php"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://qurani.tv/index.php"}
+ }

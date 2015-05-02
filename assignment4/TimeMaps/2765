@@ -1,2 +1,20 @@
-[u'http://web.archive.org/web/20150310000607/http://jin115.com/archives/52065928.html*+*+*Tue, 10 Mar 2015 00:06:07 GMT', u'http://web.archive.org/web/20150402174121/http://jin115.com/archives/52065928.html*+*+*Thu, 02 Apr 2015 17:41:21 GMT', u'http://web.archive.org/web/20150420210625/http://jin115.com/archives/52065928.html*+*+*Mon, 20 Apr 2015 21:06:25 GMT']
-[u'http://archive.is/20150205034713/http://jin115.com/archives/52065928.html*+*+*Thu, 5 Feb 2015 03:47:13 GMT']
+{"original_uri":"http://jin115.com/archives/52065928.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://jin115.com/archives/52065928.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T03:47:13Z",
+"uri":"http://archive.is/20150205034713/http://jin115.com/archives/52065928.html"
+},
+{"datetime":"2015-03-10T00:06:07Z",
+"uri":"http://web.archive.org/web/20150310000607/http://jin115.com/archives/52065928.html"
+},
+{"datetime":"2015-04-02T17:41:21Z",
+"uri":"http://web.archive.org/web/20150402174121/http://jin115.com/archives/52065928.html"
+},
+{"datetime":"2015-04-20T21:06:25Z",
+"uri":"http://web.archive.org/web/20150420210625/http://jin115.com/archives/52065928.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://jin115.com/archives/52065928.html"}
+ }

@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150204150519/http://obozrevatel.com/blogs/54703-putinu-sdelali-vyigodnoe-predlozhenie.htm*+*+*Wed, 04 Feb 2015 15:05:19 GMT', u'http://web.archive.org/web/20150319215023/http://obozrevatel.com/blogs/54703-putinu-sdelali-vyigodnoe-predlozhenie.htm*+*+*Thu, 19 Mar 2015 21:50:23 GMT']
+{"original_uri":"http://obozrevatel.com/blogs/54703-putinu-sdelali-vyigodnoe-predlozhenie.htm",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://obozrevatel.com/blogs/54703-putinu-sdelali-vyigodnoe-predlozhenie.htm",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T15:05:19Z",
+"uri":"http://web.archive.org/web/20150204150519/http://obozrevatel.com/blogs/54703-putinu-sdelali-vyigodnoe-predlozhenie.htm"
+},
+{"datetime":"2015-03-19T21:50:23Z",
+"uri":"http://web.archive.org/web/20150319215023/http://obozrevatel.com/blogs/54703-putinu-sdelali-vyigodnoe-predlozhenie.htm"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://obozrevatel.com/blogs/54703-putinu-sdelali-vyigodnoe-predlozhenie.htm"}
+ }

@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150406124913/http://www.tv-asahi.co.jp/douga/ametalk_pr/112*+*+*Mon, 06 Apr 2015 12:49:13 GMT']
+{"original_uri":"http://www.tv-asahi.co.jp/douga/ametalk_pr/112",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.tv-asahi.co.jp/douga/ametalk_pr/112",
+"mementos": {
+"list": [
+{"datetime":"2015-04-06T12:49:13Z",
+"uri":"http://web.archive.org/web/20150406124913/http://www.tv-asahi.co.jp/douga/ametalk_pr/112"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.tv-asahi.co.jp/douga/ametalk_pr/112"}
+ }

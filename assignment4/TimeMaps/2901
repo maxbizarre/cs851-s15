@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150315030324/http://zhartun.me/2015/02/animals.html*+*+*Sun, 15 Mar 2015 03:03:24 GMT']
+{"original_uri":"http://zhartun.me/2015/02/animals.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://zhartun.me/2015/02/animals.html",
+"mementos": {
+"list": [
+{"datetime":"2015-03-15T03:03:24Z",
+"uri":"http://web.archive.org/web/20150315030324/http://zhartun.me/2015/02/animals.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://zhartun.me/2015/02/animals.html"}
+ }

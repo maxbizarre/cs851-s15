@@ -1,2 +1,14 @@
-[u'//wayback.archive-it.org/all/20150109061425/https://itunes.apple.com/gb/album/keep-calm-chillout/id910582623?ign-mpt=uo%3D4*+*+*Fri, 09 Jan 2015 06:14:25 GMT']
-[u'http://web.archive.org/web/20150109061425/https://itunes.apple.com/gb/album/keep-calm-chillout/id910582623?ign-mpt=uo%3D4*+*+*Fri, 09 Jan 2015 06:14:25 GMT']
+{"original_uri":"http://itunes.apple.com/gb/album/keep-calm-chillout/id910582623?ign-mpt=uo%3D4",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://itunes.apple.com/gb/album/keep-calm-chillout/id910582623?ign-mpt=uo%3D4",
+"mementos": {
+"list": [
+{"datetime":"2015-01-09T06:14:25Z",
+"uri":"//wayback.archive-it.org/all/20150109061425/https://itunes.apple.com/gb/album/keep-calm-chillout/id910582623?ign-mpt=uo%3D4"
+},
+{"datetime":"2015-01-09T06:14:25Z",
+"uri":"http://web.archive.org/web/20150109061425/https://itunes.apple.com/gb/album/keep-calm-chillout/id910582623?ign-mpt=uo%3D4"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://itunes.apple.com/gb/album/keep-calm-chillout/id910582623?ign-mpt=uo%3D4"}
+ }

@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150312185408/http://blog.amcham.com.au/blog/promoting-australian-business-ties-with-the-us/*+*+*Thu, 12 Mar 2015 18:54:08 GMT']
+{"original_uri":"http://blog.amcham.com.au/blog/promoting-australian-business-ties-with-the-us/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blog.amcham.com.au/blog/promoting-australian-business-ties-with-the-us/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-12T18:54:08Z",
+"uri":"http://web.archive.org/web/20150312185408/http://blog.amcham.com.au/blog/promoting-australian-business-ties-with-the-us/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blog.amcham.com.au/blog/promoting-australian-business-ties-with-the-us/"}
+ }

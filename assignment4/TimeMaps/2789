@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20131221091158/http://facebook.com/theragesic*+*+*Sat, 21 Dec 2013 09:11:58 GMT']
+{"original_uri":"http://www.facebook.com/theragesic",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.facebook.com/theragesic",
+"mementos": {
+"list": [
+{"datetime":"2013-12-21T09:11:58Z",
+"uri":"http://web.archive.org/web/20131221091158/http://facebook.com/theragesic"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.facebook.com/theragesic"}
+ }

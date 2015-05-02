@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20141110190204/http://www.hsdesignsworks.com/*+*+*Mon, 10 Nov 2014 19:02:04 GMT']
+{"original_uri":"http://www.hsdesignsworks.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.hsdesignsworks.com/",
+"mementos": {
+"list": [
+{"datetime":"2014-11-10T19:02:04Z",
+"uri":"http://web.archive.org/web/20141110190204/http://www.hsdesignsworks.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.hsdesignsworks.com/"}
+ }

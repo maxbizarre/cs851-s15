@@ -1,1 +1,17 @@
-[u'http://web.archive.org/web/20120108051822/http://twitpic.com/80dvtc*+*+*Sun, 08 Jan 2012 05:18:22 GMT', u'http://web.archive.org/web/20131207112727/http://twitpic.com/80dvtc*+*+*Sat, 07 Dec 2013 11:27:27 GMT', u'http://web.archive.org/web/20141203114214/http://twitpic.com/80dvtc*+*+*Wed, 03 Dec 2014 11:42:14 GMT']
+{"original_uri":"http://twitpic.com/80dvtc",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://twitpic.com/80dvtc",
+"mementos": {
+"list": [
+{"datetime":"2012-01-08T05:18:22Z",
+"uri":"http://web.archive.org/web/20120108051822/http://twitpic.com/80dvtc"
+},
+{"datetime":"2013-12-07T11:27:27Z",
+"uri":"http://web.archive.org/web/20131207112727/http://twitpic.com/80dvtc"
+},
+{"datetime":"2014-12-03T11:42:14Z",
+"uri":"http://web.archive.org/web/20141203114214/http://twitpic.com/80dvtc"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://twitpic.com/80dvtc"}
+ }

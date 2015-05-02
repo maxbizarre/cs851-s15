@@ -48,16 +48,16 @@
 "uri":"http://web.archive.org/web/20150130041447/http://vimeo.com/112687575"
 },
 {"datetime":"2015-02-25T02:46:19Z",
-"uri":"http://web.archive.org/web/20150225024619/http://vimeo.com/112687575"
-},
-{"datetime":"2015-02-25T02:46:19Z",
 "uri":"//wayback.archive-it.org/all/20150225024619/http://vimeo.com/112687575"
 },
-{"datetime":"2015-02-25T11:22:40Z",
-"uri":"http://web.archive.org/web/20150225112240/https://vimeo.com/112687575"
+{"datetime":"2015-02-25T02:46:19Z",
+"uri":"http://web.archive.org/web/20150225024619/http://vimeo.com/112687575"
 },
 {"datetime":"2015-02-25T11:22:40Z",
 "uri":"//wayback.archive-it.org/all/20150225112240/https://vimeo.com/112687575"
+},
+{"datetime":"2015-02-25T11:22:40Z",
+"uri":"http://web.archive.org/web/20150225112240/https://vimeo.com/112687575"
 },
 {"datetime":"2015-03-10T07:24:39Z",
 "uri":"http://web.archive.org/web/20150310072439/http://vimeo.com/112687575"
@@ -69,10 +69,10 @@
 "uri":"http://web.archive.org/web/20150410194032/http://vimeo.com/112687575"
 },
 {"datetime":"2015-04-23T03:43:23Z",
-"uri":"http://web.archive.org/web/20150423034323/http://vimeo.com/112687575"
+"uri":"//wayback.archive-it.org/all/20150423034323/http://vimeo.com/112687575"
 },
 {"datetime":"2015-04-23T03:43:23Z",
-"uri":"//wayback.archive-it.org/all/20150423034323/http://vimeo.com/112687575"
+"uri":"http://web.archive.org/web/20150423034323/http://vimeo.com/112687575"
 }
 ]
  },"timemap_uri": {

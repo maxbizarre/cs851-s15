@@ -1,2 +1,26 @@
-[u'http://web.archive.org/web/20150205035338/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html*+*+*Thu, 05 Feb 2015 03:53:38 GMT', u'http://web.archive.org/web/20150205113018/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html*+*+*Thu, 05 Feb 2015 11:30:18 GMT', u'http://web.archive.org/web/20150212013254/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html*+*+*Thu, 12 Feb 2015 01:32:54 GMT', u'http://web.archive.org/web/20150317110450/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html*+*+*Tue, 17 Mar 2015 11:04:50 GMT', u'http://web.archive.org/web/20150325115130/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html*+*+*Wed, 25 Mar 2015 11:51:30 GMT']
-[u'http://archive.is/20150205031733/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html*+*+*Thu, 5 Feb 2015 03:17:33 GMT']
+{"original_uri":"http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T03:17:33Z",
+"uri":"http://archive.is/20150205031733/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html"
+},
+{"datetime":"2015-02-05T03:53:38Z",
+"uri":"http://web.archive.org/web/20150205035338/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html"
+},
+{"datetime":"2015-02-05T11:30:18Z",
+"uri":"http://web.archive.org/web/20150205113018/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html"
+},
+{"datetime":"2015-02-12T01:32:54Z",
+"uri":"http://web.archive.org/web/20150212013254/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html"
+},
+{"datetime":"2015-03-17T11:04:50Z",
+"uri":"http://web.archive.org/web/20150317110450/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html"
+},
+{"datetime":"2015-03-25T11:51:30Z",
+"uri":"http://web.archive.org/web/20150325115130/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.computerworld.com/article/2879083/southern-california-edison-it-workers-beyond-furious-over-h-1b-replacements.html"}
+ }

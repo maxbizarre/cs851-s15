@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150203174415/http://www.rap-up.com/2015/02/02/beyonce-grammys-selma-tribute/*+*+*Tue, 03 Feb 2015 17:44:15 GMT']
+{"original_uri":"http://www.rap-up.com/2015/02/02/beyonce-grammys-selma-tribute/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.rap-up.com/2015/02/02/beyonce-grammys-selma-tribute/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T17:44:15Z",
+"uri":"http://web.archive.org/web/20150203174415/http://www.rap-up.com/2015/02/02/beyonce-grammys-selma-tribute/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.rap-up.com/2015/02/02/beyonce-grammys-selma-tribute/"}
+ }

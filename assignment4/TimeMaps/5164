@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150406041317/http://www.aif.ru/society/education/1439759*+*+*Mon, 06 Apr 2015 04:13:17 GMT']
+{"original_uri":"http://www.aif.ru/society/education/1439759",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.aif.ru/society/education/1439759",
+"mementos": {
+"list": [
+{"datetime":"2015-04-06T04:13:17Z",
+"uri":"http://web.archive.org/web/20150406041317/http://www.aif.ru/society/education/1439759"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.aif.ru/society/education/1439759"}
+ }

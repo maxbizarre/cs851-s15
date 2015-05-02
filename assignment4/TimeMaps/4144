@@ -1,1 +1,11 @@
-[u'http://archive.is/20130510063326/http://ecktr.com/*+*+*Fri, 10 May 2013 06:33:26 GMT']
+{"original_uri":"http://ecktr.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://ecktr.com",
+"mementos": {
+"list": [
+{"datetime":"2013-05-10T06:33:26Z",
+"uri":"http://archive.is/20130510063326/http://ecktr.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://ecktr.com"}
+ }

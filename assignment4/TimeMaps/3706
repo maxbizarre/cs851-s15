@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150419064846/http://www.mediamiser.com/infographics/mascot-bowl-mmxv/*+*+*Sun, 19 Apr 2015 06:48:46 GMT']
+{"original_uri":"http://www.mediamiser.com/infographics/mascot-bowl-mmxv/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.mediamiser.com/infographics/mascot-bowl-mmxv/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-19T06:48:46Z",
+"uri":"http://web.archive.org/web/20150419064846/http://www.mediamiser.com/infographics/mascot-bowl-mmxv/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.mediamiser.com/infographics/mascot-bowl-mmxv/"}
+ }

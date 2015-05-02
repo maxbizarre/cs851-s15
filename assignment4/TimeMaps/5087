@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150405060026/http://sectioneighty.com/southern-university-marching-band-plays-j-coles-wet-dreamz/*+*+*Sun, 05 Apr 2015 06:00:26 GMT']
+{"original_uri":"http://sectioneighty.com/southern-university-marching-band-plays-j-coles-wet-dreamz/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://sectioneighty.com/southern-university-marching-band-plays-j-coles-wet-dreamz/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-05T06:00:26Z",
+"uri":"http://web.archive.org/web/20150405060026/http://sectioneighty.com/southern-university-marching-band-plays-j-coles-wet-dreamz/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://sectioneighty.com/southern-university-marching-band-plays-j-coles-wet-dreamz/"}
+ }

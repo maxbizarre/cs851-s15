@@ -1,2 +1,17 @@
-[u'//wayback.archive-it.org/all/20140524040700/http://peripou.tk/*+*+*Sat, 24 May 2014 04:07:00 GMT']
-[u'http://web.archive.org/web/20140501100959/http://peripou.tk/*+*+*Thu, 01 May 2014 10:09:59 GMT', u'http://web.archive.org/web/20140703124654/http://peripou.tk/*+*+*Thu, 03 Jul 2014 12:46:54 GMT']
+{"original_uri":"http://peripou.tk",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://peripou.tk",
+"mementos": {
+"list": [
+{"datetime":"2014-05-01T10:09:59Z",
+"uri":"http://web.archive.org/web/20140501100959/http://peripou.tk/"
+},
+{"datetime":"2014-05-24T04:07:00Z",
+"uri":"//wayback.archive-it.org/all/20140524040700/http://peripou.tk/"
+},
+{"datetime":"2014-07-03T12:46:54Z",
+"uri":"http://web.archive.org/web/20140703124654/http://peripou.tk/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://peripou.tk"}
+ }

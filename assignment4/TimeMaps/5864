@@ -1,1 +1,65 @@
-[u'http://web.archive.org/web/20081121040037/http://bostononcanvas.com/*+*+*Fri, 21 Nov 2008 04:00:37 GMT', u'http://web.archive.org/web/20090430114022/http://www.bostononcanvas.com/?*+*+*Thu, 30 Apr 2009 11:40:22 GMT', u'http://web.archive.org/web/20090601131641/http://www.bostononcanvas.com/?*+*+*Mon, 01 Jun 2009 13:16:41 GMT', u'http://web.archive.org/web/20090818174127/http://www.bostononcanvas.com/*+*+*Tue, 18 Aug 2009 17:41:27 GMT', u'http://web.archive.org/web/20100125132103/http://www.bostononcanvas.com/?*+*+*Mon, 25 Jan 2010 13:21:03 GMT', u'http://web.archive.org/web/20100709024052/http://www.bostononcanvas.com/*+*+*Fri, 09 Jul 2010 02:40:52 GMT', u'http://web.archive.org/web/20110207151126/http://bostononcanvas.com/*+*+*Mon, 07 Feb 2011 15:11:26 GMT', u'http://web.archive.org/web/20120120190423/http://www.bostononcanvas.com/?*+*+*Fri, 20 Jan 2012 19:04:23 GMT', u'http://web.archive.org/web/20120220144710/http://www.bostononcanvas.com/?*+*+*Mon, 20 Feb 2012 14:47:10 GMT', u'http://web.archive.org/web/20130507230429/http://bostononcanvas.com/*+*+*Tue, 07 May 2013 23:04:29 GMT', u'http://web.archive.org/web/20130625112405/http://www.bostononcanvas.com/*+*+*Tue, 25 Jun 2013 11:24:05 GMT', u'http://web.archive.org/web/20130725021509/http://www.bostononcanvas.com/*+*+*Thu, 25 Jul 2013 02:15:09 GMT', u'http://web.archive.org/web/20140108125203/http://www.bostononcanvas.com/*+*+*Wed, 08 Jan 2014 12:52:03 GMT', u'http://web.archive.org/web/20140108155000/http://www.bostononcanvas.com/*+*+*Wed, 08 Jan 2014 15:50:00 GMT', u'http://web.archive.org/web/20140306123627/http://www.bostononcanvas.com/*+*+*Thu, 06 Mar 2014 12:36:27 GMT', u'http://web.archive.org/web/20140517005707/http://bostononcanvas.com/*+*+*Sat, 17 May 2014 00:57:07 GMT', u'http://web.archive.org/web/20141217015524/http://bostononcanvas.com/*+*+*Wed, 17 Dec 2014 01:55:24 GMT', u'http://web.archive.org/web/20141218070156/http://www.bostononcanvas.com/*+*+*Thu, 18 Dec 2014 07:01:56 GMT', u'http://web.archive.org/web/20141219101604/http://www.bostononcanvas.com/*+*+*Fri, 19 Dec 2014 10:16:04 GMT']
+{"original_uri":"http://www.BostonOnCanvas.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.BostonOnCanvas.com",
+"mementos": {
+"list": [
+{"datetime":"2008-11-21T04:00:37Z",
+"uri":"http://web.archive.org/web/20081121040037/http://bostononcanvas.com/"
+},
+{"datetime":"2009-04-30T11:40:22Z",
+"uri":"http://web.archive.org/web/20090430114022/http://www.bostononcanvas.com/?"
+},
+{"datetime":"2009-06-01T13:16:41Z",
+"uri":"http://web.archive.org/web/20090601131641/http://www.bostononcanvas.com/?"
+},
+{"datetime":"2009-08-18T17:41:27Z",
+"uri":"http://web.archive.org/web/20090818174127/http://www.bostononcanvas.com/"
+},
+{"datetime":"2010-01-25T13:21:03Z",
+"uri":"http://web.archive.org/web/20100125132103/http://www.bostononcanvas.com/?"
+},
+{"datetime":"2010-07-09T02:40:52Z",
+"uri":"http://web.archive.org/web/20100709024052/http://www.bostononcanvas.com/"
+},
+{"datetime":"2011-02-07T15:11:26Z",
+"uri":"http://web.archive.org/web/20110207151126/http://bostononcanvas.com/"
+},
+{"datetime":"2012-01-20T19:04:23Z",
+"uri":"http://web.archive.org/web/20120120190423/http://www.bostononcanvas.com/?"
+},
+{"datetime":"2012-02-20T14:47:10Z",
+"uri":"http://web.archive.org/web/20120220144710/http://www.bostononcanvas.com/?"
+},
+{"datetime":"2013-05-07T23:04:29Z",
+"uri":"http://web.archive.org/web/20130507230429/http://bostononcanvas.com/"
+},
+{"datetime":"2013-06-25T11:24:05Z",
+"uri":"http://web.archive.org/web/20130625112405/http://www.bostononcanvas.com/"
+},
+{"datetime":"2013-07-25T02:15:09Z",
+"uri":"http://web.archive.org/web/20130725021509/http://www.bostononcanvas.com/"
+},
+{"datetime":"2014-01-08T12:52:03Z",
+"uri":"http://web.archive.org/web/20140108125203/http://www.bostononcanvas.com/"
+},
+{"datetime":"2014-01-08T15:50:00Z",
+"uri":"http://web.archive.org/web/20140108155000/http://www.bostononcanvas.com/"
+},
+{"datetime":"2014-03-06T12:36:27Z",
+"uri":"http://web.archive.org/web/20140306123627/http://www.bostononcanvas.com/"
+},
+{"datetime":"2014-05-17T00:57:07Z",
+"uri":"http://web.archive.org/web/20140517005707/http://bostononcanvas.com/"
+},
+{"datetime":"2014-12-17T01:55:24Z",
+"uri":"http://web.archive.org/web/20141217015524/http://bostononcanvas.com/"
+},
+{"datetime":"2014-12-18T07:01:56Z",
+"uri":"http://web.archive.org/web/20141218070156/http://www.bostononcanvas.com/"
+},
+{"datetime":"2014-12-19T10:16:04Z",
+"uri":"http://web.archive.org/web/20141219101604/http://www.bostononcanvas.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.BostonOnCanvas.com"}
+ }

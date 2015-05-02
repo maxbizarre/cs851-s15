@@ -1,2 +1,23 @@
-[u'//wayback.archive-it.org/all/20150311005656/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/*+*+*Wed, 11 Mar 2015 00:56:56 GMT']
-[u'http://web.archive.org/web/20150205081432/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/*+*+*Thu, 05 Feb 2015 08:14:32 GMT', u'http://web.archive.org/web/20150311005656/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/*+*+*Wed, 11 Mar 2015 00:56:56 GMT', u'http://web.archive.org/web/20150315121126/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/*+*+*Sun, 15 Mar 2015 12:11:26 GMT']
+{"original_uri":"http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T08:14:32Z",
+"uri":"http://web.archive.org/web/20150205081432/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/"
+},
+{"datetime":"2015-03-11T00:56:56Z",
+"uri":"//wayback.archive-it.org/all/20150311005656/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/"
+},
+{"datetime":"2015-03-11T00:56:56Z",
+"uri":"http://web.archive.org/web/20150311005656/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/"
+},
+{"datetime":"2015-03-15T12:11:26Z",
+"uri":"http://web.archive.org/web/20150315121126/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/"
+},
+{"datetime":"2015-04-30T07:24:17Z",
+"uri":"//wayback.archive-it.org/all/20150430072417/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.niemanlab.org/2015/02/buzzfeed-grew-its-latino-audience-the-old-fashioned-way-with-content/"}
+ }

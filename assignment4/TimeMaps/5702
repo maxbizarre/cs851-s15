@@ -1,2 +1,35 @@
-[u'http://web.archive.org/web/20150204230537/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html*+*+*Wed, 04 Feb 2015 23:05:37 GMT', u'http://web.archive.org/web/20150204231003/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html*+*+*Wed, 04 Feb 2015 23:10:03 GMT', u'http://web.archive.org/web/20150205114309/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html*+*+*Thu, 05 Feb 2015 11:43:09 GMT', u'http://web.archive.org/web/20150211100158/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html*+*+*Wed, 11 Feb 2015 10:01:58 GMT', u'http://web.archive.org/web/20150212011947/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html*+*+*Thu, 12 Feb 2015 01:19:47 GMT', u'http://web.archive.org/web/20150323160457/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html*+*+*Mon, 23 Mar 2015 16:04:57 GMT', u'http://web.archive.org/web/20150411040335/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html*+*+*Sat, 11 Apr 2015 04:03:35 GMT']
-[u'http://archive.is/20150204134901/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html*+*+*Wed, 4 Feb 2015 13:49:01 GMT', u'http://archive.is/20150205010844/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html*+*+*Thu, 5 Feb 2015 01:08:44 GMT']
+{"original_uri":"http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T13:49:01Z",
+"uri":"http://archive.is/20150204134901/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"
+},
+{"datetime":"2015-02-04T23:05:37Z",
+"uri":"http://web.archive.org/web/20150204230537/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"
+},
+{"datetime":"2015-02-04T23:10:03Z",
+"uri":"http://web.archive.org/web/20150204231003/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"
+},
+{"datetime":"2015-02-05T01:08:44Z",
+"uri":"http://archive.is/20150205010844/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"
+},
+{"datetime":"2015-02-05T11:43:09Z",
+"uri":"http://web.archive.org/web/20150205114309/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"
+},
+{"datetime":"2015-02-11T10:01:58Z",
+"uri":"http://web.archive.org/web/20150211100158/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"
+},
+{"datetime":"2015-02-12T01:19:47Z",
+"uri":"http://web.archive.org/web/20150212011947/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"
+},
+{"datetime":"2015-03-23T16:04:57Z",
+"uri":"http://web.archive.org/web/20150323160457/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"
+},
+{"datetime":"2015-04-11T04:03:35Z",
+"uri":"http://web.archive.org/web/20150411040335/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.philly.com/philly/news/20150204_TSA_jails_innocent_traveler_when_he_asks_to_file_a_complaint.html"}
+ }

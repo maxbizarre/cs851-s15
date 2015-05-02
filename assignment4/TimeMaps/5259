@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150203140343/http://www.treehugger.com/green-food/barnraiser-crowdfunding-healthy-food-future-one-sustainable-food-project-time.html*+*+*Tue, 03 Feb 2015 14:03:43 GMT', u'http://web.archive.org/web/20150419212043/http://www.treehugger.com/green-food/barnraiser-crowdfunding-healthy-food-future-one-sustainable-food-project-time.html*+*+*Sun, 19 Apr 2015 21:20:43 GMT']
+{"original_uri":"http://www.treehugger.com/green-food/barnraiser-crowdfunding-healthy-food-future-one-sustainable-food-project-time.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.treehugger.com/green-food/barnraiser-crowdfunding-healthy-food-future-one-sustainable-food-project-time.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T14:03:43Z",
+"uri":"http://web.archive.org/web/20150203140343/http://www.treehugger.com/green-food/barnraiser-crowdfunding-healthy-food-future-one-sustainable-food-project-time.html"
+},
+{"datetime":"2015-04-19T21:20:43Z",
+"uri":"http://web.archive.org/web/20150419212043/http://www.treehugger.com/green-food/barnraiser-crowdfunding-healthy-food-future-one-sustainable-food-project-time.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.treehugger.com/green-food/barnraiser-crowdfunding-healthy-food-future-one-sustainable-food-project-time.html"}
+ }

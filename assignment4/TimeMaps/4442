@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150316135222/http://americasquarterly.org/content/academic-policy-divide*+*+*Mon, 16 Mar 2015 13:52:22 GMT', u'http://web.archive.org/web/20150408215454/http://www.americasquarterly.org/content/academic-policy-divide*+*+*Wed, 08 Apr 2015 21:54:54 GMT']
+{"original_uri":"http://www.americasquarterly.org/content/academic-policy-divide",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.americasquarterly.org/content/academic-policy-divide",
+"mementos": {
+"list": [
+{"datetime":"2015-03-16T13:52:22Z",
+"uri":"http://web.archive.org/web/20150316135222/http://americasquarterly.org/content/academic-policy-divide"
+},
+{"datetime":"2015-04-08T21:54:54Z",
+"uri":"http://web.archive.org/web/20150408215454/http://www.americasquarterly.org/content/academic-policy-divide"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.americasquarterly.org/content/academic-policy-divide"}
+ }

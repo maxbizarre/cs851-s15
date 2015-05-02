@@ -1,2 +1,17 @@
-[u'http://web.archive.org/web/20150204152108/http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork*+*+*Wed, 04 Feb 2015 15:21:08 GMT', u'http://web.archive.org/web/20150322110211/http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork*+*+*Sun, 22 Mar 2015 11:02:11 GMT']
-[u'http://archive.is/20150204071147/http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork*+*+*Wed, 4 Feb 2015 07:11:47 GMT']
+{"original_uri":"http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T07:11:47Z",
+"uri":"http://archive.is/20150204071147/http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork"
+},
+{"datetime":"2015-02-04T15:21:08Z",
+"uri":"http://web.archive.org/web/20150204152108/http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork"
+},
+{"datetime":"2015-03-22T11:02:11Z",
+"uri":"http://web.archive.org/web/20150322110211/http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://readwrite.com/2015/02/03/joyent-nodejs-incubator-iojs-node-io-fork"}
+ }

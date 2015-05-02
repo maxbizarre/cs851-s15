@@ -1,2 +1,23 @@
-[u'//wayback.archive-it.org/all/20141104232310/https://itunes.apple.com/us/album/id909767577*+*+*Tue, 04 Nov 2014 23:23:10 GMT', u'//wayback.archive-it.org/all/20150211200233/https://itunes.apple.com/us/album/id909767577*+*+*Wed, 11 Feb 2015 20:02:33 GMT']
-[u'http://web.archive.org/web/20141104232310/https://itunes.apple.com/us/album/id909767577*+*+*Tue, 04 Nov 2014 23:23:10 GMT', u'http://web.archive.org/web/20150112051037/https://itunes.apple.com/us/album/id909767577*+*+*Mon, 12 Jan 2015 05:10:37 GMT', u'http://web.archive.org/web/20150211200233/https://itunes.apple.com/us/album/id909767577*+*+*Wed, 11 Feb 2015 20:02:33 GMT']
+{"original_uri":"http://itunes.apple.com/us/album/id909767577",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://itunes.apple.com/us/album/id909767577",
+"mementos": {
+"list": [
+{"datetime":"2014-11-04T23:23:10Z",
+"uri":"//wayback.archive-it.org/all/20141104232310/https://itunes.apple.com/us/album/id909767577"
+},
+{"datetime":"2014-11-04T23:23:10Z",
+"uri":"http://web.archive.org/web/20141104232310/https://itunes.apple.com/us/album/id909767577"
+},
+{"datetime":"2015-01-12T05:10:37Z",
+"uri":"http://web.archive.org/web/20150112051037/https://itunes.apple.com/us/album/id909767577"
+},
+{"datetime":"2015-02-11T20:02:33Z",
+"uri":"//wayback.archive-it.org/all/20150211200233/https://itunes.apple.com/us/album/id909767577"
+},
+{"datetime":"2015-02-11T20:02:33Z",
+"uri":"http://web.archive.org/web/20150211200233/https://itunes.apple.com/us/album/id909767577"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://itunes.apple.com/us/album/id909767577"}
+ }

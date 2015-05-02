@@ -1,0 +1,11 @@
+{"original_uri":"http://urbeconomica.com/index.php?option=com_content",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://urbeconomica.com/index.php?option=com_content",
+"mementos": {
+"list": [
+{"datetime":"2013-05-18T19:21:32Z",
+"uri":"http://web.archive.org/web/20130518192132/http://urbeconomica.com/index.php?option=com_content"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://urbeconomica.com/index.php?option=com_content"}
+ }

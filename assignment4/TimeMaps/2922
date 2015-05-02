@@ -1,2 +1,29 @@
-[u'http://web.archive.org/web/20140720142757/http://alkhaleejonline.net*+*+*Sun, 20 Jul 2014 14:27:57 GMT', u'http://web.archive.org/web/20141216182808/http://alkhaleejonline.net/*+*+*Tue, 16 Dec 2014 18:28:08 GMT', u'http://web.archive.org/web/20141226224139/http://alkhaleejonline.net/*+*+*Fri, 26 Dec 2014 22:41:39 GMT', u'http://web.archive.org/web/20150314204254/http://alkhaleejonline.net/*+*+*Sat, 14 Mar 2015 20:42:54 GMT', u'http://web.archive.org/web/20150315054036/http://alkhaleejonline.net/*+*+*Sun, 15 Mar 2015 05:40:36 GMT', u'http://web.archive.org/web/20150418170512/http://alkhaleejonline.net/*+*+*Sat, 18 Apr 2015 17:05:12 GMT']
-[u'http://archive.is/20150405121019/http://alkhaleejonline.net/*+*+*Sun, 5 Apr 2015 12:10:19 GMT']
+{"original_uri":"http://alkhaleejonline.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://alkhaleejonline.net/",
+"mementos": {
+"list": [
+{"datetime":"2014-07-20T14:27:57Z",
+"uri":"http://web.archive.org/web/20140720142757/http://alkhaleejonline.net"
+},
+{"datetime":"2014-12-16T18:28:08Z",
+"uri":"http://web.archive.org/web/20141216182808/http://alkhaleejonline.net/"
+},
+{"datetime":"2014-12-26T22:41:39Z",
+"uri":"http://web.archive.org/web/20141226224139/http://alkhaleejonline.net/"
+},
+{"datetime":"2015-03-14T20:42:54Z",
+"uri":"http://web.archive.org/web/20150314204254/http://alkhaleejonline.net/"
+},
+{"datetime":"2015-03-15T05:40:36Z",
+"uri":"http://web.archive.org/web/20150315054036/http://alkhaleejonline.net/"
+},
+{"datetime":"2015-04-05T12:10:19Z",
+"uri":"http://archive.is/20150405121019/http://alkhaleejonline.net/"
+},
+{"datetime":"2015-04-18T17:05:12Z",
+"uri":"http://web.archive.org/web/20150418170512/http://alkhaleejonline.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://alkhaleejonline.net/"}
+ }

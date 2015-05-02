@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20120501144557/http://paper.li/marciasl2001/1308419594*+*+*Tue, 01 May 2012 14:45:57 GMT', u'http://web.archive.org/web/20141109152656/http://paper.li/marciasl2001/1308419594*+*+*Sun, 09 Nov 2014 15:26:56 GMT']
+{"original_uri":"http://paper.li/marciasl2001/1308419594",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://paper.li/marciasl2001/1308419594",
+"mementos": {
+"list": [
+{"datetime":"2012-05-01T14:45:57Z",
+"uri":"http://web.archive.org/web/20120501144557/http://paper.li/marciasl2001/1308419594"
+},
+{"datetime":"2014-11-09T15:26:56Z",
+"uri":"http://web.archive.org/web/20141109152656/http://paper.li/marciasl2001/1308419594"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://paper.li/marciasl2001/1308419594"}
+ }

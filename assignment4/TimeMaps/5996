@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150407000406/http://creatingwithkohla.com/*+*+*Tue, 07 Apr 2015 00:04:06 GMT']
+{"original_uri":"http://creatingwithkohla.com/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://creatingwithkohla.com/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-07T00:04:06Z",
+"uri":"http://web.archive.org/web/20150407000406/http://creatingwithkohla.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://creatingwithkohla.com/"}
+ }

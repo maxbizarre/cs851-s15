@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20111204213602/http://shindanmaker.com/150441*+*+*Sun, 04 Dec 2011 21:36:02 GMT']
+{"original_uri":"http://shindanmaker.com/150441",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://shindanmaker.com/150441",
+"mementos": {
+"list": [
+{"datetime":"2011-12-04T21:36:02Z",
+"uri":"http://web.archive.org/web/20111204213602/http://shindanmaker.com/150441"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://shindanmaker.com/150441"}
+ }

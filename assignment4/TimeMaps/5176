@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150219153912/http://economia.estadao.com.br/blogs/radar-da-aviacao/selfie-de-piloto-derruva-aviao/*+*+*Thu, 19 Feb 2015 15:39:12 GMT']
+{"original_uri":"http://economia.estadao.com.br/blogs/radar-da-aviacao/selfie-de-piloto-derruva-aviao/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://economia.estadao.com.br/blogs/radar-da-aviacao/selfie-de-piloto-derruva-aviao/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-19T15:39:12Z",
+"uri":"http://web.archive.org/web/20150219153912/http://economia.estadao.com.br/blogs/radar-da-aviacao/selfie-de-piloto-derruva-aviao/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://economia.estadao.com.br/blogs/radar-da-aviacao/selfie-de-piloto-derruva-aviao/"}
+ }

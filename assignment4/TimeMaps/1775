@@ -1,1 +1,11 @@
-[u'http://archive.is/20150204133816/http://na6ludatelb.livejournal.com/2534965.html*+*+*Wed, 4 Feb 2015 13:38:16 GMT']
+{"original_uri":"http://na6ludatelb.livejournal.com/2534965.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://na6ludatelb.livejournal.com/2534965.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T13:38:16Z",
+"uri":"http://archive.is/20150204133816/http://na6ludatelb.livejournal.com/2534965.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://na6ludatelb.livejournal.com/2534965.html"}
+ }

@@ -1,1 +1,23 @@
-[u'http://web.archive.org/web/20150211102048/http://www.rockaxis.com/rock/review/the-sirens-canto-hipnotico*+*+*Wed, 11 Feb 2015 10:20:48 GMT', u'http://web.archive.org/web/20150211124659/http://www.rockaxis.com/rock/review/the-sirens-canto-hipnotico/*+*+*Wed, 11 Feb 2015 12:46:59 GMT', u'http://web.archive.org/web/20150319150243/http://www.rockaxis.com/rock/review/the-sirens-canto-hipnotico/*+*+*Thu, 19 Mar 2015 15:02:43 GMT', u'http://web.archive.org/web/20150319163452/http://rockaxis.com/rock/review/the-sirens-canto-hipnotico/*+*+*Thu, 19 Mar 2015 16:34:52 GMT', u'http://web.archive.org/web/20150319215017/http://rockaxis.com/rock/review/the-sirens-canto-hipnotico*+*+*Thu, 19 Mar 2015 21:50:17 GMT']
+{"original_uri":"http://www.rockaxis.com/rock/review/the-sirens-canto-hipnotico/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.rockaxis.com/rock/review/the-sirens-canto-hipnotico/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-11T10:20:48Z",
+"uri":"http://web.archive.org/web/20150211102048/http://www.rockaxis.com/rock/review/the-sirens-canto-hipnotico"
+},
+{"datetime":"2015-02-11T12:46:59Z",
+"uri":"http://web.archive.org/web/20150211124659/http://www.rockaxis.com/rock/review/the-sirens-canto-hipnotico/"
+},
+{"datetime":"2015-03-19T15:02:43Z",
+"uri":"http://web.archive.org/web/20150319150243/http://www.rockaxis.com/rock/review/the-sirens-canto-hipnotico/"
+},
+{"datetime":"2015-03-19T16:34:52Z",
+"uri":"http://web.archive.org/web/20150319163452/http://rockaxis.com/rock/review/the-sirens-canto-hipnotico/"
+},
+{"datetime":"2015-03-19T21:50:17Z",
+"uri":"http://web.archive.org/web/20150319215017/http://rockaxis.com/rock/review/the-sirens-canto-hipnotico"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.rockaxis.com/rock/review/the-sirens-canto-hipnotico/"}
+ }

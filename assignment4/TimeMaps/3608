@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20141222113845/http://tour.sabina-leigh.com/?nats=MC4wLjQ3LjYzLjAuMC4wLjAuMA*+*+*Mon, 22 Dec 2014 11:38:45 GMT', u'http://web.archive.org/web/20150406215911/http://tour.sabina-leigh.com/?nats=MC4wLjQ3LjYzLjAuMC4wLjAuMA*+*+*Mon, 06 Apr 2015 21:59:11 GMT']
+{"original_uri":"http://tour.sabina-leigh.com/?nats=MC4wLjQ3LjYzLjAuMC4wLjAuMA",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://tour.sabina-leigh.com/?nats=MC4wLjQ3LjYzLjAuMC4wLjAuMA",
+"mementos": {
+"list": [
+{"datetime":"2014-12-22T11:38:45Z",
+"uri":"http://web.archive.org/web/20141222113845/http://tour.sabina-leigh.com/?nats=MC4wLjQ3LjYzLjAuMC4wLjAuMA"
+},
+{"datetime":"2015-04-06T21:59:11Z",
+"uri":"http://web.archive.org/web/20150406215911/http://tour.sabina-leigh.com/?nats=MC4wLjQ3LjYzLjAuMC4wLjAuMA"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://tour.sabina-leigh.com/?nats=MC4wLjQ3LjYzLjAuMC4wLjAuMA"}
+ }

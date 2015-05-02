@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150414141236/http://www.ga-tc.com/t9530/*+*+*Tue, 14 Apr 2015 14:12:36 GMT']
+{"original_uri":"http://www.ga-tc.com/t9530/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.ga-tc.com/t9530/",
+"mementos": {
+"list": [
+{"datetime":"2015-04-14T14:12:36Z",
+"uri":"http://web.archive.org/web/20150414141236/http://www.ga-tc.com/t9530/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.ga-tc.com/t9530/"}
+ }

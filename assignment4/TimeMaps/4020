@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150204225741/http://www.4gamer.net/games/286/G028614/20141222075/*+*+*Wed, 04 Feb 2015 22:57:41 GMT', u'http://web.archive.org/web/20150315060648/http://www.4gamer.net/games/286/G028614/20141222075/*+*+*Sun, 15 Mar 2015 06:06:48 GMT']
+{"original_uri":"http://www.4gamer.net/games/286/G028614/20141222075/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.4gamer.net/games/286/G028614/20141222075/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T22:57:41Z",
+"uri":"http://web.archive.org/web/20150204225741/http://www.4gamer.net/games/286/G028614/20141222075/"
+},
+{"datetime":"2015-03-15T06:06:48Z",
+"uri":"http://web.archive.org/web/20150315060648/http://www.4gamer.net/games/286/G028614/20141222075/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.4gamer.net/games/286/G028614/20141222075/"}
+ }

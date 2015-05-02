@@ -1,2 +1,14 @@
-[u'//wayback.archive-it.org/all/20150110203342/https://www.facebook.com/BigFollow/photos/a.279237298830455.68504.107203552700498/766201796800667*+*+*Sat, 10 Jan 2015 20:33:42 GMT']
-[u'http://web.archive.org/web/20150110203342/https://www.facebook.com/BigFollow/photos/a.279237298830455.68504.107203552700498/766201796800667*+*+*Sat, 10 Jan 2015 20:33:42 GMT']
+{"original_uri":"http://www.facebook.com/BigFollow/photos/a.279237298830455.68504.107203552700498/766201796800667",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.facebook.com/BigFollow/photos/a.279237298830455.68504.107203552700498/766201796800667",
+"mementos": {
+"list": [
+{"datetime":"2015-01-10T20:33:42Z",
+"uri":"//wayback.archive-it.org/all/20150110203342/https://www.facebook.com/BigFollow/photos/a.279237298830455.68504.107203552700498/766201796800667"
+},
+{"datetime":"2015-01-10T20:33:42Z",
+"uri":"http://web.archive.org/web/20150110203342/https://www.facebook.com/BigFollow/photos/a.279237298830455.68504.107203552700498/766201796800667"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.facebook.com/BigFollow/photos/a.279237298830455.68504.107203552700498/766201796800667"}
+ }

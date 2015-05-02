@@ -1,2 +1,14 @@
-[u'//wayback.archive-it.org/all/20150131231933/http://cfd-m.com/wmgr02/index.html*+*+*Sat, 31 Jan 2015 23:19:33 GMT']
-[u'http://web.archive.org/web/20150131231933/http://cfd-m.com/wmgr02/index.html*+*+*Sat, 31 Jan 2015 23:19:33 GMT']
+{"original_uri":"http://cfd-m.com/wmgr02/index.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://cfd-m.com/wmgr02/index.html",
+"mementos": {
+"list": [
+{"datetime":"2015-01-31T23:19:33Z",
+"uri":"//wayback.archive-it.org/all/20150131231933/http://cfd-m.com/wmgr02/index.html"
+},
+{"datetime":"2015-01-31T23:19:33Z",
+"uri":"http://web.archive.org/web/20150131231933/http://cfd-m.com/wmgr02/index.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://cfd-m.com/wmgr02/index.html"}
+ }

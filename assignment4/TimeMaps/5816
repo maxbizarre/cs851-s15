@@ -1,3 +1,20 @@
-[u'http://www.webcitation.org/6W665Ssen*+*+*Wed, 04 Feb 2015 19:38:08 GMT', u'http://www.webcitation.org/6W6Xxhoh5*+*+*Thu, 05 Feb 2015 02:43:45 GMT']
-[u'http://web.archive.org/web/20150321223145/http://www.cnet.com/news/fcc-chairman-wheeler-to-use-utility-style-rules-to-enforce-net-neutrality/*+*+*Sat, 21 Mar 2015 22:31:45 GMT']
-[u'http://archive.is/20150205001350/http://www.cnet.com/news/fcc-chairman-wheeler-to-use-utility-style-rules-to-enforce-net-neutrality/*+*+*Thu, 5 Feb 2015 00:13:50 GMT']
+{"original_uri":"http://www.cnet.com/news/fcc-chairman-wheeler-to-use-utility-style-rules-to-enforce-net-neutrality/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.cnet.com/news/fcc-chairman-wheeler-to-use-utility-style-rules-to-enforce-net-neutrality/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T19:38:08Z",
+"uri":"http://www.webcitation.org/6W665Ssen"
+},
+{"datetime":"2015-02-05T00:13:50Z",
+"uri":"http://archive.is/20150205001350/http://www.cnet.com/news/fcc-chairman-wheeler-to-use-utility-style-rules-to-enforce-net-neutrality/"
+},
+{"datetime":"2015-02-05T02:43:45Z",
+"uri":"http://www.webcitation.org/6W6Xxhoh5"
+},
+{"datetime":"2015-03-21T22:31:45Z",
+"uri":"http://web.archive.org/web/20150321223145/http://www.cnet.com/news/fcc-chairman-wheeler-to-use-utility-style-rules-to-enforce-net-neutrality/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.cnet.com/news/fcc-chairman-wheeler-to-use-utility-style-rules-to-enforce-net-neutrality/"}
+ }

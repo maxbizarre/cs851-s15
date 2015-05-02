@@ -1,2 +1,17 @@
-[u'http://web.archive.org/web/20150205172702/http://www.artistdirect.com/entertainment-news/article/album-review-fifth-harmony-reflection-5-out-of-5-stars/11314051*+*+*Thu, 05 Feb 2015 17:27:02 GMT', u'http://web.archive.org/web/20150324003713/http://www.artistdirect.com/entertainment-news/article/album-review-fifth-harmony-reflection-5-out-of-5-stars/11314051*+*+*Tue, 24 Mar 2015 00:37:13 GMT']
-[u'http://archive.is/20150223040808/http://www.artistdirect.com/entertainment-news/article/album-review-fifth-harmony-reflection-5-out-of-5-stars/11314051*+*+*Mon, 23 Feb 2015 04:08:08 GMT']
+{"original_uri":"http://www.artistdirect.com/entertainment-news/article/album-review-fifth-harmony-reflection-5-out-of-5-stars/11314051",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.artistdirect.com/entertainment-news/article/album-review-fifth-harmony-reflection-5-out-of-5-stars/11314051",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T17:27:02Z",
+"uri":"http://web.archive.org/web/20150205172702/http://www.artistdirect.com/entertainment-news/article/album-review-fifth-harmony-reflection-5-out-of-5-stars/11314051"
+},
+{"datetime":"2015-02-23T04:08:08Z",
+"uri":"http://archive.is/20150223040808/http://www.artistdirect.com/entertainment-news/article/album-review-fifth-harmony-reflection-5-out-of-5-stars/11314051"
+},
+{"datetime":"2015-03-24T00:37:13Z",
+"uri":"http://web.archive.org/web/20150324003713/http://www.artistdirect.com/entertainment-news/article/album-review-fifth-harmony-reflection-5-out-of-5-stars/11314051"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.artistdirect.com/entertainment-news/article/album-review-fifth-harmony-reflection-5-out-of-5-stars/11314051"}
+ }

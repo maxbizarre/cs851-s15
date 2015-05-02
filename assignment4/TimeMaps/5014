@@ -1,2 +1,14 @@
-[u'//wayback.archive-it.org/all/20150401180010/http://guaranteeyourkickstoday.com/*+*+*Wed, 01 Apr 2015 18:00:10 GMT']
-[u'http://web.archive.org/web/20150401180010/http://guaranteeyourkickstoday.com/*+*+*Wed, 01 Apr 2015 18:00:10 GMT']
+{"original_uri":"http://www.guaranteeyourkickstoday.com",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.guaranteeyourkickstoday.com",
+"mementos": {
+"list": [
+{"datetime":"2015-04-01T18:00:10Z",
+"uri":"//wayback.archive-it.org/all/20150401180010/http://guaranteeyourkickstoday.com/"
+},
+{"datetime":"2015-04-01T18:00:10Z",
+"uri":"http://web.archive.org/web/20150401180010/http://guaranteeyourkickstoday.com/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.guaranteeyourkickstoday.com"}
+ }

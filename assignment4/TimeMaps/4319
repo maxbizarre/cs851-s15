@@ -1,1 +1,38 @@
-[u'http://web.archive.org/web/20120306063605/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm*+*+*Tue, 06 Mar 2012 06:36:05 GMT', u'http://web.archive.org/web/20120306184359/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm*+*+*Tue, 06 Mar 2012 18:43:59 GMT', u'http://web.archive.org/web/20120307204753/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm*+*+*Wed, 07 Mar 2012 20:47:53 GMT', u'http://web.archive.org/web/20120309005141/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm?*+*+*Fri, 09 Mar 2012 00:51:41 GMT', u'http://web.archive.org/web/20120424123430/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm?*+*+*Tue, 24 Apr 2012 12:34:30 GMT', u'http://web.archive.org/web/20120429192607/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm*+*+*Sun, 29 Apr 2012 19:26:07 GMT', u'http://web.archive.org/web/20121016012818/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm*+*+*Tue, 16 Oct 2012 01:28:18 GMT', u'http://web.archive.org/web/20130123071632/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm*+*+*Wed, 23 Jan 2013 07:16:32 GMT', u'http://web.archive.org/web/20130404023343/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm*+*+*Thu, 04 Apr 2013 02:33:43 GMT']
+{"original_uri":"http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm",
+"mementos": {
+"list": [
+{"datetime":"2012-03-06T06:36:05Z",
+"uri":"http://web.archive.org/web/20120306063605/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm"
+},
+{"datetime":"2012-03-06T18:43:59Z",
+"uri":"http://web.archive.org/web/20120306184359/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm"
+},
+{"datetime":"2012-03-07T20:47:53Z",
+"uri":"http://web.archive.org/web/20120307204753/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm"
+},
+{"datetime":"2012-03-09T00:51:41Z",
+"uri":"http://web.archive.org/web/20120309005141/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm?"
+},
+{"datetime":"2012-04-24T12:34:30Z",
+"uri":"http://web.archive.org/web/20120424123430/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm?"
+},
+{"datetime":"2012-04-29T19:26:07Z",
+"uri":"http://web.archive.org/web/20120429192607/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm"
+},
+{"datetime":"2012-10-16T01:28:18Z",
+"uri":"http://web.archive.org/web/20121016012818/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm"
+},
+{"datetime":"2013-01-23T07:16:32Z",
+"uri":"http://web.archive.org/web/20130123071632/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm"
+},
+{"datetime":"2013-04-04T02:33:43Z",
+"uri":"http://web.archive.org/web/20130404023343/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm"
+},
+{"datetime":"2015-04-29T17:03:42Z",
+"uri":"http://web.archive.org/web/20150429170342/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://money.cnn.com/2012/03/05/news/companies/aol_rush_limbaugh/index.htm"}
+ }

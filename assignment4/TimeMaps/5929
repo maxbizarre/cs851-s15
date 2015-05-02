@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20120812031053/http://egorkey.topdj.ua//audio-files/*+*+*Sun, 12 Aug 2012 03:10:53 GMT']
+{"original_uri":"http://egorkey.topdj.ua/audio-files/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://egorkey.topdj.ua/audio-files/",
+"mementos": {
+"list": [
+{"datetime":"2012-08-12T03:10:53Z",
+"uri":"http://web.archive.org/web/20120812031053/http://egorkey.topdj.ua//audio-files/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://egorkey.topdj.ua/audio-files/"}
+ }

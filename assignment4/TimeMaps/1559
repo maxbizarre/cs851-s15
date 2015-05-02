@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150424215643/http://blog.esuteru.com/archives/8045798.html*+*+*Fri, 24 Apr 2015 21:56:43 GMT']
+{"original_uri":"http://blog.esuteru.com/archives/8045798.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://blog.esuteru.com/archives/8045798.html",
+"mementos": {
+"list": [
+{"datetime":"2015-04-24T21:56:43Z",
+"uri":"http://web.archive.org/web/20150424215643/http://blog.esuteru.com/archives/8045798.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://blog.esuteru.com/archives/8045798.html"}
+ }

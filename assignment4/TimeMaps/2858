@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150406065538/http://aaforq8.com/4821.htm*+*+*Mon, 06 Apr 2015 06:55:38 GMT']
+{"original_uri":"http://aaforq8.com/4821.htm",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://aaforq8.com/4821.htm",
+"mementos": {
+"list": [
+{"datetime":"2015-04-06T06:55:38Z",
+"uri":"http://web.archive.org/web/20150406065538/http://aaforq8.com/4821.htm"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://aaforq8.com/4821.htm"}
+ }

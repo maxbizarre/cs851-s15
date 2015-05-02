@@ -1,1 +1,29 @@
-[u'http://web.archive.org/web/20110204122156/http://www.identity-theft-scout.com/cyber-identity-theft.html*+*+*Fri, 04 Feb 2011 12:21:56 GMT', u'http://web.archive.org/web/20110514230210/http://www.identity-theft-scout.com/cyber-identity-theft.html*+*+*Sat, 14 May 2011 23:02:10 GMT', u'http://web.archive.org/web/20110722164148/http://www.identity-theft-scout.com/cyber-identity-theft.html*+*+*Fri, 22 Jul 2011 16:41:48 GMT', u'http://web.archive.org/web/20110921064929/http://www.identity-theft-scout.com/cyber-identity-theft.html*+*+*Wed, 21 Sep 2011 06:49:29 GMT', u'http://web.archive.org/web/20111122123732/http://www.identity-theft-scout.com/cyber-identity-theft.html*+*+*Tue, 22 Nov 2011 12:37:32 GMT', u'http://web.archive.org/web/20120924082233/http://www.identity-theft-scout.com/cyber-identity-theft.html*+*+*Mon, 24 Sep 2012 08:22:33 GMT', u'http://web.archive.org/web/20121123234845/http://www.identity-theft-scout.com/cyber-identity-theft.html*+*+*Fri, 23 Nov 2012 23:48:45 GMT']
+{"original_uri":"http://www.identity-theft-scout.com/cyber-identity-theft.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.identity-theft-scout.com/cyber-identity-theft.html",
+"mementos": {
+"list": [
+{"datetime":"2011-02-04T12:21:56Z",
+"uri":"http://web.archive.org/web/20110204122156/http://www.identity-theft-scout.com/cyber-identity-theft.html"
+},
+{"datetime":"2011-05-14T23:02:10Z",
+"uri":"http://web.archive.org/web/20110514230210/http://www.identity-theft-scout.com/cyber-identity-theft.html"
+},
+{"datetime":"2011-07-22T16:41:48Z",
+"uri":"http://web.archive.org/web/20110722164148/http://www.identity-theft-scout.com/cyber-identity-theft.html"
+},
+{"datetime":"2011-09-21T06:49:29Z",
+"uri":"http://web.archive.org/web/20110921064929/http://www.identity-theft-scout.com/cyber-identity-theft.html"
+},
+{"datetime":"2011-11-22T12:37:32Z",
+"uri":"http://web.archive.org/web/20111122123732/http://www.identity-theft-scout.com/cyber-identity-theft.html"
+},
+{"datetime":"2012-09-24T08:22:33Z",
+"uri":"http://web.archive.org/web/20120924082233/http://www.identity-theft-scout.com/cyber-identity-theft.html"
+},
+{"datetime":"2012-11-23T23:48:45Z",
+"uri":"http://web.archive.org/web/20121123234845/http://www.identity-theft-scout.com/cyber-identity-theft.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.identity-theft-scout.com/cyber-identity-theft.html"}
+ }

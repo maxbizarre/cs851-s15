@@ -1,1 +1,17 @@
-[u'http://archive.is/20150205162805/http://www.bbc.co.uk/news/uk-scotland-31141916*+*+*Thu, 05 Feb 2015 16:28:05 GMT']
+{"original_uri":"http://www.bbc.co.uk/news/uk-scotland-31141916",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bbc.co.uk/news/uk-scotland-31141916",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T01:35:38Z",
+"uri":"http://web.archive.org/web/20150205013538/http://www.bbc.co.uk/news/uk-scotland-31141916"
+},
+{"datetime":"2015-02-05T16:28:05Z",
+"uri":"http://archive.is/20150205162805/http://www.bbc.co.uk/news/uk-scotland-31141916"
+},
+{"datetime":"2015-04-07T07:03:10Z",
+"uri":"http://web.archive.org/web/20150407070310/http://www.bbc.co.uk/news/uk-scotland-31141916"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bbc.co.uk/news/uk-scotland-31141916"}
+ }

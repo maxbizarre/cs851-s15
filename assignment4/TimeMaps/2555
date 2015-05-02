@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150205061011/http://www.mirror.co.uk/incoming/jefferson-michael-fadaka-tory-candidate-5107405*+*+*Thu, 05 Feb 2015 06:10:11 GMT', u'http://web.archive.org/web/20150317141226/http://www.mirror.co.uk/incoming/jefferson-michael-fadaka-tory-candidate-5107405*+*+*Tue, 17 Mar 2015 14:12:26 GMT']
+{"original_uri":"http://www.mirror.co.uk/incoming/jefferson-michael-fadaka-tory-candidate-5107405",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.mirror.co.uk/incoming/jefferson-michael-fadaka-tory-candidate-5107405",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T06:10:11Z",
+"uri":"http://web.archive.org/web/20150205061011/http://www.mirror.co.uk/incoming/jefferson-michael-fadaka-tory-candidate-5107405"
+},
+{"datetime":"2015-03-17T14:12:26Z",
+"uri":"http://web.archive.org/web/20150317141226/http://www.mirror.co.uk/incoming/jefferson-michael-fadaka-tory-candidate-5107405"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.mirror.co.uk/incoming/jefferson-michael-fadaka-tory-candidate-5107405"}
+ }

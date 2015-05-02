@@ -1,2 +1,17 @@
-[u'http://web.archive.org/web/20150204233048/http://botslyr.nakashima723.info/06/*+*+*Wed, 04 Feb 2015 23:30:48 GMT', u'http://web.archive.org/web/20150419011840/http://botslyr.nakashima723.info/06/*+*+*Sun, 19 Apr 2015 01:18:40 GMT']
-[u'http://archive.is/20150204233018/http://botslyr.nakashima723.info/06/*+*+*Wed, 4 Feb 2015 23:30:18 GMT']
+{"original_uri":"http://botslyr.nakashima723.info/06/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://botslyr.nakashima723.info/06/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T23:30:18Z",
+"uri":"http://archive.is/20150204233018/http://botslyr.nakashima723.info/06/"
+},
+{"datetime":"2015-02-04T23:30:48Z",
+"uri":"http://web.archive.org/web/20150204233048/http://botslyr.nakashima723.info/06/"
+},
+{"datetime":"2015-04-19T01:18:40Z",
+"uri":"http://web.archive.org/web/20150419011840/http://botslyr.nakashima723.info/06/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://botslyr.nakashima723.info/06/"}
+ }

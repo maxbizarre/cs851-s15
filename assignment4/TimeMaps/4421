@@ -1,0 +1,26 @@
+{"original_uri":"http://www.youtube.com/watch?v=6xE6ZWwJezg",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=6xE6ZWwJezg",
+"mementos": {
+"list": [
+{"datetime":"2012-12-31T09:17:13Z",
+"uri":"http://web.archive.org/web/20121231091713/http://www.youtube.com/watch?v=6xE6ZWwJezg&gl=US&hl=en"
+},
+{"datetime":"2014-01-14T23:03:28Z",
+"uri":"http://web.archive.org/web/20140114230328/http://www.youtube.com/watch?v=6xE6ZWwJezg"
+},
+{"datetime":"2014-02-18T06:44:46Z",
+"uri":"http://web.archive.org/web/20140218064446/http://www.youtube.com/watch?v=6xE6ZWwJezg"
+},
+{"datetime":"2014-02-25T14:52:17Z",
+"uri":"http://web.archive.org/web/20140225145217/http://www.youtube.com/watch?v=6xE6ZWwJezg"
+},
+{"datetime":"2014-05-31T06:13:41Z",
+"uri":"http://web.archive.org/web/20140531061341/http://www.youtube.com/watch?v=6xE6ZWwJezg"
+},
+{"datetime":"2014-06-01T12:22:46Z",
+"uri":"http://web.archive.org/web/20140601122246/http://www.youtube.com/watch?v=6xE6ZWwJezg"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=6xE6ZWwJezg"}
+ }

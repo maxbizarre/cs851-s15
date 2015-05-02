@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150420181033/https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP*+*+*Mon, 20 Apr 2015 18:10:33 GMT']
+{"original_uri":"http://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP",
+"mementos": {
+"list": [
+{"datetime":"2015-04-20T18:10:33Z",
+"uri":"http://web.archive.org/web/20150420181033/https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP"}
+ }

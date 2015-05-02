@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150212050603/http://www.chessgames.com/perl/chessgame?gid=1783846*+*+*Thu, 12 Feb 2015 05:06:03 GMT', u'http://web.archive.org/web/20150325064350/http://www.chessgames.com/perl/chessgame?gid=1783846*+*+*Wed, 25 Mar 2015 06:43:50 GMT']
+{"original_uri":"http://www.chessgames.com/perl/chessgame?gid=1783846",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.chessgames.com/perl/chessgame?gid=1783846",
+"mementos": {
+"list": [
+{"datetime":"2015-02-12T05:06:03Z",
+"uri":"http://web.archive.org/web/20150212050603/http://www.chessgames.com/perl/chessgame?gid=1783846"
+},
+{"datetime":"2015-03-25T06:43:50Z",
+"uri":"http://web.archive.org/web/20150325064350/http://www.chessgames.com/perl/chessgame?gid=1783846"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.chessgames.com/perl/chessgame?gid=1783846"}
+ }

@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150316084416/http://collegecandy.com/2015/02/04/red-velvet-dessert-recipes/*+*+*Mon, 16 Mar 2015 08:44:16 GMT', u'http://web.archive.org/web/20150405150658/http://collegecandy.com/2015/02/04/red-velvet-dessert-recipes*+*+*Sun, 05 Apr 2015 15:06:58 GMT']
+{"original_uri":"http://collegecandy.com/2015/02/04/red-velvet-dessert-recipes/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://collegecandy.com/2015/02/04/red-velvet-dessert-recipes/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-16T08:44:16Z",
+"uri":"http://web.archive.org/web/20150316084416/http://collegecandy.com/2015/02/04/red-velvet-dessert-recipes/"
+},
+{"datetime":"2015-04-05T15:06:58Z",
+"uri":"http://web.archive.org/web/20150405150658/http://collegecandy.com/2015/02/04/red-velvet-dessert-recipes"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://collegecandy.com/2015/02/04/red-velvet-dessert-recipes/"}
+ }

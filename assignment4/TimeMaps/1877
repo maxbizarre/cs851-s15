@@ -1,2 +1,26 @@
-[u'//wayback.archive-it.org/all/20150214071404/http://greenweddingshoes.com/top-26-coolest-wedding-venues/*+*+*Sat, 14 Feb 2015 07:14:04 GMT']
-[u'http://web.archive.org/web/20150207085906/http://greenweddingshoes.com/top-26-coolest-wedding-venues/*+*+*Sat, 07 Feb 2015 08:59:06 GMT', u'http://web.archive.org/web/20150214071404/http://greenweddingshoes.com/top-26-coolest-wedding-venues/*+*+*Sat, 14 Feb 2015 07:14:04 GMT', u'http://web.archive.org/web/20150314224642/http://greenweddingshoes.com/top-26-coolest-wedding-venues/*+*+*Sat, 14 Mar 2015 22:46:42 GMT', u'http://web.archive.org/web/20150406063406/http://greenweddingshoes.com/top-26-coolest-wedding-venues/*+*+*Mon, 06 Apr 2015 06:34:06 GMT', u'http://web.archive.org/web/20150406095734/https://greenweddingshoes.com/top-26-coolest-wedding-venues/*+*+*Mon, 06 Apr 2015 09:57:34 GMT']
+{"original_uri":"http://greenweddingshoes.com/top-26-coolest-wedding-venues/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://greenweddingshoes.com/top-26-coolest-wedding-venues/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-07T08:59:06Z",
+"uri":"http://web.archive.org/web/20150207085906/http://greenweddingshoes.com/top-26-coolest-wedding-venues/"
+},
+{"datetime":"2015-02-14T07:14:04Z",
+"uri":"//wayback.archive-it.org/all/20150214071404/http://greenweddingshoes.com/top-26-coolest-wedding-venues/"
+},
+{"datetime":"2015-02-14T07:14:04Z",
+"uri":"http://web.archive.org/web/20150214071404/http://greenweddingshoes.com/top-26-coolest-wedding-venues/"
+},
+{"datetime":"2015-03-14T22:46:42Z",
+"uri":"http://web.archive.org/web/20150314224642/http://greenweddingshoes.com/top-26-coolest-wedding-venues/"
+},
+{"datetime":"2015-04-06T06:34:06Z",
+"uri":"http://web.archive.org/web/20150406063406/http://greenweddingshoes.com/top-26-coolest-wedding-venues/"
+},
+{"datetime":"2015-04-06T09:57:34Z",
+"uri":"http://web.archive.org/web/20150406095734/https://greenweddingshoes.com/top-26-coolest-wedding-venues/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://greenweddingshoes.com/top-26-coolest-wedding-venues/"}
+ }

@@ -1,2 +1,35 @@
-[u'//wayback.archive-it.org/all/20150221142224/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html*+*+*Sat, 21 Feb 2015 14:22:24 GMT', u'//wayback.archive-it.org/all/20150321145204/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html*+*+*Sat, 21 Mar 2015 14:52:04 GMT', u'//wayback.archive-it.org/all/20150321145204/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html*+*+*Sat, 21 Mar 2015 14:52:04 GMT', u'//wayback.archive-it.org/all/20150422011326/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html*+*+*Wed, 22 Apr 2015 01:13:26 GMT']
-[u'http://web.archive.org/web/20150204020312/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html*+*+*Wed, 04 Feb 2015 02:03:12 GMT', u'http://web.archive.org/web/20150221142224/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html*+*+*Sat, 21 Feb 2015 14:22:24 GMT', u'http://web.archive.org/web/20150321145204/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html*+*+*Sat, 21 Mar 2015 14:52:04 GMT', u'http://web.archive.org/web/20150330093155/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html*+*+*Mon, 30 Mar 2015 09:31:55 GMT', u'http://web.archive.org/web/20150422011326/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html*+*+*Wed, 22 Apr 2015 01:13:26 GMT']
+{"original_uri":"http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T02:03:12Z",
+"uri":"http://web.archive.org/web/20150204020312/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"
+},
+{"datetime":"2015-02-21T14:22:24Z",
+"uri":"http://wayback.archive-it.org/all/20150221142224/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"
+},
+{"datetime":"2015-02-21T14:22:24Z",
+"uri":"http://web.archive.org/web/20150221142224/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"
+},
+{"datetime":"2015-03-21T14:52:04Z",
+"uri":"http://wayback.archive-it.org/all/20150321145204/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"
+},
+{"datetime":"2015-03-21T14:52:04Z",
+"uri":"http://wayback.archive-it.org/all/20150321145204/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"
+},
+{"datetime":"2015-03-21T14:52:04Z",
+"uri":"http://web.archive.org/web/20150321145204/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"
+},
+{"datetime":"2015-03-30T09:31:55Z",
+"uri":"http://web.archive.org/web/20150330093155/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"
+},
+{"datetime":"2015-04-22T01:13:26Z",
+"uri":"http://wayback.archive-it.org/all/20150422011326/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"
+},
+{"datetime":"2015-04-22T01:13:26Z",
+"uri":"http://web.archive.org/web/20150422011326/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.theroot.com/articles/politics/2015/02/loretta_lynch_confirmation_hearings_gop_is_still_driving_away_black_voters.html"}
+ }

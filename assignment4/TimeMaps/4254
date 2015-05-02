@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150205050349/http://variety.com/2015/digital/news/netflix-to-launch-in-japan-in-fall-of-2015-report-1201423995/*+*+*Thu, 05 Feb 2015 05:03:49 GMT']
+{"original_uri":"http://variety.com/2015/digital/news/netflix-to-launch-in-japan-in-fall-of-2015-report-1201423995/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://variety.com/2015/digital/news/netflix-to-launch-in-japan-in-fall-of-2015-report-1201423995/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T05:03:49Z",
+"uri":"http://web.archive.org/web/20150205050349/http://variety.com/2015/digital/news/netflix-to-launch-in-japan-in-fall-of-2015-report-1201423995/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://variety.com/2015/digital/news/netflix-to-launch-in-japan-in-fall-of-2015-report-1201423995/"}
+ }

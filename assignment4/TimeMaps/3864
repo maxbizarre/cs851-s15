@@ -1,2 +1,20 @@
-[u'http://web.archive.org/web/20150204143731/http://matome.naver.jp/odai/2142305692262526601*+*+*Wed, 04 Feb 2015 14:37:31 GMT']
-[u'http://archive.is/20150204143054/http://matome.naver.jp/odai/2142305692262526601*+*+*Wed, 4 Feb 2015 14:30:54 GMT', u'http://archive.is/20150204143705/http://matome.naver.jp/odai/2142305692262526601*+*+*Wed, 4 Feb 2015 14:37:05 GMT', u'http://archive.is/20150205034543/http://matome.naver.jp/odai/2142305692262526601*+*+*Thu, 5 Feb 2015 03:45:43 GMT']
+{"original_uri":"http://matome.naver.jp/odai/2142305692262526601",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://matome.naver.jp/odai/2142305692262526601",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T14:30:54Z",
+"uri":"http://archive.is/20150204143054/http://matome.naver.jp/odai/2142305692262526601"
+},
+{"datetime":"2015-02-04T14:37:05Z",
+"uri":"http://archive.is/20150204143705/http://matome.naver.jp/odai/2142305692262526601"
+},
+{"datetime":"2015-02-04T14:37:31Z",
+"uri":"http://web.archive.org/web/20150204143731/http://matome.naver.jp/odai/2142305692262526601"
+},
+{"datetime":"2015-02-05T03:45:43Z",
+"uri":"http://archive.is/20150205034543/http://matome.naver.jp/odai/2142305692262526601"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://matome.naver.jp/odai/2142305692262526601"}
+ }

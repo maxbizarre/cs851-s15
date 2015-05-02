@@ -1,2 +1,14 @@
-[u'http://web.archive.org/web/20150321015514/http://latesttrickz.com/black-swallower/*+*+*Sat, 21 Mar 2015 01:55:14 GMT']
-[u'http://archive.is/20141201025115/http://latesttrickz.com/black-swallower/*+*+*Mon, 1 Dec 2014 02:51:15 GMT']
+{"original_uri":"http://latesttrickz.com/black-swallower/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://latesttrickz.com/black-swallower/",
+"mementos": {
+"list": [
+{"datetime":"2014-12-01T02:51:15Z",
+"uri":"http://archive.is/20141201025115/http://latesttrickz.com/black-swallower/"
+},
+{"datetime":"2015-03-21T01:55:14Z",
+"uri":"http://web.archive.org/web/20150321015514/http://latesttrickz.com/black-swallower/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://latesttrickz.com/black-swallower/"}
+ }

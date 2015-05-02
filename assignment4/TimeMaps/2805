@@ -1,2 +1,14 @@
-[u'http://web.archive.org/web/20150416064904/http://www.bloomberg.com/news/articles/2015-02-04/the-simple-reason-millennials-aren-t-moving-out-of-their-parents-homes-they-re-crushed-by-debt*+*+*Thu, 16 Apr 2015 06:49:04 GMT']
-[u'http://archive.is/20150205031645/http://www.bloomberg.com/news/articles/2015-02-04/the-simple-reason-millennials-aren-t-moving-out-of-their-parents-homes-they-re-crushed-by-debt*+*+*Thu, 5 Feb 2015 03:16:45 GMT']
+{"original_uri":"http://www.bloomberg.com/news/articles/2015-02-04/the-simple-reason-millennials-aren-t-moving-out-of-their-parents-homes-they-re-crushed-by-debt",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.bloomberg.com/news/articles/2015-02-04/the-simple-reason-millennials-aren-t-moving-out-of-their-parents-homes-they-re-crushed-by-debt",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T03:16:45Z",
+"uri":"http://archive.is/20150205031645/http://www.bloomberg.com/news/articles/2015-02-04/the-simple-reason-millennials-aren-t-moving-out-of-their-parents-homes-they-re-crushed-by-debt"
+},
+{"datetime":"2015-04-16T06:49:04Z",
+"uri":"http://web.archive.org/web/20150416064904/http://www.bloomberg.com/news/articles/2015-02-04/the-simple-reason-millennials-aren-t-moving-out-of-their-parents-homes-they-re-crushed-by-debt"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.bloomberg.com/news/articles/2015-02-04/the-simple-reason-millennials-aren-t-moving-out-of-their-parents-homes-they-re-crushed-by-debt"}
+ }

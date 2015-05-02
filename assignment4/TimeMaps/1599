@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150124155039/http://exclaim.ca/Music/article/aphex_twin-computer_controlled_acoustic_instruments_pt_2_ep_stream*+*+*Sat, 24 Jan 2015 15:50:39 GMT']
+{"original_uri":"http://exclaim.ca/Music/article/aphex_twin-computer_controlled_acoustic_instruments_pt_2_ep_stream",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://exclaim.ca/Music/article/aphex_twin-computer_controlled_acoustic_instruments_pt_2_ep_stream",
+"mementos": {
+"list": [
+{"datetime":"2015-01-24T15:50:39Z",
+"uri":"http://web.archive.org/web/20150124155039/http://exclaim.ca/Music/article/aphex_twin-computer_controlled_acoustic_instruments_pt_2_ep_stream"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://exclaim.ca/Music/article/aphex_twin-computer_controlled_acoustic_instruments_pt_2_ep_stream"}
+ }

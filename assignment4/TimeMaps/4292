@@ -1,0 +1,14 @@
+{"original_uri":"http://mozdwj.com/?p=15710",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://mozdwj.com/?p=15710",
+"mementos": {
+"list": [
+{"datetime":"2015-04-05T12:40:30Z",
+"uri":"http://web.archive.org/web/20150405124030/http://mozdwj.com/?p=15710"
+},
+{"datetime":"2015-04-05T12:40:32Z",
+"uri":"http://web.archive.org/web/20150405124032/http://www.mozdwj.com/?p=15710"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://mozdwj.com/?p=15710"}
+ }

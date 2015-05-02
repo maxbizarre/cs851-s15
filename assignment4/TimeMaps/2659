@@ -1,2 +1,14 @@
-[u'http://web.archive.org/web/20150205172004/http://www.stern.de/tv/sterntv/streaming-plattform-younow-die-gefahr-der-livestreams-aus-deutschlands-kinderzimmern-2170693.html*+*+*Thu, 05 Feb 2015 17:20:04 GMT']
-[u'http://archive.is/20150205141001/http://www.stern.de/tv/sterntv/streaming-plattform-younow-die-gefahr-der-livestreams-aus-deutschlands-kinderzimmern-2170693.html*+*+*Thu, 5 Feb 2015 14:10:01 GMT']
+{"original_uri":"http://www.stern.de/tv/sterntv/streaming-plattform-younow-die-gefahr-der-livestreams-aus-deutschlands-kinderzimmern-2170693.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.stern.de/tv/sterntv/streaming-plattform-younow-die-gefahr-der-livestreams-aus-deutschlands-kinderzimmern-2170693.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T14:10:01Z",
+"uri":"http://archive.is/20150205141001/http://www.stern.de/tv/sterntv/streaming-plattform-younow-die-gefahr-der-livestreams-aus-deutschlands-kinderzimmern-2170693.html"
+},
+{"datetime":"2015-02-05T17:20:04Z",
+"uri":"http://web.archive.org/web/20150205172004/http://www.stern.de/tv/sterntv/streaming-plattform-younow-die-gefahr-der-livestreams-aus-deutschlands-kinderzimmern-2170693.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.stern.de/tv/sterntv/streaming-plattform-younow-die-gefahr-der-livestreams-aus-deutschlands-kinderzimmern-2170693.html"}
+ }

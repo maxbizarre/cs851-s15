@@ -1,2 +1,14 @@
-[u'http://web.archive.org/web/20150205023043/http://www.dotbook.jp/magazine-k/2015/02/04/why_bad_is_stronger_than_good/*+*+*Thu, 05 Feb 2015 02:30:43 GMT', u'http://web.archive.org/web/20150403185513/http://www.dotbook.jp/magazine-k/2015/02/04/why_bad_is_stronger_than_good/*+*+*Fri, 03 Apr 2015 18:55:13 GMT']
-[u'http://archive.is/20150205023049/http://www.dotbook.jp/magazine-k/2015/02/04/why_bad_is_stronger_than_good/*+*+*Thu, 5 Feb 2015 02:30:49 GMT']
+{"original_uri":"http://www.dotbook.jp/magazine-k/2015/02/04/why_bad_is_stronger_than_good/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.dotbook.jp/magazine-k/2015/02/04/why_bad_is_stronger_than_good/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T02:30:49Z",
+"uri":"http://archive.is/20150205023049/http://www.dotbook.jp/magazine-k/2015/02/04/why_bad_is_stronger_than_good/"
+},
+{"datetime":"2015-04-03T18:55:13Z",
+"uri":"http://web.archive.org/web/20150403185513/http://www.dotbook.jp/magazine-k/2015/02/04/why_bad_is_stronger_than_good/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.dotbook.jp/magazine-k/2015/02/04/why_bad_is_stronger_than_good/"}
+ }

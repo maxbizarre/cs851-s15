@@ -1,3 +1,23 @@
-[u'//wayback.archive-it.org/all/20150204234700/http://togetter.com/li/778407*+*+*Wed, 04 Feb 2015 23:47:00 GMT']
-[u'http://web.archive.org/web/20150204105647/http://togetter.com/li/778407*+*+*Wed, 04 Feb 2015 10:56:47 GMT', u'http://web.archive.org/web/20150204234700/http://togetter.com/li/778407*+*+*Wed, 04 Feb 2015 23:47:00 GMT', u'http://web.archive.org/web/20150317055538/http://togetter.com/li/778407*+*+*Tue, 17 Mar 2015 05:55:38 GMT']
-[u'http://archive.is/20150204105638/http://togetter.com/li/778407*+*+*Wed, 4 Feb 2015 10:56:38 GMT']
+{"original_uri":"http://togetter.com/li/778407",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://togetter.com/li/778407",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T10:56:38Z",
+"uri":"http://archive.is/20150204105638/http://togetter.com/li/778407"
+},
+{"datetime":"2015-02-04T10:56:47Z",
+"uri":"http://web.archive.org/web/20150204105647/http://togetter.com/li/778407"
+},
+{"datetime":"2015-02-04T23:47:00Z",
+"uri":"//wayback.archive-it.org/all/20150204234700/http://togetter.com/li/778407"
+},
+{"datetime":"2015-02-04T23:47:00Z",
+"uri":"http://web.archive.org/web/20150204234700/http://togetter.com/li/778407"
+},
+{"datetime":"2015-03-17T05:55:38Z",
+"uri":"http://web.archive.org/web/20150317055538/http://togetter.com/li/778407"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://togetter.com/li/778407"}
+ }

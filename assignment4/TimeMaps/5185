@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150324034806/http://www.rochesterrealestateblog.com/top-frequently-asked-questions-home-buyers/*+*+*Tue, 24 Mar 2015 03:48:06 GMT', u'http://web.archive.org/web/20150406003459/http://www.rochesterrealestateblog.com/top-frequently-asked-questions-home-buyers/*+*+*Mon, 06 Apr 2015 00:34:59 GMT']
+{"original_uri":"http://www.rochesterrealestateblog.com/top-frequently-asked-questions-home-buyers/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.rochesterrealestateblog.com/top-frequently-asked-questions-home-buyers/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-24T03:48:06Z",
+"uri":"http://web.archive.org/web/20150324034806/http://www.rochesterrealestateblog.com/top-frequently-asked-questions-home-buyers/"
+},
+{"datetime":"2015-04-06T00:34:59Z",
+"uri":"http://web.archive.org/web/20150406003459/http://www.rochesterrealestateblog.com/top-frequently-asked-questions-home-buyers/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.rochesterrealestateblog.com/top-frequently-asked-questions-home-buyers/"}
+ }

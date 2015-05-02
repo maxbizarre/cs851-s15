@@ -1,2 +1,14 @@
-[u'//wayback.archive-it.org/all/20150204103140/http://www.forharriet.com/2015/02/12-black-womens-organizations-doing.html*+*+*Wed, 04 Feb 2015 10:31:40 GMT']
-[u'http://web.archive.org/web/20150204103140/http://www.forharriet.com/2015/02/12-black-womens-organizations-doing.html*+*+*Wed, 04 Feb 2015 10:31:40 GMT']
+{"original_uri":"http://www.forharriet.com/2015/02/12-black-womens-organizations-doing.html",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.forharriet.com/2015/02/12-black-womens-organizations-doing.html",
+"mementos": {
+"list": [
+{"datetime":"2015-02-04T10:31:40Z",
+"uri":"//wayback.archive-it.org/all/20150204103140/http://www.forharriet.com/2015/02/12-black-womens-organizations-doing.html"
+},
+{"datetime":"2015-02-04T10:31:40Z",
+"uri":"http://web.archive.org/web/20150204103140/http://www.forharriet.com/2015/02/12-black-womens-organizations-doing.html"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.forharriet.com/2015/02/12-black-womens-organizations-doing.html"}
+ }

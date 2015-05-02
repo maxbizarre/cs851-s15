@@ -1,3 +1,56 @@
-[u'//wayback.archive-it.org/all/20150203143625/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Tue, 03 Feb 2015 14:36:25 GMT', u'//wayback.archive-it.org/all/20150204092537/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Wed, 04 Feb 2015 09:25:37 GMT', u'//wayback.archive-it.org/all/20150206142326/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Fri, 06 Feb 2015 14:23:26 GMT', u'//wayback.archive-it.org/all/20150215063054/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Sun, 15 Feb 2015 06:30:54 GMT', u'//wayback.archive-it.org/all/20150222051543/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Sun, 22 Feb 2015 05:15:43 GMT', u'//wayback.archive-it.org/all/20150301162152/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Sun, 01 Mar 2015 16:21:52 GMT', u'//wayback.archive-it.org/all/20150405173646/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Sun, 05 Apr 2015 17:36:46 GMT']
-[u'http://web.archive.org/web/20150203143625/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Tue, 03 Feb 2015 14:36:25 GMT', u'http://web.archive.org/web/20150204092537/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Wed, 04 Feb 2015 09:25:37 GMT', u'http://web.archive.org/web/20150204103042/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Wed, 04 Feb 2015 10:30:42 GMT', u'http://web.archive.org/web/20150206142326/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Fri, 06 Feb 2015 14:23:26 GMT', u'http://web.archive.org/web/20150222051543/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Sun, 22 Feb 2015 05:15:43 GMT', u'http://web.archive.org/web/20150301162152/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Sun, 01 Mar 2015 16:21:52 GMT', u'http://web.archive.org/web/20150405173646/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Sun, 05 Apr 2015 17:36:46 GMT', u'http://web.archive.org/web/20150407161307/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Tue, 07 Apr 2015 16:13:07 GMT']
-[u'http://archive.is/20150203195748/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure*+*+*Tue, 3 Feb 2015 19:57:48 GMT']
+{"original_uri":"http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure",
+"mementos": {
+"list": [
+{"datetime":"2015-02-03T14:36:25Z",
+"uri":"//wayback.archive-it.org/all/20150203143625/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-03T14:36:25Z",
+"uri":"http://web.archive.org/web/20150203143625/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-03T19:57:48Z",
+"uri":"http://archive.is/20150203195748/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-04T09:25:37Z",
+"uri":"//wayback.archive-it.org/all/20150204092537/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-04T09:25:37Z",
+"uri":"http://web.archive.org/web/20150204092537/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-04T10:30:42Z",
+"uri":"http://web.archive.org/web/20150204103042/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-06T14:23:26Z",
+"uri":"//wayback.archive-it.org/all/20150206142326/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-06T14:23:26Z",
+"uri":"http://web.archive.org/web/20150206142326/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-15T06:30:54Z",
+"uri":"//wayback.archive-it.org/all/20150215063054/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-22T05:15:43Z",
+"uri":"//wayback.archive-it.org/all/20150222051543/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-02-22T05:15:43Z",
+"uri":"http://web.archive.org/web/20150222051543/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-03-01T16:21:52Z",
+"uri":"//wayback.archive-it.org/all/20150301162152/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-03-01T16:21:52Z",
+"uri":"http://web.archive.org/web/20150301162152/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-04-05T17:36:46Z",
+"uri":"//wayback.archive-it.org/all/20150405173646/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-04-05T17:36:46Z",
+"uri":"http://web.archive.org/web/20150405173646/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+},
+{"datetime":"2015-04-07T16:13:07Z",
+"uri":"http://web.archive.org/web/20150407161307/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.motherjones.com/environment/2015/02/open-letter-parent-unvaccinated-child-measles-exposure"}
+ }

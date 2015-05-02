@@ -1,2 +1,29 @@
-[u'http://web.archive.org/web/20150205055425/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia*+*+*Thu, 05 Feb 2015 05:54:25 GMT', u'http://web.archive.org/web/20150205060419/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia*+*+*Thu, 05 Feb 2015 06:04:19 GMT', u'http://web.archive.org/web/20150212180342/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia*+*+*Thu, 12 Feb 2015 18:03:42 GMT', u'http://web.archive.org/web/20150318230907/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia*+*+*Wed, 18 Mar 2015 23:09:07 GMT', u'http://web.archive.org/web/20150329090427/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia*+*+*Sun, 29 Mar 2015 09:04:27 GMT', u'http://web.archive.org/web/20150331160134/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia*+*+*Tue, 31 Mar 2015 16:01:34 GMT']
-[u'http://archive.is/20150205031047/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia*+*+*Thu, 5 Feb 2015 03:10:47 GMT']
+{"original_uri":"http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T03:10:47Z",
+"uri":"http://archive.is/20150205031047/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia"
+},
+{"datetime":"2015-02-05T05:54:25Z",
+"uri":"http://web.archive.org/web/20150205055425/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia"
+},
+{"datetime":"2015-02-05T06:04:19Z",
+"uri":"http://web.archive.org/web/20150205060419/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia"
+},
+{"datetime":"2015-02-12T18:03:42Z",
+"uri":"http://web.archive.org/web/20150212180342/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia"
+},
+{"datetime":"2015-03-18T23:09:07Z",
+"uri":"http://web.archive.org/web/20150318230907/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia"
+},
+{"datetime":"2015-03-29T09:04:27Z",
+"uri":"http://web.archive.org/web/20150329090427/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia"
+},
+{"datetime":"2015-03-31T16:01:34Z",
+"uri":"http://web.archive.org/web/20150331160134/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.theguardian.com/world/2015/feb/04/zacarias-moussaoui-al-qaida-backed-by-saudi-arabia"}
+ }

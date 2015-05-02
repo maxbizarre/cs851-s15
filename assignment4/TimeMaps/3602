@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150205081626/http://pitchfork.com/reviews/tracks/17312-houndstooth-no-news-from-home/*+*+*Thu, 05 Feb 2015 08:16:26 GMT', u'http://web.archive.org/web/20150420151702/http://pitchfork.com/reviews/tracks/17312-houndstooth-no-news-from-home/*+*+*Mon, 20 Apr 2015 15:17:02 GMT']
+{"original_uri":"http://pitchfork.com/reviews/tracks/17312-houndstooth-no-news-from-home/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://pitchfork.com/reviews/tracks/17312-houndstooth-no-news-from-home/",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T08:16:26Z",
+"uri":"http://web.archive.org/web/20150205081626/http://pitchfork.com/reviews/tracks/17312-houndstooth-no-news-from-home/"
+},
+{"datetime":"2015-04-20T15:17:02Z",
+"uri":"http://web.archive.org/web/20150420151702/http://pitchfork.com/reviews/tracks/17312-houndstooth-no-news-from-home/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://pitchfork.com/reviews/tracks/17312-houndstooth-no-news-from-home/"}
+ }

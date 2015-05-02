@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150205064707/http://www.sbnation.com/college-football/2015/2/4/7981701/ucla-jeff-ulbrich-roquan-smith-atlanta-falcons*+*+*Thu, 05 Feb 2015 06:47:07 GMT']
+{"original_uri":"http://www.sbnation.com/college-football/2015/2/4/7981701/ucla-jeff-ulbrich-roquan-smith-atlanta-falcons",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.sbnation.com/college-football/2015/2/4/7981701/ucla-jeff-ulbrich-roquan-smith-atlanta-falcons",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T06:47:07Z",
+"uri":"http://web.archive.org/web/20150205064707/http://www.sbnation.com/college-football/2015/2/4/7981701/ucla-jeff-ulbrich-roquan-smith-atlanta-falcons"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.sbnation.com/college-football/2015/2/4/7981701/ucla-jeff-ulbrich-roquan-smith-atlanta-falcons"}
+ }

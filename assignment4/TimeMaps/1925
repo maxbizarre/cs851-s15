@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20130610235624/http://bylines.news.yahoo.co.jp/kimuramasato/20130527-00025250/*+*+*Mon, 10 Jun 2013 23:56:24 GMT', u'http://web.archive.org/web/20131109030027/http://bylines.news.yahoo.co.jp/kimuramasato/20130527-00025250/*+*+*Sat, 09 Nov 2013 03:00:27 GMT']
+{"original_uri":"http://bylines.news.yahoo.co.jp/kimuramasato/20130527-00025250/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://bylines.news.yahoo.co.jp/kimuramasato/20130527-00025250/",
+"mementos": {
+"list": [
+{"datetime":"2013-06-10T23:56:24Z",
+"uri":"http://web.archive.org/web/20130610235624/http://bylines.news.yahoo.co.jp/kimuramasato/20130527-00025250/"
+},
+{"datetime":"2013-11-09T03:00:27Z",
+"uri":"http://web.archive.org/web/20131109030027/http://bylines.news.yahoo.co.jp/kimuramasato/20130527-00025250/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://bylines.news.yahoo.co.jp/kimuramasato/20130527-00025250/"}
+ }

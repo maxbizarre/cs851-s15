@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150205150404/https://www.youtube.com/watch?v=pSb_ERkLOx0&gl=US&hl=en*+*+*Thu, 05 Feb 2015 15:04:04 GMT']
+{"original_uri":"http://www.youtube.com/watch?v=pSb_ERkLOx0",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.youtube.com/watch?v=pSb_ERkLOx0",
+"mementos": {
+"list": [
+{"datetime":"2015-02-05T15:04:04Z",
+"uri":"http://web.archive.org/web/20150205150404/https://www.youtube.com/watch?v=pSb_ERkLOx0&gl=US&hl=en"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.youtube.com/watch?v=pSb_ERkLOx0"}
+ }

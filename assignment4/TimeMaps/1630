@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150316111553/http://onwardstate.com/2015/02/04/dominate-the-region-james-franklins-quest-to-conquer-the-northeast/*+*+*Mon, 16 Mar 2015 11:15:53 GMT', u'http://web.archive.org/web/20150405193145/http://onwardstate.com/2015/02/04/dominate-the-region-james-franklins-quest-to-conquer-the-northeast/*+*+*Sun, 05 Apr 2015 19:31:45 GMT']
+{"original_uri":"http://onwardstate.com/2015/02/04/dominate-the-region-james-franklins-quest-to-conquer-the-northeast/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://onwardstate.com/2015/02/04/dominate-the-region-james-franklins-quest-to-conquer-the-northeast/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-16T11:15:53Z",
+"uri":"http://web.archive.org/web/20150316111553/http://onwardstate.com/2015/02/04/dominate-the-region-james-franklins-quest-to-conquer-the-northeast/"
+},
+{"datetime":"2015-04-05T19:31:45Z",
+"uri":"http://web.archive.org/web/20150405193145/http://onwardstate.com/2015/02/04/dominate-the-region-james-franklins-quest-to-conquer-the-northeast/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://onwardstate.com/2015/02/04/dominate-the-region-james-franklins-quest-to-conquer-the-northeast/"}
+ }

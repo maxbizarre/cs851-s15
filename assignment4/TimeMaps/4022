@@ -1,1 +1,11 @@
-[u'http://web.archive.org/web/20150318190604/http://theysmell.com/guilty-pleasure-breakfast-300-calories/*+*+*Wed, 18 Mar 2015 19:06:04 GMT']
+{"original_uri":"http://theysmell.com/guilty-pleasure-breakfast-300-calories/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://theysmell.com/guilty-pleasure-breakfast-300-calories/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-18T19:06:04Z",
+"uri":"http://web.archive.org/web/20150318190604/http://theysmell.com/guilty-pleasure-breakfast-300-calories/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://theysmell.com/guilty-pleasure-breakfast-300-calories/"}
+ }

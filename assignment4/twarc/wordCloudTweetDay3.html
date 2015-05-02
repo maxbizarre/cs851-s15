@@ -1,0 +1,1248 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://raw.github.com/jasondavies/d3-cloud/master/d3.layout.cloud.js"></script>
+</head>
+<body>
+<script>
+
+  // embed Jason Davies' d3-cloud since it's not available in a CDN
+  // Word cloud layout by Jason Davies, http://www.jasondavies.com/word-cloud/
+// Algorithm due to Jonathan Feinberg, http://static.mrfeinberg.com/bv_ch03.pdf
+(function() {
+  function cloud() {
+    var size = [256, 256],
+        text = cloudText,
+        font = cloudFont,
+        fontSize = cloudFontSize,
+        fontStyle = cloudFontNormal,
+        fontWeight = cloudFontNormal,
+        rotate = cloudRotate,
+        padding = cloudPadding,
+        spiral = archimedeanSpiral,
+        words = [],
+        timeInterval = Infinity,
+        event = d3.dispatch("word", "end"),
+        timer = null,
+        cloud = {};
+
+    cloud.start = function() {
+      var board = zeroArray((size[0] >> 5) * size[1]),
+          bounds = null,
+          n = words.length,
+          i = -1,
+          tags = [],
+          data = words.map(function(d, i) {
+            d.text = text.call(this, d, i);
+            d.font = font.call(this, d, i);
+            d.style = fontStyle.call(this, d, i);
+            d.weight = fontWeight.call(this, d, i);
+            d.rotate = rotate.call(this, d, i);
+            d.size = ~~fontSize.call(this, d, i);
+            d.padding = padding.call(this, d, i);
+            return d;
+          }).sort(function(a, b) { return b.size - a.size; });
+
+      if (timer) clearInterval(timer);
+      timer = setInterval(step, 0);
+      step();
+
+      return cloud;
+
+      function step() {
+        var start = +new Date,
+            d;
+        while (+new Date - start < timeInterval && ++i < n && timer) {
+          d = data[i];
+          d.x = (size[0] * (Math.random() + .5)) >> 1;
+          d.y = (size[1] * (Math.random() + .5)) >> 1;
+          cloudSprite(d, data, i);
+          if (d.hasText && place(board, d, bounds)) {
+            tags.push(d);
+            event.word(d);
+            if (bounds) cloudBounds(bounds, d);
+            else bounds = [{x: d.x + d.x0, y: d.y + d.y0}, {x: d.x + d.x1, y: d.y + d.y1}];
+            // Temporary hack
+            d.x -= size[0] >> 1;
+            d.y -= size[1] >> 1;
+          }
+        }
+        if (i >= n) {
+          cloud.stop();
+          event.end(tags, bounds);
+        }
+      }
+    }
+
+    cloud.stop = function() {
+      if (timer) {
+        clearInterval(timer);
+        timer = null;
+      }
+      return cloud;
+    };
+
+    cloud.timeInterval = function(x) {
+      if (!arguments.length) return timeInterval;
+      timeInterval = x == null ? Infinity : x;
+      return cloud;
+    };
+
+    function place(board, tag, bounds) {
+      var perimeter = [{x: 0, y: 0}, {x: size[0], y: size[1]}],
+          startX = tag.x,
+          startY = tag.y,
+          maxDelta = Math.sqrt(size[0] * size[0] + size[1] * size[1]),
+          s = spiral(size),
+          dt = Math.random() < .5 ? 1 : -1,
+          t = -dt,
+          dxdy,
+          dx,
+          dy;
+
+      while (dxdy = s(t += dt)) {
+        dx = ~~dxdy[0];
+        dy = ~~dxdy[1];
+
+        if (Math.min(dx, dy) > maxDelta) break;
+
+        tag.x = startX + dx;
+        tag.y = startY + dy;
+
+        if (tag.x + tag.x0 < 0 || tag.y + tag.y0 < 0 ||
+            tag.x + tag.x1 > size[0] || tag.y + tag.y1 > size[1]) continue;
+        // TODO only check for collisions within current bounds.
+        if (!bounds || !cloudCollide(tag, board, size[0])) {
+          if (!bounds || collideRects(tag, bounds)) {
+            var sprite = tag.sprite,
+                w = tag.width >> 5,
+                sw = size[0] >> 5,
+                lx = tag.x - (w << 4),
+                sx = lx & 0x7f,
+                msx = 32 - sx,
+                h = tag.y1 - tag.y0,
+                x = (tag.y + tag.y0) * sw + (lx >> 5),
+                last;
+            for (var j = 0; j < h; j++) {
+              last = 0;
+              for (var i = 0; i <= w; i++) {
+                board[x + i] |= (last << msx) | (i < w ? (last = sprite[j * w + i]) >>> sx : 0);
+              }
+              x += sw;
+            }
+            delete tag.sprite;
+            return true;
+          }
+        }
+      }
+      return false;
+    }
+
+    cloud.words = function(x) {
+      if (!arguments.length) return words;
+      words = x;
+      return cloud;
+    };
+
+    cloud.size = function(x) {
+      if (!arguments.length) return size;
+      size = [+x[0], +x[1]];
+      return cloud;
+    };
+
+    cloud.font = function(x) {
+      if (!arguments.length) return font;
+      font = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.fontStyle = function(x) {
+      if (!arguments.length) return fontStyle;
+      fontStyle = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.fontWeight = function(x) {
+      if (!arguments.length) return fontWeight;
+      fontWeight = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.rotate = function(x) {
+      if (!arguments.length) return rotate;
+      rotate = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.text = function(x) {
+      if (!arguments.length) return text;
+      text = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.spiral = function(x) {
+      if (!arguments.length) return spiral;
+      spiral = spirals[x + ""] || x;
+      return cloud;
+    };
+
+    cloud.fontSize = function(x) {
+      if (!arguments.length) return fontSize;
+      fontSize = d3.functor(x);
+      return cloud;
+    };
+
+    cloud.padding = function(x) {
+      if (!arguments.length) return padding;
+      padding = d3.functor(x);
+      return cloud;
+    };
+
+    return d3.rebind(cloud, event, "on");
+  }
+
+  function cloudText(d) {
+    return d.text;
+  }
+
+  function cloudFont() {
+    return "serif";
+  }
+
+  function cloudFontNormal() {
+    return "normal";
+  }
+
+  function cloudFontSize(d) {
+    return Math.sqrt(d.value);
+  }
+
+  function cloudRotate() {
+    return (~~(Math.random() * 6) - 3) * 30;
+  }
+
+  function cloudPadding() {
+    return 1;
+  }
+
+  // Fetches a monochrome sprite bitmap for the specified text.
+  // Load in batches for speed.
+  function cloudSprite(d, data, di) {
+    if (d.sprite) return;
+    c.clearRect(0, 0, (cw << 5) / ratio, ch / ratio);
+    var x = 0,
+        y = 0,
+        maxh = 0,
+        n = data.length;
+    --di;
+    while (++di < n) {
+      d = data[di];
+      c.save();
+      c.font = d.style + " " + d.weight + " " + ~~((d.size + 1) / ratio) + "px " + d.font;
+      var w = c.measureText(d.text + "m").width * ratio,
+          h = d.size << 1;
+      if (d.rotate) {
+        var sr = Math.sin(d.rotate * cloudRadians),
+            cr = Math.cos(d.rotate * cloudRadians),
+            wcr = w * cr,
+            wsr = w * sr,
+            hcr = h * cr,
+            hsr = h * sr;
+        w = (Math.max(Math.abs(wcr + hsr), Math.abs(wcr - hsr)) + 0x1f) >> 5 << 5;
+        h = ~~Math.max(Math.abs(wsr + hcr), Math.abs(wsr - hcr));
+      } else {
+        w = (w + 0x1f) >> 5 << 5;
+      }
+      if (h > maxh) maxh = h;
+      if (x + w >= (cw << 5)) {
+        x = 0;
+        y += maxh;
+        maxh = 0;
+      }
+      if (y + h >= ch) break;
+      c.translate((x + (w >> 1)) / ratio, (y + (h >> 1)) / ratio);
+      if (d.rotate) c.rotate(d.rotate * cloudRadians);
+      c.fillText(d.text, 0, 0);
+      if (d.padding) c.lineWidth = 2 * d.padding, c.strokeText(d.text, 0, 0);
+      c.restore();
+      d.width = w;
+      d.height = h;
+      d.xoff = x;
+      d.yoff = y;
+      d.x1 = w >> 1;
+      d.y1 = h >> 1;
+      d.x0 = -d.x1;
+      d.y0 = -d.y1;
+      d.hasText = true;
+      x += w;
+    }
+    var pixels = c.getImageData(0, 0, (cw << 5) / ratio, ch / ratio).data,
+        sprite = [];
+    while (--di >= 0) {
+      d = data[di];
+      if (!d.hasText) continue;
+      var w = d.width,
+          w32 = w >> 5,
+          h = d.y1 - d.y0;
+      // Zero the buffer
+      for (var i = 0; i < h * w32; i++) sprite[i] = 0;
+      x = d.xoff;
+      if (x == null) return;
+      y = d.yoff;
+      var seen = 0,
+          seenRow = -1;
+      for (var j = 0; j < h; j++) {
+        for (var i = 0; i < w; i++) {
+          var k = w32 * j + (i >> 5),
+              m = pixels[((y + j) * (cw << 5) + (x + i)) << 2] ? 1 << (31 - (i % 32)) : 0;
+          sprite[k] |= m;
+          seen |= m;
+        }
+        if (seen) seenRow = j;
+        else {
+          d.y0++;
+          h--;
+          j--;
+          y++;
+        }
+      }
+      d.y1 = d.y0 + seenRow;
+      d.sprite = sprite.slice(0, (d.y1 - d.y0) * w32);
+    }
+  }
+
+  // Use mask-based collision detection.
+  function cloudCollide(tag, board, sw) {
+    sw >>= 5;
+    var sprite = tag.sprite,
+        w = tag.width >> 5,
+        lx = tag.x - (w << 4),
+        sx = lx & 0x7f,
+        msx = 32 - sx,
+        h = tag.y1 - tag.y0,
+        x = (tag.y + tag.y0) * sw + (lx >> 5),
+        last;
+    for (var j = 0; j < h; j++) {
+      last = 0;
+      for (var i = 0; i <= w; i++) {
+        if (((last << msx) | (i < w ? (last = sprite[j * w + i]) >>> sx : 0))
+            & board[x + i]) return true;
+      }
+      x += sw;
+    }
+    return false;
+  }
+
+  function cloudBounds(bounds, d) {
+    var b0 = bounds[0],
+        b1 = bounds[1];
+    if (d.x + d.x0 < b0.x) b0.x = d.x + d.x0;
+    if (d.y + d.y0 < b0.y) b0.y = d.y + d.y0;
+    if (d.x + d.x1 > b1.x) b1.x = d.x + d.x1;
+    if (d.y + d.y1 > b1.y) b1.y = d.y + d.y1;
+  }
+
+  function collideRects(a, b) {
+    return a.x + a.x1 > b[0].x && a.x + a.x0 < b[1].x && a.y + a.y1 > b[0].y && a.y + a.y0 < b[1].y;
+  }
+
+  function archimedeanSpiral(size) {
+    var e = size[0] / size[1];
+    return function(t) {
+      return [e * (t *= .1) * Math.cos(t), t * Math.sin(t)];
+    };
+  }
+
+  function rectangularSpiral(size) {
+    var dy = 4,
+        dx = dy * size[0] / size[1],
+        x = 0,
+        y = 0;
+    return function(t) {
+      var sign = t < 0 ? -1 : 1;
+      // See triangular numbers: T_n = n * (n + 1) / 2.
+      switch ((Math.sqrt(1 + 4 * sign * t) - sign) & 3) {
+        case 0:  x += dx; break;
+        case 1:  y += dy; break;
+        case 2:  x -= dx; break;
+        default: y -= dy; break;
+      }
+      return [x, y];
+    };
+  }
+
+  // TODO reuse arrays?
+  function zeroArray(n) {
+    var a = [],
+        i = -1;
+    while (++i < n) a[i] = 0;
+    return a;
+  }
+
+  var cloudRadians = Math.PI / 180,
+      cw = 1 << 11 >> 5,
+      ch = 1 << 11,
+      canvas,
+      ratio = 1;
+
+  if (typeof document !== "undefined") {
+    canvas = document.createElement("canvas");
+    canvas.width = 1;
+    canvas.height = 1;
+    ratio = Math.sqrt(canvas.getContext("2d").getImageData(0, 0, 1, 1).data.length >> 2);
+    canvas.width = (cw << 5) / ratio;
+    canvas.height = ch / ratio;
+  } else {
+    // Attempt to use node-canvas.
+    canvas = new Canvas(cw << 5, ch);
+  }
+
+  var c = canvas.getContext("2d"),
+      spirals = {
+        archimedean: archimedeanSpiral,
+        rectangular: rectangularSpiral
+      };
+  c.fillStyle = c.strokeStyle = "red";
+  c.textAlign = "center";
+
+  if (typeof module === "object" && module.exports) module.exports = cloud;
+  else (d3.layout || (d3.layout = {})).cloud = cloud;
+})();
+
+
+  var fill = d3.scale.category20();
+  var words = [
+  {
+    "text": "project", 
+    "size": 115
+  }, 
+  {
+    "text": "google", 
+    "size": 75
+  }, 
+  {
+    "text": "service", 
+    "size": 41
+  }, 
+  {
+    "text": "wireless", 
+    "size": 40
+  }, 
+  {
+    "text": "news", 
+    "size": 37
+  }, 
+  {
+    "text": "usa", 
+    "size": 34
+  }, 
+  {
+    "text": "verizon", 
+    "size": 30
+  }, 
+  {
+    "text": "out", 
+    "size": 28
+  }, 
+  {
+    "text": "support", 
+    "size": 28
+  }, 
+  {
+    "text": "hangouts", 
+    "size": 28
+  }, 
+  {
+    "text": "teardown]", 
+    "size": 28
+  }, 
+  {
+    "text": "comes", 
+    "size": 28
+  }, 
+  {
+    "text": "new", 
+    "size": 28
+  }, 
+  {
+    "text": "phone", 
+    "size": 27
+  }, 
+  {
+    "text": "nexus", 
+    "size": 25
+  }, 
+  {
+    "text": "fi,", 
+    "size": 25
+  }, 
+  {
+    "text": "google's", 
+    "size": 23
+  }, 
+  {
+    "text": "big", 
+    "size": 23
+  }, 
+  {
+    "text": "android", 
+    "size": 23
+  }, 
+  {
+    "text": "unveiling", 
+    "size": 23
+  }, 
+  {
+    "text": "takes", 
+    "size": 22
+  }, 
+  {
+    "text": "google\u2019s", 
+    "size": 22
+  }, 
+  {
+    "text": "flor\u2026", 
+    "size": 22
+  }, 
+  {
+    "text": "called", 
+    "size": 22
+  }, 
+  {
+    "text": "introduces", 
+    "size": 22
+  }, 
+  {
+    "text": "unveils", 
+    "size": 22
+  }, 
+  {
+    "text": "next", 
+    "size": 22
+  }, 
+  {
+    "text": "strangle", 
+    "size": 22
+  }, 
+  {
+    "text": "cheap", 
+    "size": 22
+  }, 
+  {
+    "text": "unveil?", 
+    "size": 22
+  }, 
+  {
+    "text": "wi-fi", 
+    "size": 21
+  }, 
+  {
+    "text": "officially", 
+    "size": 21
+  }, 
+  {
+    "text": "won", 
+    "size": 21
+  }, 
+  {
+    "text": "california", 
+    "size": 20
+  }, 
+  {
+    "text": "iphone", 
+    "size": 20
+  }, 
+  {
+    "text": "before", 
+    "size": 20
+  }, 
+  {
+    "text": "show", 
+    "size": 20
+  }, 
+  {
+    "text": "envisioned", 
+    "size": 20
+  }, 
+  {
+    "text": "patents", 
+    "size": 20
+  }, 
+  {
+    "text": "released", 
+    "size": 20
+  }, 
+  {
+    "text": "texas\u2026", 
+    "size": 19
+  }, 
+  {
+    "text": "michigan", 
+    "size": 18
+  }, 
+  {
+    "text": "services", 
+    "size": 18
+  }, 
+  {
+    "text": "grand\u2026", 
+    "size": 18
+  }, 
+  {
+    "text": "network", 
+    "size": 18
+  }, 
+  {
+    "text": "mobile", 
+    "size": 18
+  }, 
+  {
+    "text": "cellular", 
+    "size": 18
+  }, 
+  {
+    "text": "via", 
+    "size": 18
+  }, 
+  {
+    "text": "closes", 
+    "size": 18
+  }, 
+  {
+    "text": "between", 
+    "size": 18
+  }, 
+  {
+    "text": "gap", 
+    "size": 18
+  }, 
+  {
+    "text": "fi:", 
+    "size": 17
+  }, 
+  {
+    "text": "launches", 
+    "size": 17
+  }, 
+  {
+    "text": "more", 
+    "size": 17
+  }, 
+  {
+    "text": "data", 
+    "size": 17
+  }, 
+  {
+    "text": "apple", 
+    "size": 17
+  }, 
+  {
+    "text": "world", 
+    "size": 17
+  }, 
+  {
+    "text": "everything", 
+    "size": 17
+  }, 
+  {
+    "text": "watch", 
+    "size": 17
+  }, 
+  {
+    "text": "m\u00f3vil", 
+    "size": 17
+  }, 
+  {
+    "text": "sounds", 
+    "size": 16
+  }, 
+  {
+    "text": "cool,", 
+    "size": 16
+  }, 
+  {
+    "text": "work?", 
+    "size": 16
+  }, 
+  {
+    "text": "worth", 
+    "size": 16
+  }, 
+  {
+    "text": "saying", 
+    "size": 16
+  }, 
+  {
+    "text": "t-mobile", 
+    "size": 16
+  }, 
+  {
+    "text": "south", 
+    "size": 16
+  }, 
+  {
+    "text": "operador", 
+    "size": 16
+  }, 
+  {
+    "text": "week", 
+    "size": 16
+  }, 
+  {
+    "text": "help", 
+    "size": 16
+  }, 
+  {
+    "text": "telecom", 
+    "size": 16
+  }, 
+  {
+    "text": "chromecast", 
+    "size": 16
+  }, 
+  {
+    "text": "tech", 
+    "size": 16
+  }, 
+  {
+    "text": "wa\u2026", 
+    "size": 16
+  }, 
+  {
+    "text": "servicio", 
+    "size": 16
+  }, 
+  {
+    "text": "wi-fi\u7d4c\u7531", 
+    "size": 16
+  }, 
+  {
+    "text": "partnered", 
+    "size": 16
+  }, 
+  {
+    "text": "john", 
+    "size": 16
+  }, 
+  {
+    "text": "according", 
+    "size": 16
+  }, 
+  {
+    "text": "nuevo", 
+    "size": 16
+  }, 
+  {
+    "text": "full", 
+    "size": 16
+  }, 
+  {
+    "text": "hdmi", 
+    "size": 16
+  }, 
+  {
+    "text": "newsmayotte:", 
+    "size": 16
+  }, 
+  {
+    "text": "here's", 
+    "size": 16
+  }, 
+  {
+    "text": "black", 
+    "size": 16
+  }, 
+  {
+    "text": "cellphone", 
+    "size": 16
+  }, 
+  {
+    "text": "won't", 
+    "size": 16
+  }, 
+  {
+    "text": "texas", 
+    "size": 16
+  }, 
+  {
+    "text": "times", 
+    "size": 16
+  }, 
+  {
+    "text": "asus", 
+    "size": 16
+  }, 
+  {
+    "text": "con", 
+    "size": 16
+  }, 
+  {
+    "text": "right", 
+    "size": 16
+  }, 
+  {
+    "text": "at&amp;t,", 
+    "size": 16
+  }, 
+  {
+    "text": "lanza", 
+    "size": 16
+  }, 
+  {
+    "text": "even", 
+    "size": 16
+  }, 
+  {
+    "text": "market", 
+    "size": 16
+  }, 
+  {
+    "text": "amass", 
+    "size": 16
+  }, 
+  {
+    "text": "see", 
+    "size": 16
+  }, 
+  {
+    "text": "virtual", 
+    "size": 16
+  }, 
+  {
+    "text": "tech:", 
+    "size": 16
+  }, 
+  {
+    "text": "isn't", 
+    "size": 15
+  }, 
+  {
+    "text": "carrier,", 
+    "size": 15
+  }, 
+  {
+    "text": "first", 
+    "size": 15
+  }, 
+  {
+    "text": "barron's", 
+    "size": 15
+  }, 
+  {
+    "text": "layanan", 
+    "size": 15
+  }, 
+  {
+    "text": "money", 
+    "size": 15
+  }, 
+  {
+    "text": "operadora", 
+    "size": 15
+  }, 
+  {
+    "text": "telefon\u00eda", 
+    "size": 15
+  }, 
+  {
+    "text": "video", 
+    "size": 15
+  }, 
+  {
+    "text": "cell", 
+    "size": 15
+  }, 
+  {
+    "text": "que", 
+    "size": 15
+  }, 
+  {
+    "text": "wrong", 
+    "size": 15
+  }, 
+  {
+    "text": "math", 
+    "size": 15
+  }, 
+  {
+    "text": "saving", 
+    "size": 15
+  }, 
+  {
+    "text": "upend", 
+    "size": 15
+  }, 
+  {
+    "text": "network:", 
+    "size": 15
+  }, 
+  {
+    "text": "simple", 
+    "size": 15
+  }, 
+  {
+    "text": "trick", 
+    "size": 15
+  }, 
+  {
+    "text": "read", 
+    "size": 15
+  }, 
+  {
+    "text": "getting", 
+    "size": 15
+  }, 
+  {
+    "text": "canada's", 
+    "size": 15
+  }, 
+  {
+    "text": "you?", 
+    "size": 15
+  }, 
+  {
+    "text": "never", 
+    "size": 15
+  }, 
+  {
+    "text": "top", 
+    "size": 15
+  }, 
+  {
+    "text": "service,", 
+    "size": 15
+  }, 
+  {
+    "text": "networks", 
+    "size": 15
+  }, 
+  {
+    "text": "ser", 
+    "size": 15
+  }, 
+  {
+    "text": "proyecto", 
+    "size": 15
+  }, 
+  {
+    "text": "everyone's", 
+    "size": 15
+  }, 
+  {
+    "text": "know", 
+    "size": 15
+  }, 
+  {
+    "text": "story:", 
+    "size": 15
+  }, 
+  {
+    "text": "fi\u300d\u306e\u30ac\u30a4\u30c9\u52d5\u753b2\u672c\u3092\u516c\u958b", 
+    "size": 15
+  }, 
+  {
+    "text": "luncurkan", 
+    "size": 15
+  }, 
+  {
+    "text": "blocking", 
+    "size": 15
+  }, 
+  {
+    "text": "estrena", 
+    "size": 15
+  }, 
+  {
+    "text": "days", 
+    "size": 15
+  }, 
+  {
+    "text": "exactly", 
+    "size": 15
+  }, 
+  {
+    "text": "v\u00eda", 
+    "size": 15
+  }, 
+  {
+    "text": "potential", 
+    "size": 15
+  }, 
+  {
+    "text": "giants", 
+    "size": 15
+  }, 
+  {
+    "text": "gen", 
+    "size": 15
+  }, 
+  {
+    "text": "best", 
+    "size": 15
+  }, 
+  {
+    "text": "como", 
+    "size": 15
+  }, 
+  {
+    "text": "come", 
+    "size": 15
+  }, 
+  {
+    "text": "me370ttablet", 
+    "size": 15
+  }, 
+  {
+    "text": "canada,", 
+    "size": 15
+  }, 
+  {
+    "text": "ting", 
+    "size": 15
+  }, 
+  {
+    "text": "film", 
+    "size": 15
+  }, 
+  {
+    "text": "per", 
+    "size": 15
+  }, 
+  {
+    "text": "past", 
+    "size": 15
+  }, 
+  {
+    "text": "pcworld", 
+    "size": 15
+  }, 
+  {
+    "text": "sneaky", 
+    "size": 15
+  }, 
+  {
+    "text": "celular", 
+    "size": 15
+  }, 
+  {
+    "text": "hidden", 
+    "size": 15
+  }, 
+  {
+    "text": "fi\n", 
+    "size": 15
+  }, 
+  {
+    "text": "one", 
+    "size": 15
+  }, 
+  {
+    "text": "need", 
+    "size": 15
+  }, 
+  {
+    "text": "xperia", 
+    "size": 15
+  }, 
+  {
+    "text": "yang", 
+    "size": 15
+  }, 
+  {
+    "text": "rumored", 
+    "size": 15
+  }, 
+  {
+    "text": "resmi", 
+    "size": 15
+  }, 
+  {
+    "text": "z4,", 
+    "size": 15
+  }, 
+  {
+    "text": "telefonia", 
+    "size": 15
+  }, 
+  {
+    "text": "wonders", 
+    "size": 15
+  }, 
+  {
+    "text": "youtube", 
+    "size": 15
+  }, 
+  {
+    "text": "monty", 
+    "size": 15
+  }, 
+  {
+    "text": "manage", 
+    "size": 15
+  }, 
+  {
+    "text": "use", 
+    "size": 15
+  }, 
+  {
+    "text": "seluler", 
+    "size": 15
+  }, 
+  {
+    "text": "share", 
+    "size": 15
+  }, 
+  {
+    "text": "want", 
+    "size": 15
+  }, 
+  {
+    "text": "needs", 
+    "size": 15
+  }, 
+  {
+    "text": "python", 
+    "size": 15
+  }, 
+  {
+    "text": "mvno", 
+    "size": 15
+  }, 
+  {
+    "text": "importante", 
+    "size": 15
+  }, 
+  {
+    "text": "aniversario", 
+    "size": 15
+  }, 
+  {
+    "text": "releases", 
+    "size": 15
+  }, 
+  {
+    "text": "usage,", 
+    "size": 15
+  }, 
+  {
+    "text": "menarik", 
+    "size": 15
+  }, 
+  {
+    "text": "calls", 
+    "size": 15
+  }, 
+  {
+    "text": "review", 
+    "size": 15
+  }, 
+  {
+    "text": "celebra", 
+    "size": 15
+  }, 
+  {
+    "text": "inc:", 
+    "size": 15
+  }, 
+  {
+    "text": "tablet", 
+    "size": 15
+  }, 
+  {
+    "text": "excited", 
+    "size": 15
+  }, 
+  {
+    "text": "two", 
+    "size": 15
+  }, 
+  {
+    "text": "google,", 
+    "size": 15
+  }, 
+  {
+    "text": "texts", 
+    "size": 15
+  }, 
+  {
+    "text": "videos", 
+    "size": 15
+  }, 
+  {
+    "text": "check", 
+    "size": 15
+  }, 
+  {
+    "text": "sci-fi", 
+    "size": 15
+  }, 
+  {
+    "text": "turns", 
+    "size": 15
+  }, 
+  {
+    "text": "sign", 
+    "size": 15
+  }, 
+  {
+    "text": "app", 
+    "size": 15
+  }, 
+  {
+    "text": "servicios", 
+    "size": 15
+  }, 
+  {
+    "text": "watch:", 
+    "size": 15
+  }, 
+  {
+    "text": "believes", 
+    "size": 15
+  }, 
+  {
+    "text": "bisa", 
+    "size": 15
+  }, 
+  {
+    "text": "conoce", 
+    "size": 15
+  }, 
+  {
+    "text": "good", 
+    "size": 15
+  }
+]
+
+  d3.layout.cloud().size([800, 800])
+      .words(words)
+      .rotate(function() { return ~~(Math.random() * 2) * 90; })
+      .font("Impact")
+      .fontSize(function(d) { return d.size; })
+      .on("end", draw)
+      .start();
+
+  function draw(words) {
+    d3.select("body").append("svg")
+        .attr("width", 1000)
+        .attr("height", 1000)
+      .append("g")
+        .attr("transform", "translate(400,400)")
+      .selectAll("text")
+        .data(words)
+      .enter().append("text")
+        .style("font-size", function(d) { return d.size + "px"; })
+        .style("font-family", "Impact")
+        .style("fill", function(d, i) { return fill(i); })
+        .attr("text-anchor", "middle")
+        .attr("transform", function(d) {
+          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+        })
+        .text(function(d) { return d.text; });
+  }
+</script>
+</body>
+</html>
+

@@ -1,1 +1,14 @@
-[u'http://web.archive.org/web/20150314220543/http://xmoviesforyou.net/*+*+*Sat, 14 Mar 2015 22:05:43 GMT', u'http://web.archive.org/web/20150324122233/http://xmoviesforyou.net/*+*+*Tue, 24 Mar 2015 12:22:33 GMT']
+{"original_uri":"http://www.xmoviesforyou.net/",
+"timegate_uri":"http://timetravel.mementoweb.org/timegate/http://www.xmoviesforyou.net/",
+"mementos": {
+"list": [
+{"datetime":"2015-03-14T22:05:43Z",
+"uri":"http://web.archive.org/web/20150314220543/http://xmoviesforyou.net/"
+},
+{"datetime":"2015-03-24T12:22:33Z",
+"uri":"http://web.archive.org/web/20150324122233/http://xmoviesforyou.net/"
+}
+]
+ },"timemap_uri": {
+"json_format": "http://labs.mementoweb.org/timemap/json/1/http://www.xmoviesforyou.net/"}
+ }
